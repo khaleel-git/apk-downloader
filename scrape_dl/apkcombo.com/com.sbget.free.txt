@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.sbget.free/Bingo%20VPN_1.0.6_apkcombo.com.apk?ecp=Y29tLnNiZ2V0LmZyZWUvMS4wLjYvMTAwMDAwNi43ZDU5NzFjOGQ5YTlmZjljZWM0NDdkOGJlMDk4YjViNTk5MmJhMjU5LmFwaw==&iat=1666176739&sig=587b1abb65fbeb213862b9fc2e8b0fa9&size=22721069&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.sbget.free/Bingo%20VPN%20%7C%20%E9%A5%BC%E5%93%A5%20%E7%BF%BB%E5%A2%99%20%E5%A4%96%E8%B4%B8%20%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%20%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9_1.0.6_apkcombo.com.apk?ecp=Y29tLnNiZ2V0LmZyZWUvMS4wLjYvMTAwMDAwNi43ZDU5NzFjOGQ5YTlmZjljZWM0NDdkOGJlMDk4YjViNTk5MmJhMjU5LmFwaw==&iat=1658341896&sig=6ffde17a5602a16cde7ac2e94af8c3b9&size=22721069&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

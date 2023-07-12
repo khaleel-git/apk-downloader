@@ -1,0 +1,11 @@
+net.ericsson.nro.cx
+com.ericsson.sdap.mplatform
+com.ericssonremoteaccess2.mobile
+com.ericsson.fioriclient
+com.ericsson.android.eda
+net.ericsson.team
+com.meetappevent.ericsson_events
+com.ericsson.emericssonnaevents
+com.ericsson.connection
+com.ericsson.edf.fingerprinter
+com.edugorilla.itplaceericsson

@@ -1,0 +1,248 @@
+{
+    "docid": "com.microsoft.office.powerpoint",
+    "backendDocid": "com.microsoft.office.powerpoint",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Microsoft PowerPoint: Slideshows and Presentations",
+    "creator": "Microsoft Corporation",
+    "descriptionHtml": "Microsoft PowerPoint presents you with a presentation and slides app that you can carry with you wherever you go.<br><br>The PowerPoint app gives you access to the familiar tool you know and love. Create, edit, view, present or share presentations quickly and easily from anywhere.<br><br>Access your most recently used PowerPoint files quickly while on the go. PowerPoint provides a quick view of your recent files for easy access on any device. Syncing is seamless across devices, so you no longer have to worry about multiple file versions when you work on PowerPoint mobile.<br><br>Work with anyone and present to anyone, anywhere, with confidence. With the Microsoft PowerPoint app, your office moves with you.<br><br>Give presentations with training from Presenter Coach, a new AI tool designed to help with public speaking. Practice presentations on your own, in private with the Presenter Coach. Presenter Coach helps you practice your presentations with real-time suggestions to help you adjust your pacing, avoid “umms” and speak confidently.<br><br>PowerPoint lets you make a lasting impression with powerful and customizable presentations that make you stand out. Create and present with confidence, from anywhere. Making an impactful presentation has never been easier. PowerPoint gives you the ability to edit your ppt or pptx files and customize it on the go, collaborating with others in real time.<br><br>Present with confidence<br>Never miss a beat with PowerPoint on the go. This presentation maker gives you the option to create presentations from scratch or continue working on any that are preexisting. Thanks to OneDrive, you can start a presentation on your PC, then edit and present using PowerPoint mobile. Present your point clearly and with confidence using presentation view on any device, all without firing up your laptop. Practice presentations with the Presenter Coach to master public speaking.<br><br>Make a lasting impression<br>A beautifully crafted presentation is always a winner. Become a skilled presentation maker and take advantage of the slides app with access to powerful and highly customizable tools. Create presentations that will leave a lasting impression and help you stand out from the crowd.<br><br>Work with others easily<br><br>PowerPoint makes it easy for you to collaborate with others. With 1-click sharing, quickly invite others to edit, view, or provide feedback on your slides. Easily manage permissions and see who’s working in your presentation. Stay on top of changes and feedback from others with integrated comments within the slides. Compare changes to see how your presentation has evolved over time.<br><br>REQUIREMENTS<br>• 1 GB RAM or above<br><br>To create or edit documents, sign in with a free Microsoft account on devices with a screen size of 10.1 inches or smaller.<br>Unlock the full Microsoft experience with a qualifying Microsoft 365 subscription for your phone, tablet, PC, and Mac.<br> <br>Microsoft 365 subscriptions purchased from the app will be charged to your Play Store account and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand. You can manage your subscriptions in your Play Store account settings. A subscription cannot be cancelled during the active subscription period.<br><br>This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.<br><br>Please refer to Microsoft’s EULA for Terms of Service for Microsoft 365 on Android. By installing the app, you agree to these terms and conditions: http://aka.ms/eula",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/39kRNht1M8sq7sJ0ThXOnKBmcArsfwvSXRfgnTnsZHzBR10OeslT9l1NZwJF-gFm8w",
+            "supportsFifeUrlOptions": true,
+            "color": "#D24726"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/VWbMwD21FfbT7xgJQqd3UTitU_VARfm9MfbVaQTZrqzimeWY-xUUhElowzcVPoF7NA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/tykP_9j6pWFCMI3Mh_HTLE5kD9_G6kvkarrHvr_1CCQT0P1IlEhsjs7lOkqi9FBS2A",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/uxngXS5AA5NffHW1eizW7vOt87NYb7xBtRh7JoV-OSNZnStUDQl34kep7fBzBb68zk8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/2LpW-8OcI82ifzDuoofSry3zV1bupu5w9sZoE8-QrIwr-VvJ8F0rk_5LhRCk32iDIw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/wN0b079JMbU10fkMwgl072NFhBOSAJq_8OUvcB6aWaNbSSdmb3jgldvnBi2JW8bMug",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Microsoft Corporation",
+            "versionCode": 2002413076,
+            "versionString": "16.0.13628.20448",
+            "installationSize": "65408486",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.AUTHENTICATE_ACCOUNTS",
+                "android.permission.CAMERA",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.GET_PACKAGE_SIZE",
+                "android.permission.INTERNET",
+                "android.permission.MANAGE_ACCOUNTS",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_USER_DICTIONARY",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.USE_CREDENTIALS",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "android.permission.WRITE_USER_DICTIONARY",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.android.vending.BILLING",
+                "com.android.vending.CHECK_LICENSE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.microsoft.office.powerpoint.permission.C2D_MESSAGE"
+            ],
+            "developerEmail": "officean@microsoft.com",
+            "developerWebsite": "https://products.office.com",
+            "numDownloads": "1,000,000,000+ downloads",
+            "packageName": "com.microsoft.office.powerpoint",
+            "uploadDate": "Mar 2, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 2002413076,
+                    "size": "65408486"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "65408486",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "One Microsoft Way"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.261226654052734,
+        "ratingsCount": "1929647",
+        "oneStarRatings": "182447",
+        "twoStarRatings": "63586",
+        "threeStarRatings": "124598",
+        "fourStarRatings": "255825",
+        "fiveStarRatings": "1303188",
+        "commentCount": "560363"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjCiCi0IEioCCAkyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjCiCi0IEioCCAkyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact, Digital Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Microsoft Corporation",
+                "url1": "getStream?ecp=CkeKA0QKGQoTNjcyMDg0Nzg3MjU1MzY2MjcyNxAIGAMSJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CkeKA0QKGQoTNjcyMDg0Nzg3MjU1MzY2MjcyNxAIGAMSJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjCiCi0IESoCCAgyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjCiCi0IESoCCAgyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjCiCi0IEioCCAgyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjCiCi0IEioCCAgyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjCiCi0IASoCCAgyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjCiCi0IASoCCAgyJQofY29tLm1pY3Jvc29mdC5vZmZpY2UucG93ZXJwb2ludBABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.microsoft.office.powerpoint",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint",
+    "reviewsUrl": "rev?doc=com.microsoft.office.powerpoint&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$1.00 - $99.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Microsoft Corporation"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "officean@microsoft.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "One Microsoft Way"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jan 6, 2015"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Do your best work with Office, use 💡 features and ✍️ with your 👬",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.microsoft.office.powerpoint"
+}

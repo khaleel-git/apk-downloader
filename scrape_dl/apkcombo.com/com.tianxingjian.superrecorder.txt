@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.tianxingjian.superrecorder/Voice%20Recorder%20Audio%20Sound%20MP3_2.2.1_apkcombo.com.apk?ecp=Y29tLnRpYW54aW5namlhbi5zdXBlcnJlY29yZGVyLzIuMi4xLzIyMjEwLjg0N2EyNTY1OTkyMjBiZTAyNWVkZTgzNDY4Yjc3NmI2YmFlMjQ0YzQuYXBr&iat=1666252042&sig=8593f0da951f789ed16adbb6518fe5a8&size=32142948&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.tianxingjian.superrecorder/Voice%20Recorder:%20MP3%20Audio%20Recorder+Sound%20Recording_2.1.1_apkcombo.com.apk?ecp=Y29tLnRpYW54aW5namlhbi5zdXBlcnJlY29yZGVyLzIuMS4xLzIxMTAuNTRmYjMwYmM2YjQ1ZWU5MmNmYjgzZmM3MGVjYzE1Njc3ZjMzNmNmZi5hcGs=&iat=1656743037&sig=11f8eb51d27f59a912afd85b3519f526&size=35305891&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

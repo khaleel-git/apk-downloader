@@ -1,0 +1,269 @@
+{
+    "docid": "in.mohalla.video",
+    "backendDocid": "in.mohalla.video",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Moj - India's Most Popular Short Video App",
+    "creator": "ShareChat",
+    "descriptionHtml": "Moj is India’s own short video app created locally by ShareChat - a hot new stage to show your flaming talent to the world out there - never ending entertaining videos to watch. We discover new talent every day. New challenges every day. <br><br>🍁 Original Indian Short Videos App <br>🍁 Create Fun Music Videos <br>🍁 Funny Dialogue Dubbing <br>🍁 Watch Real Celeb Videos <br>🍁 Lip-Sync Dubbing Videos <br><br><b>A Short Video Social Community</b><br>People from all over the world gather on Moj app to meet interesting people and watch interesting short videos. Moj is preferred choice of not only for top Indian celebs but also for 7Mn+ influencers. Get a chance to meet tens of millions of talented artists from around the world on Moj app, but also get to make friends with young people from your city or near you!<br><br>More than 7 million talented artists and creators now on Moj<br>■ Watch millions of videos selected specifically for your interest<br>■ Get inspired and entertained by watching millions of videos by a global community of creators<br>■ Dance, Comedy, Vlog, Food, Sports, DIY, Animals, Snake Video, and everything in between. Discover videos from endless categories.<br>■ Browse through the feed on Moj app, Search your favourite videos, get creative and share with your friends and family Instantly.<br>■ On Moj, you can create profile, upload videos, , follow power creators, like videos and share videos in one click.<br><br><b>Full of Features</b><br>■ Moj app has a number of special effects, thousands of stickers, and magical emoticons for your selfies.<br>■ Cutting-edge Magic filters, create exclusive Music Videos with special effects at full sync with the music&#39;s beat!<br>■ Have fun and learn new knowledge from countless high-quality original video content! Discover and share a bigger world now!<br>■ Moj has features like -  edit videos, full features camera filters and editing, and much more.<br>■ Moj app is a global short video creation platform, where everyone has a chance to gain popularity, billions of video views and quickly become the next internet sensation!<br>■ Moj app is a Made In India app for Indian users. Enjoy the fun experience on Moj<br><br><b> Moj App is available in 15 Indian languages</b><br><br>Moj App is available in English, Hindi, Telugu, Marathi, Gujarati, Punjabi, Malayalam, Bengali, Tamil, Kannada, Odia, Bhojpuri, Assamese, Rajasthani, Haryanvi &amp; Urdu! <br><br>🔥Trending on Moj:🔥<br>💕 Beauty<br>💃 Dance<br>👄 Lip-sync<br>🎶 Singing<br>💻 Tech <br>🤣 Jokes<br>🤥 Trick<br>🙌🏽 Challenge<br>🍻 Cooking<br>🤡 Comedy<br>👏🏽 Bollywood<br>🏖 Fashion-style<br><br>Facing an issue?<br>Contact us from Help &amp; Support section of the Moj app. We respond within a few minutes. Alternatively, you can write us to reviews@mojapp.in<br><br>Please share your valuable feedback, if you enjoy using the app, do give us a 5-star rating!",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/6amfmqsm5VT8SW1KS59TXWCPuuG0mKp19HdCXV8AXNL9DYtd3vSjGmRlJlgrgzdv9icg",
+            "supportsFifeUrlOptions": true,
+            "color": "#010101"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Rm535yYyziJ8vWa1kj1xMvOaVN_alHcKcCV-iX_dYz7K2qwvWXrrzoS_eoaRf-NStlY",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1905
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/yhR2EZPfpq54hPD8N8I3GFQN7X8dquPnlbhZXFIG40H0E9fke15OrnIPGpjWMJPo2Qo",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/E_Ap7MiDPuiTyB6amCx8WaNeRNbC4G2qe9LPFJF-CdWB7_A-VNYa0ZMffRQXWyu-uw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/BGk4sr-13VeiMIg5Crm4VF6jyQfyfaRtv5n0wDOLEhigL4SlbGrznZ38bCUtTYvjdg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/gyCnDAlBOsnaFE4elZNxiG3f501x4VDU5mH6LrhxwUqJtLywv8xBgALXrUunpNideRI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/gsBKGCJ9bzPTrCKP7jWaQRKC7Iu7WsKFJ5dZn-6sNoaZm1d3GCtQPuUrrr8pNqIhbA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/BoP2wYm2h6wmY1rdtwgmgKbsPHVJl95wMJZkcwwxJ7xsWUVHAnEX3tIaTpfOMvzrDg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/CCKTpIdMeCAskSBZL1wV2z9J8Q4kRlFxI4KxtKhIXG17vOCrlNLPxKn7CBlVi5l5jfA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 996,
+                "height": 1904
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/5XjuQC9mYWUkv6C6rpAeAJzlMBzzLqDLYcNE6avnHer6hkZx0z6t4shlY3rTHKIcCQ",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "ShareChat",
+            "versionCode": 312,
+            "versionString": "32.3",
+            "installationSize": "115219600",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.BLUETOOTH",
+                "android.permission.CAMERA",
+                "android.permission.CHANGE_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.REQUEST_INSTALL_PACKAGES",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "android.permission.WRITE_SETTINGS",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.truecaller.permission.sdk.internal.read_account_state",
+                "in.mohalla.sharechat.permission.REMOTE_LOGIN",
+                "in.mohalla.video.permission.MIPUSH_RECEIVE"
+            ],
+            "developerEmail": "contact@sharechat.co",
+            "developerWebsite": "https://we.sharechat.com/contact",
+            "numDownloads": "100,000,000+ downloads",
+            "packageName": "in.mohalla.video",
+            "recentChangesHtml": "- Added Clickable Links in bio section<br>- New and Improved Camera with advanced filters<br>- Bug fixes and improvements<br>- Improved Hashtag Page Design would make Creation &amp; Participation very easy for all Creators<br>- Lenses are now more personalised for you!",
+            "uploadDate": "Oct 5, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 312,
+                    "size": "115219600"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown2": "115219600",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "Mohalla Tech Private Limited, 3rd floor, Sri Ranga Building, 2/1 Hosur Main Road, DRC Post, Bengaluru 560029"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.2120490074157715,
+        "ratingsCount": "978150",
+        "oneStarRatings": "118900",
+        "twoStarRatings": "32934",
+        "threeStarRatings": "51701",
+        "fourStarRatings": "92926",
+        "fiveStarRatings": "681687",
+        "commentCount": "326919"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://help.mojapp.in/policies/privacy-policy/",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiGiCh4IEioCCAkyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAkyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by ShareChat",
+                "url1": "getStream?ecp=CjiKAzUKGQoTNTQyNTI5NTY4MzA1ODc4MTcyMxAIGAMSFgoQaW4ubW9oYWxsYS52aWRlbxABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjiKAzUKGQoTNTQyNTI5NTY4MzA1ODc4MTcyMxAIGAMSFgoQaW4ubW9oYWxsYS52aWRlbxABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiGiCh4IESoCCAgyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IESoCCAgyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiGiCh4IEioCCAgyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAgyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiGiCh4IASoCCAgyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IASoCCAgyFgoQaW4ubW9oYWxsYS52aWRlbxABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=in.mohalla.video",
+    "shareUrl": "https://play.google.com/store/apps/details?id=in.mohalla.video",
+    "reviewsUrl": "rev?doc=in.mohalla.video&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "ShareChat"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "contact@sharechat.co"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Mohalla Tech Private Limited, 3rd floor, Sri Ranga Building, 2/1 Hosur Main Road, DRC Post, Bengaluru 560029"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Nov 8, 2020"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Moj App is the best Indian Short Videos App. Find latest trendy videos",
+    "reviewQuestionsUrl": "reviewQuestions?doc=in.mohalla.video"
+}

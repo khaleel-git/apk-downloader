@@ -1,0 +1,332 @@
+{
+    "docid": "videoeditor.videorecorder.screenrecorder",
+    "backendDocid": "videoeditor.videorecorder.screenrecorder",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Screen Recorder - XRecorder",
+    "creator": "InShot Inc.",
+    "descriptionHtml": "<b>NO watermark</b><br><b>NO root needed</b><br><b>NO recording time limit</b><br><br>Screen Recorder helps you capture <b><font color=\"#D2001E\">smooth &amp; clear</font></b> screen videos, screenshots in the easiest way. Just with a tap on the floating window, you can record HD video tutorial, video calls and <b><font color=\"#D2001E\">videos that can not be downloaded</font></b> even. And you will never miss <b><font color=\"#D2001E\">live game shows</font></b>, and important moments anymore.<br><br>Download the best screen recorder to capture anything as you like!<br><br>🏅<b>TOP FEATURES</b>:<br>● Capture screen to take a clear <b>Screenshot</b><br>● Record <b>Gameplay</b> on your phone<br>● <b>Internal audio recording</b> without noise (ONLY Android 10 or above)<br>● YouTube &amp; RTMP Live stream: be a gaming streamer to gain fun and popularity<br>● <b>Video Editor</b>: trim, <b>remove the middle part, add music</b> and speed control<br>● Export <b>Full HD</b> video with custom settings: <b>240p to 1080p, 60FPS, 12Mbps</b><br>● <b>No watermark</b>: record a clean video &amp; screenshot<br>● No recording time limits &amp; No root needed<br>● <b>Floating window</b>: One touch to snap the exact moment or hide it when it’s not needed<br>● <b>Countdown timer</b>: to be a fully prepared recorder<br>● Alternative storage location: internal storage/ <b>SD card</b><br>● Easy to pause/resume recording, rotate screen<br><br>✨<b>Coming soon</b>:<br>+ Video editing: transition, add background music, add stickers, etc.<br>+ Volume adjustment: volume adjustment for different audio sources<br><br>📼<b>Free Screen Recorder in FULL HD</b><br>Screen Video Recorder - XRecorder supports recording game screen in the highest quality, 1080p, 12Mbps, 60FPS. Of course, you can record screen with adjustable resolution(240p to 1080p), quality, and FPS(15FPS to 60FPS).<br><br>🎬<b>Full-featured Video Editor</b><br>XRecorder provides full-featured video editing: trim, merge, and remove the middle part to guarantee your video quality. Besides, speeding up, slowing down and adding music are also available to make your video more attractive.<br><br>🏆<b>Game Recorder with no Time Limit</b><br>This screen recorder - XRecorder is also a convenient game recorder and screen capture tool. It helps you capture screen, record screen and record gameplay video without recording time limit.<br><br>📹<b>Screen Video Recorder with no Watermark</b><br>Still find a screen capture tool without watermark? Download this video recorder to capture screen in a cleaner way. If you want to capture screen, record screen or take a screenshot efficiently, it is a must-have screen recorder.<br><br>🎧<b>Screen Recorder with Sound</b><br>Want to record gameplay, video tutorial with sound? This powerful screen recorder with sound is your best choice. It will record your voice fluidly and clearly.<br><br>🎉<b>Screen Recorder with Facecam</b><br>Screen Recorder with Facecam helps you record your face and reaction in a small overlay window. It can be dragged freely to any position on the screen and customized to any size.<br><br>🔊<b>Screen Recorder with Audio</b><br>It is also a well functional screen recorder with audio, screen recorder with sound. Download this fantastic screen recorder with audio to record your own video now.<br><br>---------App access rights<br>To experience all features of Screen Recorder - Video Recorder, please agree the permissions as follows:<br>- Storage: Used for saving and editing recorded video &amp; screenshot files.<br>- Microphone: Used for sound recording function during screen recording.<br>- Camera: Used for Facecam function.<br>- Draw over top of other apps: To open XRecorder&#39;s Pop-up Circle, you need to grant permission to draw over top of other apps from the background.<br><br>Please be ensured that the request is for recording screen ONLY. Screen Recorder will NEVER do harm to our users.<br><br>Thanks for downloading Screen Recorder - Video Recorder. And if you want to get support and share your ideas with more friends or have any feedback:<br>Join us at: https://www.reddit.com/r/XRecorder/<br>Email us at: xrecorder.feedback@gmail.com",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/n08rL_T2TBDr4_-bHa71RX2dYf8IQXCF52mp11k0W54-fyEIf9DYRsvdsncFiBXi68WR",
+            "supportsFifeUrlOptions": true,
+            "color": "#FC7312"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/RX8RBGnnxFgncaU649msEAdLpQmXiSlzAZrjOtdSnvyptB16wWlQNFdRrMWNSdkIQ2tn",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://youtu.be/oBBvOuoQS8Q"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/oBBvOuoQS8Q/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1600,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/r0V972X6w8zap5nnodNiPm7B6E19FB4At69YiX4PlJ1dnpWnXQwUzGPg1oVUqDF1V0tV",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1200,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Ib54mAyfqXnQHAfyUVyp6IxdxA6kC9xFGPwAFbsm8lGDuwzztEpLdgqahwYnuOr2mCA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/4kVvrNUOFamr4QRUm6zDSbHhIJaNtfgX5tr7ZsYcYlQYYPruNLYgRiVx9On1vgTlaA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/z8xH6TZ4IkNpaB75P70RHpYVBKaQ3rMIDQ8a64jJIL8w5Fy-h6oZIbZu5IyiZXMjhQLj",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/0cRoBdlANgadmbUAnHjGWws1VyNkOak0BVrTqgK-Aa2uMtekyOkVV0yVo2bvyvMUIw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/A40GiZAFygmAAVUhFJmDSF2e1jAdZDyNNXxSHQnPuj9Nrae6vx10ILUxuCQBI53FOs4",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/GpPEyUF-IlSsO4MG7ELe-TRqK_Nl-58dX2QjB88mPHril5fLFhvk1hU6zy39_Clcxu_M",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/zhSPER2MRJlB0xpKxNfVn1jiBG1LzRoc77DuW6-wDWoYcgJ_8xeAyc5ZNzTWq_KpBw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/TOITiXcA6TsynCE1ADcsv4wHb-0R4f12NPdh-znAVCmIPCZyAI_-ScY6pI8tQquH77Q",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "InShot Inc.",
+            "versionCode": 211100,
+            "versionString": "2.1.1.1",
+            "installationSize": "30530776",
+            "permission": [
+                "android.hardware.sensor.accelerometer",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.BLUETOOTH",
+                "android.permission.CAMERA",
+                "android.permission.EXPAND_STATUS_BAR",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.INTERNET",
+                "android.permission.KILL_BACKGROUND_PROCESSES",
+                "android.permission.PACKAGE_USAGE_STATS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_LOGS",
+                "android.permission.RECEIVE_USER_PRESENT",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.anddoes.launcher.permission.READ_SETTINGS",
+                "com.anddoes.launcher.permission.WRITE_SETTINGS",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.android.launcher.permission.READ_SETTINGS",
+                "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+                "com.android.launcher.permission.WRITE_SETTINGS",
+                "com.android.launcher2.permission.READ_SETTINGS",
+                "com.android.launcher2.permission.WRITE_SETTINGS",
+                "com.android.launcher3.permission.READ_SETTINGS",
+                "com.android.launcher3.permission.WRITE_SETTINGS",
+                "com.android.mylauncher.permission.READ_SETTINGS",
+                "com.android.mylauncher.permission.WRITE_SETTINGS",
+                "com.android.vending.BILLING",
+                "com.ebproductions.android.launcher.permission.READ_SETTINGS",
+                "com.ebproductions.android.launcher.permission.WRITE_SETTINGS",
+                "com.fede.launcher.permission.READ_SETTINGS",
+                "com.fede.launcher.permission.WRITE_SETTINGS",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.htc.launcher.permission.READ_SETTINGS",
+                "com.htc.launcher.permission.WRITE_SETTINGS",
+                "com.huawei.android.launcher.permission.READ_SETTINGS",
+                "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                "com.huawei.launcher2.permission.READ_SETTINGS",
+                "com.huawei.launcher2.permission.WRITE_SETTINGS",
+                "com.huawei.launcher3.permission.READ_SETTINGS",
+                "com.huawei.launcher3.permission.WRITE_SETTINGS",
+                "com.lge.launcher.permission.READ_SETTINGS",
+                "com.lge.launcher.permission.WRITE_SETTINGS",
+                "com.oppo.launcher.permission.READ_SETTINGS",
+                "com.oppo.launcher.permission.WRITE_SETTINGS",
+                "com.qihoo360.launcher.permission.READ_SETTINGS",
+                "com.qihoo360.launcher.permission.WRITE_SETTINGS",
+                "com.sec.android.app.twlauncher.settings.READ_SETTINGS",
+                "com.sec.android.app.twlauncher.settings.WRITE_SETTINGS",
+                "com.tencent.qqlauncher.permission.READ_SETTINGS",
+                "com.tencent.qqlauncher.permission.WRITE_SETTINGS",
+                "dianxin.permission.ACCESS_LAUNCHER_DATA",
+                "net.qihoo.launcher.permission.READ_SETTINGS",
+                "net.qihoo.launcher.permission.WRITE_SETTINGS",
+                "org.adw.launcher.permission.READ_SETTINGS",
+                "org.adw.launcher.permission.WRITE_SETTINGS",
+                "org.adw.launcher_donut.permission.READ_SETTINGS",
+                "org.adw.launcher_donut.permission.WRITE_SETTINGS",
+                "org.adwfreak.launcher.permission.READ_SETTINGS",
+                "org.adwfreak.launcher.permission.WRITE_SETTINGS",
+                "telecom.mdesk.permission.READ_SETTINGS",
+                "telecom.mdesk.permission.WRITE_SETTINGS"
+            ],
+            "developerEmail": "cameras.ideas@gmail.com",
+            "developerWebsite": "http://inshotapp.com",
+            "numDownloads": "100,000,000+ downloads",
+            "packageName": "videoeditor.videorecorder.screenrecorder",
+            "recentChangesHtml": "🌟New<br>- Customize floating ball: Show time or minimize when recording &amp; Replace button function.<br><br>✅Improvements<br>- YouTube Live Stream problem fixed!<br>- Better UI interface.<br>- Better recording experience.<br>- Other bug fixes and performance improvements.<br><br>Update XRecorder to start a better recording experience!<br><br>Join us at: https://www.reddit.com/r/XRecorder/<br>Email us at: xrecorder.feedback@gmail.com",
+            "uploadDate": "Sep 16, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 211100,
+                    "size": "30530776"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "30530776",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "2801 Alton Parkway #305 Irvine CA 92606, United States of America"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.7547125816345215,
+        "ratingsCount": "4205803",
+        "oneStarRatings": "137820",
+        "twoStarRatings": "35633",
+        "threeStarRatings": "75088",
+        "fourStarRatings": "223270",
+        "fiveStarRatings": "3733990",
+        "commentCount": "2106151"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://inshotapp.com/website/policy.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjmiCjYIEioCCAkyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjmiCjYIEioCCAkyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by InShot Inc.",
+                "url1": "getStream?ecp=ClCKA00KGQoTNzI0MDg4MzQ5MTI0NDczMjAyNBAIGAMSLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=ClCKA00KGQoTNzI0MDg4MzQ5MTI0NDczMjAyNBAIGAMSLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjmiCjYIESoCCAgyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjmiCjYIESoCCAgyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjmiCjYIEioCCAgyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjmiCjYIEioCCAgyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjmiCjYIASoCCAgyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjmiCjYIASoCCAgyLgoodmlkZW9lZGl0b3IudmlkZW9yZWNvcmRlci5zY3JlZW5yZWNvcmRlchABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=videoeditor.videorecorder.screenrecorder",
+    "shareUrl": "https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder",
+    "reviewsUrl": "rev?doc=videoeditor.videorecorder.screenrecorder&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$3.99 - $16.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "InShot Inc."
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "cameras.ideas@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "2801 Alton Parkway #305 Irvine CA 92606, United States of America"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "May 10, 2019"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Screen recorder with audio to take live videos& Screenshot in high quality!",
+    "reviewQuestionsUrl": "reviewQuestions?doc=videoeditor.videorecorder.screenrecorder"
+}

@@ -1,0 +1,270 @@
+{
+    "docid": "com.adobe.reader",
+    "backendDocid": "com.adobe.reader",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Adobe Acrobat Reader: Edit PDF",
+    "creator": "Adobe",
+    "descriptionHtml": "Do you need to work with documents on the go? Get the Adobe Acrobat Reader mobile app, the world’s most trusted PDF viewer, with more than 635 million installs. Store your files online and read PDF files anywhere with this leading, free PDF reader and file manager. You can also view, share, annotate, and add e-signatures to PDF documents.<br><br>Subscribe to Adobe Acrobat if you need a PDF editor to edit text and images, a PDF converter to export to and from PDF, or more advanced features to create PDFs, combine PDF documents, organize PDFs, and more.<br><br>VIEW AND PRINT PDFs<br>• Open and view PDFs with the free Adobe PDF viewer app.<br>• Choose Single Page or Continuous scroll mode. <br>• Help save battery with dark mode.<br>• Print documents directly from your device.<br><br>READ PDFs MORE EASILY<br>• Get the best PDF reading experience with Liquid Mode. <br>• Content in your PDF document reflows to fit your screen.<br>• Use the Liquid Mode outline for quick navigation. <br>• Search to find text fast in your PDF documents. <br><br>SHARE PDFs AND COLLABORATE<br>• Share files for commenting or viewing.<br>• Collect comments from multiple people in one file online.<br>• Speed document reviews by responding to each other’s comments.<br>• Receive activity notifications for files you’ve shared.<br><br>ANNOTATE PDFs<br>• Add PDF notes and comments, including sticky notes and highlights.<br>• Write on PDF documents by adding text or drawings. <br>• Share a file with others to collect all comments in one place. <br><br>EDIT PDFs<br>• Subscribe to edit text and images directly in your PDF.<br>• Fix a typo or add a paragraph with the paid PDF editor feature. <br>• Add, delete, or rotate an image with your upgraded Acrobat PDF app.<br><br>FILL AND SIGN FORMS<br>• Easily fill in PDF forms with the form filler feature.<br>• E-sign documents using your finger or stylus. <br><br>STORE AND MANAGE FILES<br>• Sign in to your free account to store and access files across devices.<br>• Access all your files by linking online storage accounts, like Microsoft OneDrive, Dropbox, or Google Drive. <br>• Star files to quickly open your most important or favorite documents. <br><br>CONNECT TO GOOGLE DRIVE<br>• Connect your Google Drive account to access PDFs and other files with ease.<br>• View, share, and star Google Drive files directly in Acrobat Reader.<br>• Create, edit, combine, compress, and export Google Drive files with a subscription.<br><br>WORK WITH SCANNED DOCUMENTS<br>• Access scanned PDFs that you’ve captured using the free Adobe Scan app. <br>• Open your scans in Adobe Acrobat Reader to fill, sign, comment, and share. <br><br>IN-APP PURCHASE<br>Subscribe for even more PDF power. Subscriptions work across mobile and web. <br>• Edit text and images right in your PDF document (mobile only).<br>• Combine files into one PDF file and organize pages. <br>• Create PDF files from documents or images. <br>• Export PDFs to Microsoft Word, Excel, or PowerPoint.<br>• Compress PDF files to reduce file size.<br>• Protect PDF documents by adding passwords.<br><br>The Acrobat Reader mobile app is designed to work with customers who have Enterprise Mobility Management (EMM) enabled. <br><br>Terms &amp; Conditions: <br>Your use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_en<br><br>Do Not Sell My Personal Information: https://www.adobe.com/go/ca-rights<br><br>The Adobe Acrobat Reader PDF creator and document editor app puts your office in your pocket. View, annotate, fill, sign, and share PDF files with the free Adobe PDF reader. Convert JPG files to PDF format, create and sign fillable PDF forms, and add your e-signature to shared documents. Working with PDF documents has never been so easy.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/_F8Xf7mw7Sh1v_AmkN3G7Z4QhSg-uXAebkCD9h3VTfNbfKekMj80UhJUrS4aq6HX_8Nc",
+            "supportsFifeUrlOptions": true,
+            "color": "#FC8D76"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/nufRXPpDI9XP8mPdAvOoJULuBIH_OK4YbZZVu8i_-eDPulZpgb-Xp-EmI8Z53AlXHpqX",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/knkhf7cv3Y76t0U3dE_WTR9ezgcpWk6e3HKbzBrH0LL-o8BnGvEOf2flXppt3t9k5eEQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/sJMvJ54DhsZVuPC1U7YypaUWcZDnHim0_GMQsNMzDlIype1pveGJ7DaT-NxB3rKjGw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/UztWJTtYsbBiGUovyqB0Rze3Ka71mRUW38WAK_AKgX27Glsl2WBXGGF76S9HVSMNMb8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ehTVuaXVHuYLx4cDAFVRPDwG70VRydMaAnZurn0E-QpEKAi6SBTzv6pc7CGr898cn0E",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/kZfydsZICtA3b2VcgmIwUN5-tB-ao4mJ261Q5k3XH47Zx9_gKfTtCyEckFrqqq94liw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/fWEHmOqOA6J8SnsM_lVHuyybbeOt0PrjU9SV-Kmnl6q3YHIKW2N4iL8tdzO3QXc-Kkj2",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/P22fDNMoEjrHLnBX2xt3gATJkLKCouBpJoYUoYukC6vDSoxQ4eBtvRwiiYFSPn08U-I",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1200
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/NRgw38jOSo0zLcBOmPFiDxVhTzmWBhoHun9hyi557CTS8W6GfXpuNylcHxUncu1Kwls",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Adobe",
+            "versionCode": 1921718750,
+            "versionString": "21.7.0.18750",
+            "installationSize": "578032680",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.AUTHENTICATE_ACCOUNTS",
+                "android.permission.CAMERA",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.INTERNET",
+                "android.permission.MANAGE_ACCOUNTS",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.USE_CREDENTIALS",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.samsung.android.iap.permission.BILLING"
+            ],
+            "developerEmail": "acrobat-android-support@adobe.com",
+            "developerWebsite": "https://helpx.adobe.com/acrobat/mobile-app-faq.html",
+            "numDownloads": "500,000,000+ downloads",
+            "packageName": "com.adobe.reader",
+            "recentChangesHtml": "21.7.0<br>IMPROVED:<br>• Performance and stability.",
+            "uploadDate": "Aug 3, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 1921718750,
+                    "size": "578032680"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "578032680",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "Adobe Inc.<br/>345 Park Avenue<br/>San Jose, CA 95110-2704"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.593109130859375,
+        "ratingsCount": "4804690",
+        "oneStarRatings": "190912",
+        "twoStarRatings": "48365",
+        "threeStarRatings": "165420",
+        "fourStarRatings": "715395",
+        "fiveStarRatings": "3684595",
+        "commentCount": "1015202"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://www.adobe.com/privacy/policy.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiGiCh4IEioCCAkyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAkyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Digital Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Adobe",
+                "url1": "getStream?ecp=CjiKAzUKGQoTNDczNDkxNjg1MTI3MDQxNjAyMBAIGAMSFgoQY29tLmFkb2JlLnJlYWRlchABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjiKAzUKGQoTNDczNDkxNjg1MTI3MDQxNjAyMBAIGAMSFgoQY29tLmFkb2JlLnJlYWRlchABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiGiCh4IESoCCAgyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IESoCCAgyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiGiCh4IEioCCAgyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAgyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiGiCh4IASoCCAgyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IASoCCAgyFgoQY29tLmFkb2JlLnJlYWRlchABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.adobe.reader",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.adobe.reader",
+    "reviewsUrl": "rev?doc=com.adobe.reader&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $99.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Adobe"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "acrobat-android-support@adobe.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Adobe Inc.<br/>345 Park Avenue<br/>San Jose, CA 95110-2704"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "May 24, 2010"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Sign PDFs on the screen for free. Effortlessly fill in, send & receive files.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.adobe.reader"
+}

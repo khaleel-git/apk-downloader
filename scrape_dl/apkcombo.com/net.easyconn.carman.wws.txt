@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/net.easyconn.carman.wws/CarbitLink-EasyConnection_4.1_apkcombo.com.apk?ecp=bmV0LmVhc3ljb25uLmNhcm1hbi53d3MvNC4xLzUyNy5jY2JjNmY0NGIzZjJkYjM3ZmIxOTVhMDRiNGUzOTRmNGViZTFjMWY1LmFwaw==&iat=1661322914&sig=bc8bceca3394889833f32904de78c6d4&size=62197671&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/net.easyconn.carman.wws/CarbitLink-EasyConnection_4.1_apkcombo.com.apk?ecp=bmV0LmVhc3ljb25uLmNhcm1hbi53d3MvNC4xLzUyNy5jY2JjNmY0NGIzZjJkYjM3ZmIxOTVhMDRiNGUzOTRmNGViZTFjMWY1LmFwaw==&iat=1659142594&sig=27ea975badddd92b447b00535f7d720c&size=62197671&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

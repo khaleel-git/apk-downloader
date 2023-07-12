@@ -1,0 +1,215 @@
+{
+    "docid": "com.adsk.sketchbook",
+    "backendDocid": "com.adsk.sketchbook",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Sketchbook",
+    "creator": "Sketchbook",
+    "descriptionHtml": "From quick sketches to fully finished artwork, Sketchbook goes where your creativity takes you.<br> <br>Sketchbook is an award-winning sketching, painting, and drawing app for anyone who loves to draw. Artists and illustrators love Sketchbook for its professional-grade feature set and highly customizable tools. Everyone loves Sketchbook for its elegant interface and natural drawing experience, free of distractions so you can focus on capturing and expressing your ideas.<br><br>•\tA full complement of brush types: pencils markers, airbrushes, smear and more that look and feel just like their physical counterparts<br>•\tBrushes are highly customizable so you can create just the look you want<br>•\tGuides, rulers and stroke tools support precision when you need it<br>•\tLayers with a full complement of blend modes deliver the flexibility to build up and explore drawings and color<br>•\tPurpose-built for sketching, the interface is clean and unobtrusive so you can focus on drawing",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/XRH363oZsnXddWugXnTiqJDg9BmKAWnWVNM7oQkT3DybNRfDppJqQRJx79L7HNwDYeA",
+            "supportsFifeUrlOptions": true,
+            "color": "#F3F0EF"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/NIhaPLVMl69snWk7IOWADeBwU-8FG5VL1q41_fmd6TVa4FEIqXQw3Ar3BovrXvza2Q",
+            "supportsFifeUrlOptions": true,
+            "color": "#E56738"
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1800
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/KKMLwT4nZPxA5OmrCq3Zf_jAdOJsx-B8G2LRzdDtyOFcOFvbsC3VwCwffCuq7rOjfQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2048,
+                "height": 1536
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/bPFRMxFu5RYWl_mRoqafXOQmSyjIEg4u9qu-r2XnpRITmc8KtQOzxdb89JkHFDMzwtA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2048,
+                "height": 1536
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/iQXkiRZnSB4pIx1aPSPq10eB-TcAjG0O7byj_eTJ_NZoZ72mIn_ZlDDYKMIpujf5NanP",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2048,
+                "height": 1536
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/sVRH8fYzHEPR8UWnODqkGtQv3hk8fY20C4phCb7RvOBnSfk4FPwrmFlCD7W2SrwoP9E",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2048,
+                "height": 1536
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/6L4JOt4VUBWJBVR0nl51tJ23SumKZFszrQt1v5A-PPQEelaBLOPUfQ8ecfrXn2ZfcMM",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Sketchbook",
+            "versionCode": 453889,
+            "versionString": "5.2.5",
+            "installationSize": "102574097",
+            "permission": [
+                "android.hardware.camera.autofocus",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.CAMERA",
+                "android.permission.INTERNET",
+                "android.permission.MANAGE_DOCUMENTS",
+                "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.WRITE_EXTERNAL_STORAGE"
+            ],
+            "developerEmail": "support@sketchbook.com",
+            "developerWebsite": "https://www.sketchbook.com",
+            "numDownloads": "50,000,000+ downloads",
+            "packageName": "com.adsk.sketchbook",
+            "recentChangesHtml": "•\tFixed crashes caused by pen hover.<br>•\tResolved issues on Android 11 devices preventing access of files in Gallery. Users will be prompted to enable permissions prior to launching Sketchbook.",
+            "uploadDate": "Jul 2, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 453889,
+                    "size": "102574097"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "102574097",
+                "unknown3": 29
+            },
+            "developerAddress": "1005 Northgate Drive #238, San Rafael CA 94903"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.086849,
+        "ratingsCount": "496745",
+        "oneStarRatings": "67454",
+        "twoStarRatings": "21455",
+        "threeStarRatings": "33282",
+        "fourStarRatings": "52850",
+        "fiveStarRatings": "321699",
+        "commentCount": "193862"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.autodesk.com/privacy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiSiCiEIEioCCAkyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiSiCiEIEioCCAkyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Digital Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Sketchbook",
+                "url1": "getStream?ecp=CjuKAzgKGQoTNjk3NjI5NTg5ODgzMTU4NTc4ORAIGAMSGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjuKAzgKGQoTNjk3NjI5NTg5ODgzMTU4NTc4ORAIGAMSGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiSiCiEIESoCCAgyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiSiCiEIESoCCAgyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiSiCiEIEioCCAgyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiSiCiEIEioCCAgyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiSiCiEIASoCCAgyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiSiCiEIASoCCAgyGQoTY29tLmFkc2suc2tldGNoYm9vaxABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.adsk.sketchbook",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.adsk.sketchbook",
+    "reviewsUrl": "rev?doc=com.adsk.sketchbook&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Sketchbook"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "support@sketchbook.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "1005 Northgate Drive #238, San Rafael CA 94903"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Oct 8, 2014"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Sketch and paint on your device with the feel and freedom of drawing on paper",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.adsk.sketchbook"
+}

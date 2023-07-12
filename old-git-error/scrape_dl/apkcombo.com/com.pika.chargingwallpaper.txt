@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.pika.chargingwallpaper/Pika!%20Charging%20wallpaper%20-%20charging%20animation_1.0.6_apkcombo.com.apk?ecp=Y29tLnBpa2EuY2hhcmdpbmd3YWxscGFwZXIvMS4wLjYvNy4zYWRmMzE3OTNmMGFhNWRiODA4YTQyYmZmZTcwODE0ZWRhOGU1MjRhLmFwaw==&iat=1661467215&sig=c51adb9b29b538b32f2942727c8ce49f&size=23580622&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.pika.chargingwallpaper/Pika!%20Charging%20wallpaper%20-%20charging%20animation_1.0.5_apkcombo.com.apk?ecp=Y29tLnBpa2EuY2hhcmdpbmd3YWxscGFwZXIvMS4wLjUvNi5jZDJiYjM1ZWY1OTlmODE0Y2U4ZWViYjc5NTJkMGVlMTcxZWY4ODcxLmFwaw==&iat=1655474972&sig=88bc1b59893e76295a5dd1c641482070&size=23535458&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

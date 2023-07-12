@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/geektech.technewsapp/Geek%20Tech%20-%20High%20Tech%20News_3.0.3_apkcombo.com.apk?ecp=Z2Vla3RlY2gudGVjaG5ld3NhcHAvMy4wLjMvNzEuODIyY2E0YWM2YzNiMjZiNTIzZWIyYWY0NjlmZTgyOTAyNTRmNGI5My5hcGs=&iat=1666409208&sig=6fd91e198c6e97e9c1444c2c04e1551a&size=32917803&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/geektech.technewsapp/Geek%20Tech%20-%20High%20Tech%20News_3.0.3_apkcombo.com.apk?ecp=Z2Vla3RlY2gudGVjaG5ld3NhcHAvMy4wLjMvNzEuODIyY2E0YWM2YzNiMjZiNTIzZWIyYWY0NjlmZTgyOTAyNTRmNGI5My5hcGs=&iat=1656805953&sig=f17bb314f3cab885519162fd48a8ffaf&size=32917803&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

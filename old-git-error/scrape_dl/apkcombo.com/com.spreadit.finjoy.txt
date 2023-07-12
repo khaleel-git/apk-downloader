@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.spreadit.finjoy/Finjoy%20-%20Refer%20and%20Earn_2.1.0_apkcombo.com.apk?ecp=Y29tLnNwcmVhZGl0LmZpbmpveS8yLjEuMC8yOS42NzJlNTUxNjExNjE3NmU1ODY4NjcxMjUxOTFiMjUwNjllYmUwY2YyLmFwaw==&iat=1662041995&sig=694c9ee60189811b3a3199834385c913&size=68788310&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.spreadit.finjoy/Finjoy%20-%20Refer%20and%20Earn_2.0.8_apkcombo.com.apk?ecp=Y29tLnNwcmVhZGl0LmZpbmpveS8yLjAuOC8yOC44NjM0Njk0MTQ4Y2U5OTIxMjRiOGYwOWM5YTc4ZjQzMGE3ZWJhMTA4LmFwaw==&iat=1658547473&sig=58fbce47e0cc95c74ffbb2ca1b2aab67&size=67524889&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

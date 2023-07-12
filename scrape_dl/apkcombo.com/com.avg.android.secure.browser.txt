@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.avg.android.secure.browser/AVG%20Secure%20Browser_7.0.0_apkcombo.com.apk?ecp=Y29tLmF2Zy5hbmRyb2lkLnNlY3VyZS5icm93c2VyLzcuMC4wLzQzNzAuNWI4MWFkNzc1NTVjNDYxZDlkMDQyMWQ3MDVhZWU5YTNlMWM2ZjhlMi5hcGs=&iat=1666128836&sig=3a649d343304b4f46db2ce8d9951afae&size=181269408&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.avg.android.secure.browser/AVG%20Secure%20Browser_6.8.0_apkcombo.com.apk?ecp=Y29tLmF2Zy5hbmRyb2lkLnNlY3VyZS5icm93c2VyLzYuOC4wLzQxMzAuMzJhN2JmMDcyOTRlZTgzODVhYjg5NmQ2MTMzOWYxYWJiNjRlZDM4YS5hcGs=&iat=1655332339&sig=49a0c614b08dee4f3405138111476dc4&size=162601104&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

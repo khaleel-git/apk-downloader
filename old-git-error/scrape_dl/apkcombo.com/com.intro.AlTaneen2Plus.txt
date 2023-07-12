@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.intro.AlTaneen2Plus/AlTaneen%202%20Plus_1.0_apkcombo.com.apk?ecp=Y29tLmludHJvLkFsVGFuZWVuMlBsdXMvMS4wLzEuYTU4YTRlYjIzNTQ0ZjY0ZGYzMmJiMmJkY2UyZWExOGE1OWJlZDMzZS5hcGs=&iat=1664927998&sig=e2d4e39ede1a1bdad46abdfe6d308781&size=20253740&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.intro.AlTaneen2Plus/AlTaneen%202%20Plus_1.0_apkcombo.com.apk?ecp=Y29tLmludHJvLkFsVGFuZWVuMlBsdXMvMS4wLzEuYTU4YTRlYjIzNTQ0ZjY0ZGYzMmJiMmJkY2UyZWExOGE1OWJlZDMzZS5hcGs=&iat=1657714948&sig=e3c254c2cdbb80982cb1819eb203ba77&size=20253740&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

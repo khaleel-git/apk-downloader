@@ -262,11 +262,7 @@ function jsload(t, e, o) {
 						</select>
 </div>
 </li>
-<<<<<<< HEAD
 <li style="display:none"><div>Architecture</div>
-=======
-<li><div>Architecture</div>
->>>>>>> origin/master
 <div>
 		<select name="device_id" id="device_id" aria-label="Android Architecture">
 			<option value="armeabi-v7a" selected>Default</option>
@@ -293,7 +289,6 @@ function jsload(t, e, o) {
 		</select>
 </div>
 </li>
-<<<<<<< HEAD
 <li><div>Fresh Result</div>
     <div>
             <select name="fresh_result" id="fresh_result_id" aria-label="Fresh Result">
@@ -302,8 +297,6 @@ function jsload(t, e, o) {
             </select>
     </div>
     </li>
-=======
->>>>>>> origin/master
 <li id="mdl" style="display:none">
 <div>Model</div>
 
@@ -439,17 +432,10 @@ function jsload(t, e, o) {
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<<<<<<< HEAD
 <div id="disqus_thread">
 
     <div id="disqus_thread_loader">Loading Comments</div>
 </div> 
-=======
-<!-- <div id="disqus_thread">
-
-    <div id="disqus_thread_loader">Loading Comments</div>
-</div>  -->
->>>>>>> origin/master
 
 <div class="static_s" style="background-color: white !important">
 		<h2 >Free Download APK from Google Play</h2>
@@ -724,18 +710,12 @@ var av = document.getElementById("av").value;
 var model = document.getElementById("model").value;
 var device_id = document.getElementById("device_id").value;
 var av_u = document.getElementById("av_u").value;
-<<<<<<< HEAD
 var fresh_result = document.getElementById("fresh_result_id").value;
 ddea_o.style.display = "block";
 // ajax('https://apkfuel.com/apk-downloader/play_api_helper.php','url='+a+'&x=downloader&tbi='+tb+'&av_u='+av_u+'&device_id='+device_id+'&model='+encodeURI(model)+'&hl=en&de_av=&android_ver='+av);
 // ajax('https://apkfuel.com/apk-downloader/helper.php','url='+a+'&av_u='+av_u+'&device_id='+device_id+'&model='+encodeURI(model)+'&hl=en&de_av=&android_ver='+av);
 ajax('https://apkfuel.com/apk-downloader/helper.php','url='+a+'&fresh_result='+fresh_result);
 
-=======
-ddea_o.style.display = "block";
-// ajax('https://apkfuel.com/apk-downloader/play_api_helper.php','url='+a+'&x=downloader&tbi='+tb+'&av_u='+av_u+'&device_id='+device_id+'&model='+encodeURI(model)+'&hl=en&de_av=&android_ver='+av);
-ajax('https://apkfuel.com/apk-downloader/helper.php','url='+a+'&av_u='+av_u+'&device_id='+device_id+'&model='+encodeURI(model)+'&hl=en&de_av=&android_ver='+av);
->>>>>>> origin/master
 });
 
 function zip_apk(key)
@@ -809,8 +789,4 @@ else{accordionItemBody.style.maxHeight=0;}});});
 </script>
 <!-- end of adsense lazy load -->
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> origin/master

@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 06:40:51 GMT
+Date: Tue, 11 Jul 2023 06:40:51 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-25.winudf.com/b/APK/Y29tLmVzLm1vZF80MV8zNTJkMWYzOQ?_fn=Rk5GIEZ1bmtpbiBGb3JldmVyXzQuMV9BcGtwdXJlLmFwaw&_p=Y29tLmVzLm1vZA%3D%3D&is_hot=false&k=af98f10a665baa3a4d6af088ba99868264ae4af3&uu=http%3A%2F%2F172.16.73.1%2Fb%2FAPK%2FY29tLmVzLm1vZF80MV8zNTJkMWYzOQ%3Fk%3D1fe91c9f26ab0bac817faeb4f33f7ed064ae4af3
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e4f0eb09e5636cf-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 141979467
+x-rgw-object-type: Normal
+ETag: "d9846fcd2d28a74a2bf6902ce9edcd76-2"
+Last-Modified: Wed, 12 Oct 2022 20:48:44 GMT
+Content-Disposition: attachment; filename="FNF Funkin Forever_4.1_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

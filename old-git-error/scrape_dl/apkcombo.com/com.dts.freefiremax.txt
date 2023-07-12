@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.dts.freefiremax/Free%20Fire%20MAX_2.93.1_apkcombo.com.xapk?ecp=Y29tLmR0cy5mcmVlZmlyZW1heC8yLjkzLjEvMjAxOTExMzAzMy43YzAxZDkxNTc4NGYwZjJmYjI3NmYwNDUwYTdiZDc0NjkxM2QwNDFlLnppcA==&iat=1665311076&sig=413acc40a8b75f5d707bc2540b92b71f&size=537290727&from=cdn&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.dts.freefiremax/Garena%20Free%20Fire%20MAX_2.91.0_apkcombo.com.xapk?ecp=Y29tLmR0cy5mcmVlZmlyZW1heC8yLjkxLjAvMjAxOTExMjgwOC4wZTYwZTlkYTE3NzYxZDBmYjAyYTczNDk3N2JmYzE4OTE5ZWQzMjM5LnppcA==&iat=1655282258&sig=bcda1c683b68c26fc08be7de02df32a3&size=514816164&from=cdn&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

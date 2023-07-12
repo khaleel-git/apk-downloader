@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.ovelin.guitartuna/GuitarTuna_7.15.0_apkcombo.com.apk?ecp=Y29tLm92ZWxpbi5ndWl0YXJ0dW5hLzcuMTUuMC8xMTgzODMuZWE1ZTVhMGFmZTMxYjkzMjM0NzQ5MTM3YmQxZDc1ZjgxMTg4YWNlZC5hcGs=&iat=1664032064&sig=28beaf0060c257479a0f77d77ed04599&size=99660303&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.ovelin.guitartuna/GuitarTuna:%20Guitar,Tuner,Chord_7.8.1_apkcombo.com.apk?ecp=Y29tLm92ZWxpbi5ndWl0YXJ0dW5hLzcuOC4xLzExNDkxNy40Njc3ZjM3YTZjYmY2ODM2MGM5ODYzODA5Zjk1NWE3YjE5ZDA3MmNiLmFwaw==&iat=1655464026&sig=b0bbc3d164af0cd3cc07dded0c94837b&size=97460188&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

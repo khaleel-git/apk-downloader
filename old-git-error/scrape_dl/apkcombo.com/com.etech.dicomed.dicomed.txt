@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.etech.dicomed.dicomed/Fanafody_1.0_apkcombo.com.xapk?ecp=Y29tLmV0ZWNoLmRpY29tZWQuZGljb21lZC8xLjAvMS40YzhlMDc3ODhmYTQ0NDhiNDBhZmIzNGUwNmRiM2Q5MTA0ODhhYzEzLnppcA==&iat=1666498267&sig=86522b80a6cca4f951c046054ca7912d&size=19195500&from=cf&version=latest&lang=en&fp=1234
+=======
+https://apkcombo.com/d?u=aHR0cHM6Ly9kLTA4LndpbnVkZi5jb20vYi94YXBrL1kyOXRMbVYwWldOb0xtUnBZMjl0WldRdVpHbGpiMjFsWkY4eFh6RXpaV0U0T0RZMT9rPTQ2ZjM3MzE5YmJkMDA2MWNjMTY3MDA0Y2UyZGVjY2JhNjJjNGI3ZDAmX2ZuPVJtRnVZV1p2WkhsZk1TNHdYMkZ3YTJOdmJXSnZMbU52YlM1NFlYQnI=&fp=1234
+>>>>>>> origin/master

@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 16:19:33 GMT
+Date: Tue, 11 Jul 2023 16:19:33 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-02.winudf.com/b/APK/Y29tLnN3YWcuc2hvb3Rlci5vbmxpbmUub2ZmbGluZS5mcmVlLmZwcy5zdXJ2aXZhbC5zaG9vdGluZy5iYXR0bGVncm91bmQud2FyLmd1bi5nYW1lXzE0Xzg1YzI0MWU4?_fn=U3dhZyBTaG9vdGVyIC0gT25saW5lICYgT2ZmbGluZSBCYXR0bGUgUm95YWxlIEdhbWVfMS42X0Fwa3B1cmUuYXBr&_p=Y29tLnN3YWcuc2hvb3Rlci5vbmxpbmUub2ZmbGluZS5mcmVlLmZwcy5zdXJ2aXZhbC5zaG9vdGluZy5iYXR0bGVncm91bmQud2FyLmd1bi5nYW1l&is_hot=false&k=cb0757f2a830c3bba41b2b02f4f3710064aed295
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e525e603fcd36a1-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 71525706
+x-rgw-object-type: Normal
+ETag: "0524c99c520f6410c77065a9c027eebc"
+Last-Modified: Mon, 03 Aug 2020 15:16:27 GMT
+Content-Disposition: attachment; filename="Swag Shooter - Online & Offline Battle Royale Game_1.6_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

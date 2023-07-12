@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/me.bitvpn.app/BitVPN_1.4.3_apkcombo.com.apk?ecp=bWUuYml0dnBuLmFwcC8xLjQuMy8xNDMwLjA1OGZiNmEwZDUwYTAxMWY2MDY0ZWU4YTFhODEwMGNmY2I0MGE0OTQuYXBr&iat=1662365466&sig=4822d5da2ac51499af1395ba176272ed&size=23705970&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/me.bitvpn.app/BitVPN%20-%20Fast%20VPN%20Proxy%20Master_1.4.3_apkcombo.com.apk?ecp=bWUuYml0dnBuLmFwcC8xLjQuMy8xNDMwLjA1OGZiNmEwZDUwYTAxMWY2MDY0ZWU4YTFhODEwMGNmY2I0MGE0OTQuYXBr&iat=1655688111&sig=f6de4bac95e6ad886d4098ea47335731&size=23705970&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

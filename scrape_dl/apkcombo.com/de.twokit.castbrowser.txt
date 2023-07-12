@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/de.twokit.castbrowser/TV%20Cast%20for%20Chromecast_2.48_apkcombo.com.apk?ecp=ZGUudHdva2l0LmNhc3Ricm93c2VyLzIuNDgvMTAzLjhhMzA2MWNiYThhOTc2Y2I1MDhiYTBjNjVhYTliNzE2MzBkMDBmOWMuYXBr&iat=1665313899&sig=e8733fbee63781495b3da51af98e530a&size=11779073&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/de.twokit.castbrowser/TV%20Cast%20for%20Chromecast_2.48_apkcombo.com.apk?ecp=ZGUudHdva2l0LmNhc3Ricm93c2VyLzIuNDgvMTAzLjhhMzA2MWNiYThhOTc2Y2I1MDhiYTBjNjVhYTliNzE2MzBkMDBmOWMuYXBr&iat=1655690897&sig=b58f927400ff4c040458282431b7f815&size=11779073&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/xyz.penpencil.physicswala/PW%20-%20JEE%2FNEET%20%7C%20Boards%20%7C%20GATE_14.2_apkcombo.com.apk?ecp=eHl6LnBlbnBlbmNpbC5waHlzaWNzd2FsYS8xNC4yLzEwNS5jZjU3MjI3YzU4NjU4MGE4YjM0NjI0OWI4MDBkN2JhZmVlMjQ3MTk0LmFwaw==&iat=1666005522&sig=c60dea746b7f577269972f6e346c1e28&size=77330300&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/xyz.penpencil.physicswala/PW%20-%20JEE%2FNEET%20%7C%20Boards%20%7C%209-12_13.3_apkcombo.com.apk?ecp=eHl6LnBlbnBlbmNpbC5waHlzaWNzd2FsYS8xMy4zLzk0LjhkNTM5NzZkYzhiMmU2ZTI4YmEzNzU4MWNiYmRmNTgzMTA5NjU5ODQuYXBr&iat=1658766111&sig=d12fd96022507c79a1c45b23e1d75930&size=71480368&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

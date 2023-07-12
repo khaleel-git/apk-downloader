@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/free.vpn.private/VPN%20Private_1.8.0_apkcombo.com.apk?ecp=ZnJlZS52cG4ucHJpdmF0ZS8xLjguMC8xMTQ4LmE1OWJhYzc5NzEyNDQ4MjUxZGQzNjIwMzZlN2YxNzc0NWQ3NDNlNDcuYXBr&iat=1665120331&sig=bb24920c3092e12e3181796bf926b0c3&size=32192158&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/free.vpn.private/VPN%20Private_1.7.6_apkcombo.com.apk?ecp=ZnJlZS52cG4ucHJpdmF0ZS8xLjcuNi8xMTQ0LjIzMDNiMDJhNDBiNWI2NTViMTg2ZTAzMzRkZmEyYmE5Y2MwN2U0MTUuYXBr&iat=1655567262&sig=95b035de207d21c20c2e7acbf09305cc&size=14764508&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

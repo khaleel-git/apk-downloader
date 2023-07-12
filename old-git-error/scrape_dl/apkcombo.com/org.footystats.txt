@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/org.footystats/FootyStats%20Lite%20-%20Soccer%20Stats_1.0_apkcombo.com.apk?ecp=b3JnLmZvb3R5c3RhdHMvMS4wLzEuYjRiMGRiYjYwZDJhOWNiNDM0ZTM0NzUwY2EzMTAzMWRhY2ZjMWJmYy5hcGs=&iat=1666221550&sig=be1b6389fb5634a4b14f407ad96411df&size=1470703&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/org.footystats/FootyStats%20Lite%20-%20Soccer%20Stats_1.0_apkcombo.com.apk?ecp=b3JnLmZvb3R5c3RhdHMvMS4wLzEuYjRiMGRiYjYwZDJhOWNiNDM0ZTM0NzUwY2EzMTAzMWRhY2ZjMWJmYy5hcGs=&iat=1655590322&sig=42974f856ce18a6ddd0c0e519790da38&size=1470703&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

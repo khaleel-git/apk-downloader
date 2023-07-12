@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/yamayka.apps.BeautyNails/Beautiful%20Nails_3.6_apkcombo.com.apk?ecp=eWFtYXlrYS5hcHBzLkJlYXV0eU5haWxzLzMuNi8xNy4xYTU3ODdmYjhkZjFhZTdkOTEwODBjNmQ1ODdmMTJhZjFiNjM0Y2EzLmFwaw==&iat=1660993081&sig=f4cecba67822e33dafb12336457fc9d9&size=19504462&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/yamayka.apps.BeautyNails/Beautiful%20Nails_3.6_apkcombo.com.apk?ecp=eWFtYXlrYS5hcHBzLkJlYXV0eU5haWxzLzMuNi8xNy4xYTU3ODdmYjhkZjFhZTdkOTEwODBjNmQ1ODdmMTJhZjFiNjM0Y2EzLmFwaw==&iat=1658638875&sig=6bfc3b8c338b0f9aad7f41d708427c67&size=19504462&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

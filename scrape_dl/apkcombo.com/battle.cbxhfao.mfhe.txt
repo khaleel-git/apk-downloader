@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/battle.cbxhfao.mfhe/King%20of%20Ninja_1.0.2_apkcombo.com.apk?ecp=YmF0dGxlLmNieGhmYW8ubWZoZS8xLjAuMi8yLmQ1OTlhYjM1OTE4YzVhOGFmZWNjNmRlMjllNTAxMjI5YTQ4OGY4M2IuYXBr&iat=1664156355&sig=b08c1472636ff264a38c3ce943194dca&size=285105554&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/battle.cbxhfao.mfhe/King%20of%20Ninja_1.0.2_apkcombo.com.apk?ecp=YmF0dGxlLmNieGhmYW8ubWZoZS8xLjAuMi8yLmQ1OTlhYjM1OTE4YzVhOGFmZWNjNmRlMjllNTAxMjI5YTQ4OGY4M2IuYXBr&iat=1656228941&sig=85b8f2bf416bb8b9655ea05a1e12ac2e&size=285105554&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

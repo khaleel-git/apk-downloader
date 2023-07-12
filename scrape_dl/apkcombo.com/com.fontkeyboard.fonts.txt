@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.fontkeyboard.fonts/Fonts+%20:%20Fonts%20Keyboard%202022_6.3.8_apkcombo.com.apk?ecp=Y29tLmZvbnRrZXlib2FyZC5mb250cy82LjMuOC8xNTYuMmUwOGM0NTYyMGYzMjQxMzE2ZDgxMTdkNDg2NGJhMWEwNDA3MjM2MC5hcGs=&iat=1664685989&sig=83f9139ba32b1d57fa740a0eb06620d3&size=46787116&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.fontkeyboard.fonts/Fonts+%20:%20Fonts%20Keyboard%202022_6.3.7_apkcombo.com.apk?ecp=Y29tLmZvbnRrZXlib2FyZC5mb250cy82LjMuNy8xNTUuOGU4ZWI5MjExZTkwNDY0NGJiYTc4NjU4YzI0ZWY2N2RiMmIxM2ZlZi5hcGs=&iat=1655868902&sig=b1e3ea46ab0cc3b677222c74f49f26c0&size=44397668&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

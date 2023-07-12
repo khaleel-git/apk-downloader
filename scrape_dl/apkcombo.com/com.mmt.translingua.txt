@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.mmt.translingua/Translate%20subtitles%20for%20videos_2.3.2_apkcombo.com.apk?ecp=Y29tLm1tdC50cmFuc2xpbmd1YS8yLjMuMi8zNS41OTg4ODFmZWI1YmZjNzAxNTg2NjUzNGYwYjc5OTczYzQyMzk0MjAzLmFwaw==&iat=1660189152&sig=66daf30616e0fbd7897967953cf29022&size=35812301&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.mmt.translingua/Translate%20subtitles%20for%20videos%20from%20Youtube_2.0.7_apkcombo.com.apk?ecp=Y29tLm1tdC50cmFuc2xpbmd1YS8yLjAuNy8yNC5mMTdkMTRlNTFlM2YzM2U5MmJmYTk4MDAzZmRkODc2NzBiYjliMDBmLmFwaw==&iat=1656172796&sig=2176157905b05ac17671a6762ba910fd&size=29917106&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

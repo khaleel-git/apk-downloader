@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.biomes.vanced/Vanced_3.8.81.154_apkcombo.com.apk?ecp=Y29tLmJpb21lcy52YW5jZWQvMy44LjgxLjE1NC8zMDg4MTE1NC4yZDRkMzQxOWI2NTVmY2E4ZmEzMGZkMGRkZDYzYzA2NzczMWJlZDllLmFwaw==&iat=1666048267&sig=4cd5e08287714f1c19cefd8ecd3305e9&size=24931342&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.biomes.vanced/Vanced%20Official%20-%20Block%20All%20Ads%20For%20Tube%20Vanced_3.7.82.144_apkcombo.com.apk?ecp=Y29tLmJpb21lcy52YW5jZWQvMy43LjgyLjE0NC8zMDc4MjE0NC4xYTc3N2I2YWFlMDg2MmZlY2EwYTcyY2ZmNDc1MGYxODRlMWNmOWE5LmFwaw==&iat=1659623790&sig=66f9fbf1a103ad3818dd55fe83bb94ad&size=21385956&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

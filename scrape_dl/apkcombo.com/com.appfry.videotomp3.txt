@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.appfry.videotomp3/Vid2Mp3%20-%20Video%20To%20MP3_2.7_apkcombo.com.apk?ecp=Y29tLmFwcGZyeS52aWRlb3RvbXAzLzIuNy8yNy42YmFhZWNmNGI4MjhiMDk1NTFiNjliMWYwODUxOGY3MDE3ODJiNzM3LmFwaw==&iat=1664343154&sig=928200a3efd89d9f2584a48661c7372f&size=20482436&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.appfry.videotomp3/Vid2Mp3%20-%20Video%20To%20MP3_2.7_apkcombo.com.apk?ecp=Y29tLmFwcGZyeS52aWRlb3RvbXAzLzIuNy8yNy42YmFhZWNmNGI4MjhiMDk1NTFiNjliMWYwODUxOGY3MDE3ODJiNzM3LmFwaw==&iat=1659180640&sig=ef5abd9bd7ee2c4e500cea586ff0e6a0&size=20482436&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

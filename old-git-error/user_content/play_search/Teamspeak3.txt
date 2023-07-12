@@ -1,0 +1,10 @@
+com.teamspeak.ts3client
+com.game_state.ts3viewer
+com.tsviewer.webapp
+com.discord
+com.microsoft.teams
+com.riotgames.league.teamfighttactics
+com.skype.raider
+com.ubisoft.dragonfire
+com.trello
+im.vector.app

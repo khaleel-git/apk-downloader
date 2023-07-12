@@ -4,7 +4,6 @@ define( 'WP_USE_THEMES', true );
 require( $_SERVER['DOCUMENT_ROOT'] .'/wp-load.php' );	
 require_once(ABSPATH . 'wp-admin/includes/image.php');
 
-<<<<<<< HEAD
 # func -> check if the file exists or not
 function does_url_exists($url) {
 	$ch = curl_init($url);
@@ -20,15 +19,12 @@ function does_url_exists($url) {
 	return $status;
 }
 
-=======
->>>>>>> origin/master
 session_start();
 
 $appId=$_GET['id'];
 
 $mode = "exit";
 
-<<<<<<< HEAD
 $apk_pure = "https://d.apkpure.com/b/APK/" . $appId . "?version=latest";
 // echo $apk_pure;
 
@@ -75,53 +71,11 @@ $file_pointer_json = "https://apkfuel.com/apk-downloader/user_content/play_json/
 
 if (does_url_exists($file_pointer_json)){
 		$get_json = file_get_contents("https://apkfuel.com/apk-downloader/user_content/play_json/$appId.json");
-=======
-$apk_support = "/home/apkfuel/public_html/apk-downloader/scrape_dl/apk.support/$appId.txt";
-$apk_combo = "/home/apkfuel/public_html/apk-downloader/scrape_dl/apkcombo.com/$appId.txt";
-$apk_pure = "/home/apkfuel/public_html/apk-downloader/scrape_dl/apkpure.com/$appId.txt";
-
-if (file_exists($apk_support)){
-	// echo "EXists in apkS";
-	// echo "$apk_support.txt";
-	$myfile = fopen($apk_support, "r");
-	$apk_dl = fgets($myfile);
-	// echo $apk_dl;
-	fclose($myfile);	
-}
-else if (file_exists($apk_combo)){
-	// echo "EXists in apkC <br>";
-	// echo "$apk_combo.txt";
-	$myfile = fopen($apk_combo, "r");
-	$apk_dl = fgets($myfile);
-	// echo $apk_dl;
-	fclose($myfile);	
-}
-else if (file_exists($apk_pure)){
-	// echo "EXists in apkC <br>";
-	// echo "$apk_combo.txt";
-	$myfile = fopen($apk_pure, "r");
-	$apk_dl = fgets($myfile);
-	// echo $apk_dl;
-	fclose($myfile);	
-}
-
-else {
-	// echo "App not exists on server, Scanning Playstore ...";
-	// header("Refresh:0; url=#");
-	header("Refresh:0");
-}
-
-$file_pointer_json = "https://apkfuel.com/apk-downloader/user_content/short_apk_json/$appId.json";
-
-if (does_url_exists($file_pointer_json)){
-		$get_json = file_get_contents("https://apkfuel.com/apk-downloader/user_content/short_apk_json/$appId.json");
->>>>>>> origin/master
 		$json_obj = json_decode($get_json, true);
 		// include 'publish.php';
 		$static_serve = "json";
 }
 
-<<<<<<< HEAD
 if(isset($_SESSION['mode'])){
 	$mode = $_SESSION['mode'];
 }
@@ -138,43 +92,14 @@ if(isset($_GET['src'])){
 	$source = $_GET['src'];
 
 	if(isset($_SESSION['post_id'])){
-=======
-if(isset($_SESSION['post_id'])){
->>>>>>> origin/master
 	$post_id = $_SESSION['post_id'];
 	$title = get_the_title($post_id);
 
 	// echo "<br> After removing special characters from title: $title <br>";
 	$title = preg_replace('/[^a-z0-9]+/', '-', strtolower($title));
 	$title = str_replace("-8211-", "-", $title);
-<<<<<<< HEAD
     $mode = "post";
 	}
-=======
-	$scrape_str = $title . '/'. $appId; 
-	// echo "Scrape_str: $scrape_str"; echo '<br>';
-	// echo $source;echo '<br>';
-
-	echo $post_id;
-    $mode = "post";
-}
-
-
-if(isset($_SESSION['mode'])){
-	$mode = $_SESSION['mode'];
-}
-
-echo $mode;
-
-if($mode=="exit"){
-	// sleep(3);
-	header("Location: https://apkfuel.com");
-	die();
-}
-
-if(isset($_GET['src'])){
-	$source = $_GET['src'];
->>>>>>> origin/master
 
 	if($source == 'apr'){
 		$temp_title = preg_split("/\s+(?=\S*+$)/",$title);
@@ -196,17 +121,11 @@ if(isset($_GET['src'])){
     }}
 }
 else {
-<<<<<<< HEAD
 	$source = 'apr';
 }
 // echo "Post Id: $post_id"; echo '<br>';
 // echo "title: $title"; echo '<br>';
 // echo "AppId: $appId"; echo '<br>';
-=======
-	$source = 'general';
-}
-
->>>>>>> origin/master
 
 ?>
 
@@ -232,16 +151,11 @@ else {
 .w-button-green-out {align-items: center;background: transparent;border: 0;border-radius: 5px;box-shadow: none;background-color: #F15A24;color: white;cursor: pointer;display: inline-flex;font-size: 1.0em;font-weight: 500;justify-content: center;letter-spacing: 1px;outline: 0;overflow: hidden;padding: 9px 9px;position: relative;text-decoration: none;transition: background-color .2s, box-shadow .2s;-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;text-rendering: optimizeLegibility;box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .2), 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12);outline: none;text-decoration: none;background:linear-gradient(to right,#F15A24 50%,#689f38 50%);background-size:200% 100%;background-position:left bottom;margin-left:10px;transition:all 2s ease }.w-button-green-out:hover {box-shadow: 0 4px 8px -2px rgba(0, 0, 0, .2), 0 8px 10px 0 rgba(0, 0, 0, .14), 0 2px 20px 0 rgba(0, 0, 0, .12);outline: none;text-decoration: none; background-position: right bottom;}.w-button-green-out-disable {cursor: not-allowed;pointer-events: none;color: #9E9E9E;background-color: #e6e6e6;}
 </style>
 
-<<<<<<< HEAD
 	<!-- <link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/circle.css">
-=======
-	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/circle.css">
->>>>>>> origin/master
 	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/yellowcircle.css">
 	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/purplecircle.css">
 	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/firecircle.css">
 	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/whitecircle.css">
-<<<<<<< HEAD
 	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/simplecircle.css"> -->
 
 	<link rel="stylesheet" href="https://apkfuel.com/apk-downloader/assets/apk.php/circle.css">
@@ -250,9 +164,6 @@ else {
 	<link rel="stylesheet" href="https://apkfuel.com/apk-downloader/assets/apk.php/firecircle.css">
 	<link rel="stylesheet" href="https://apkfuel.com/apk-downloader/assets/apk.php/whitecircle.css">
 	<link rel="stylesheet" href="https://apkfuel.com/apk-downloader/assets/apk.php/simplecircle.css">
-=======
-	<link rel="stylesheet" href="https://apkfuel.com/post-app-downloading/assets/simplecircle.css">
->>>>>>> origin/master
 
 	<link rel="stylesheet" href="https://apkfuel.com/wp-content/themes/appyn/style.min.css">
     <link rel="stylesheet" href="https://apkfuel.com/wp-content/themes/appyn/assets/css/font-awesome.min.css">
@@ -407,11 +318,7 @@ function jsload(t, e, o) {
 
 <div class="download-box" style="margin-top:5px; margin-bottom:10px; display: flex;justify-content: center;align-items: center;">   
 <div onload="download()"></div>					
-<<<<<<< HEAD
 	<a id="dl" style="display: none" href="<?php echo $apk_pure; ?>" ></a> 	  
-=======
-	<a id="dl" style="display: none" href="<?php echo $apk_dl; ?>" ></a> 	  
->>>>>>> origin/master
 </div>
 
 <h2 style="margin-top:1px; margin-bottom:5px; display: flex;justify-content: center;align-items: center">Your App is now Downloading</h2>
@@ -429,11 +336,7 @@ function jsload(t, e, o) {
 <a  class="w-button" id="w-button"
     style="margin-top: 6px !important; margin-bottom: 6px !important;  margin-left:auto; margin-right:auto; width: 40%; 
                            display: flex;justify-content: center;align-items: center;" 
-<<<<<<< HEAD
     href="<?php echo $apk_pure; ?>">Click Here</a>
-=======
-    href="<?php echo $apk_dl; ?>">Click Here</a>
->>>>>>> origin/master
 
 <!-- <a class="w-button" id="w-button-disabled" disabled="disabled"
     style="margin-top: 6px !important; margin-bottom: 6px !important;  left: 40% !important; right: 40% !important; position: relative !important; 
@@ -450,15 +353,12 @@ function jsload(t, e, o) {
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<<<<<<< HEAD
 
 <!-- <div id="disqus_thread">
     <div id="disqus_thread_loader">Loading Comments</div>
 </div>  -->
 
 
-=======
->>>>>>> origin/master
 </div>    
 
 </div>
@@ -480,35 +380,6 @@ function jsload(t, e, o) {
         	<li><a href="https://apkfuel.com/journal/write-for-us/" title="APKFuel Write for us">Write for us</a></li>
 			<li>
             <a href="https://www.youtube.com/c/APKFuel" target="_blank">Youtube</a>
-<<<<<<< HEAD
-=======
-			<!--div class="footer-locale-switcher">
-				<select class="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};" aria-label="Change language or region:">          	
-								<option value="/apk-downloader" selected>English</option>
-				<option value="/fa/apk-downloader" >فارسی</option>					
-				<option value="/ru/apk-downloader" >Pусский</option>					
-				<option value="/th/apk-downloader" >ภาษาไทย</option>					
-				<option value="/vi/apk-downloader" >Tiếng Việt</option>					
-				<option value="/id/apk-downloader" >Indonesia</option>					
-				<option value="/de/apk-downloader" >Deutsch</option>					
-				<option value="/es/apk-downloader" >Español</option>					
-				<option value="/fr/apk-downloader" >Français</option>					
-				<option value="/ar/apk-downloader" >العربية‎</option>						
-				<option value="/ko/apk-downloader" >한국어</option>					
-				<option value="/ja/apk-downloader" >日本語</option>					
-				<option value="/it/apk-downloader" >Italiano</option>					
-				<option value="/tr/apk-downloader" >Türkiye</option>					
-				<option value="/pt/apk-downloader" >Português</option>					
-				<option value="/bg/apk-downloader" >Bulgarian</option>
-				<option value="/af/apk-downloader" >Afrikaans</option>
-				<option value="/hi/apk-downloader" >हिन्दी</option>	
-				<option value="/ur/apk-downloader" >Urdu</option>	
-				<option value="/zh_cn/apk-downloader" >中文(简体)</option>					
-				<option value="/zh_tw/apk-downloader" >中文(繁體)</option>	
-						
-				</select>
-			</div-->
->>>>>>> origin/master
 			</li>
 
 		</ul>
@@ -673,7 +544,6 @@ var inav_sh = document.getElementById("inav");
  function s_op(){document.getElementById('iso').setAttribute("style","display: bock;");document.getElementById('inav').setAttribute("style","display: none;");document.getElementById('searchform').focus();var x=document.getElementById('headadv');if(x){x.style.display="none";}} function s_cl(){document.getElementById('iso').setAttribute("style","display: none;");document.getElementById('inav').setAttribute("style","display: bock;");var x=document.getElementById('headadv');if(x){x.style.display="block";}} function menu_lang(){document.getElementById("arrow_lang").classList.toggle("menu-lang-up");document.getElementById("list_lang").classList.toggle("is-active");} function menu_op(){document.getElementById('menu-body').classList.toggle('is-visible');document.getElementById('m_obfuscator').classList.toggle('is-visible');document.getElementById('menu_btn').classList.toggle('open');var x=document.getElementById('pageapp');if(x){x.classList.toggle('is-visible');}} menu_btn.addEventListener("click",menu_op);m_obfuscator.addEventListener("click",menu_op);showsearch.addEventListener("click",s_op);hiddensearch.addEventListener("click",s_cl);
 </script>
 
-<<<<<<< HEAD
 <!-- Adsense Ad -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1443182149991411"
      crossorigin="anonymous"></script>
@@ -702,8 +572,6 @@ var inav_sh = document.getElementById("inav");
 })();
 </script>
 
-=======
->>>>>>> origin/master
 <script>
  var disqus_config = function () {
 	this.page.url = 'https://apkfuel.com/apk-downloader/';
@@ -725,77 +593,13 @@ disqus_observer.observe(document.querySelector("#disqus_thread"));
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
 
-<<<<<<< HEAD
 <script type='text/javascript'> 
-=======
-<!-- <script src="assets/function.js">
-</script> -->
-<!-- adsense lazy load -->
-
-<script type='text/javascript'> 
-// var arpianLazyLoadAds = false; 
-// window.addEventListener("scroll", function() { 
-// if((document.documentElement.scrollTop != 0 && arpianLazyLoadAds === false) || 
-// (document.body.scrollTop != 0 && arpianLazyLoadAds === false)) { 
-// (function() { 
-// var ad = document.createElement('script'); 
-// ad.setAttribute('data-ad-client', 'ca-pub-1443182149991411'); 
-// ad.async = true; 
-// ad.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; 
-// var sc = document.getElementsByTagName('script')[0]; 
-// sc.parentNode.insertBefore(ad, sc); 
-// })(); 
-// arpianLazyLoadAds = true; 
-// } 
-// }, true); 
-
->>>>>>> origin/master
 //faq javascript
 const accordionItemHeaders=document.querySelectorAll(".accordion-item-header");accordionItemHeaders.forEach(accordionItemHeader=>{accordionItemHeader.addEventListener("click",event=>{accordionItemHeader.classList.toggle("active");const accordionItemBody=accordionItemHeader.nextElementSibling;if(accordionItemHeader.classList.contains("active")){accordionItemBody.style.maxHeight=accordionItemBody.scrollHeight+"px";}
 else{accordionItemBody.style.maxHeight=0;}});});
 </script>
-<<<<<<< HEAD
 
 
-=======
-<!-- end of adsense lazy load -->
-<!-- Below script is used for downloading app automatically -->
-
-<script>
-<!-- This script is used for downloading app automatically -->
-(function download() {	
-						
-					var x = document.getElementById("w-button");					
-    				x.style.display = "none";             
-                        
-                            let data = {
-                                'appId': '<?= $appId ?>',     
-                            	'source': '<?= $source ?>', 
-                                'scrape_str': '<?= $scrape_str ?>'
-                            }
-                            console.log(data)
-                            $.ajax({
-                                url: "background.php",
-                                type: "post",                       
-                                data: data ,
-                                success: function (response) {     
-                                
-                                const interval = setInterval(function() {	
-                    						document.getElementById('dl').click();              
-    										clearInterval(interval);                   
-    										x.style.display = "flex";   
-                                        
-                						},10);
-                          
-                                },
-                                error: function(jqXHR, textStatus, errorThrown) {
-                                    console.log(textStatus, errorThrown);
-                                }
-                            });                 
-     	
-})()	
-</script>
->>>>>>> origin/master
 <?php 
 // session_destroy(); 
 ?>

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.orchid.game.xyz/Teen%20Patti%20Orchid_1.0.1.0_apkcombo.com.apk?ecp=Y29tLm9yY2hpZC5nYW1lLnh5ei8xLjAuMS4wLzEwMDAxMDAwLjI1YTZiM2Q1YTk1YWViZTk0OTZkM2QwOTM4YzE4OWUwNGQyYmEwY2QuYXBr&iat=1666142181&sig=eb974a49d9b971f48f6f0dbfbc4b1ead&size=43771576&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.orchid.game.xyz/Teen%20Patti%20Orchid_1.0.1.0_apkcombo.com.apk?ecp=Y29tLm9yY2hpZC5nYW1lLnh5ei8xLjAuMS4wLzEwMDAxMDAwLjI1YTZiM2Q1YTk1YWViZTk0OTZkM2QwOTM4YzE4OWUwNGQyYmEwY2QuYXBr&iat=1659414499&sig=d3cc4dae812b9181e8c81646684599ea&size=43771576&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

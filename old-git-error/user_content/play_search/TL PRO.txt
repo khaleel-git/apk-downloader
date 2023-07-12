@@ -1,0 +1,9 @@
+com.pixelcurves.terlauncher
+com.pixelcurves.tlpacker
+com.and.games505.TerrariaPaid
+top.juruo.terrariasaveeditor
+com.HelmetGames.Eliatopia
+com.valvesoftware.android.steam.community
+io.github.bramaudi.terrabook
+com.noodlecake.gettingoverit
+com.nekki.vector.paid

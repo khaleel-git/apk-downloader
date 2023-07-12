@@ -1,0 +1,187 @@
+{
+    "docid": "ca.bellmedia.cp24",
+    "backendDocid": "ca.bellmedia.cp24",
+    "docType": 1,
+    "backendId": 3,
+    "title": "CP24: Toronto's Breaking News",
+    "creator": "Bell Media Inc.",
+    "descriptionHtml": "We listened to your valuable feedback and have added the following features: <br><br>- The new &#39;Happening Now&#39; feed allows you to tailor the types of stories you see first and receive the latest updates on the news that matters most to you<br>- An improved weather experience provides conditions in multiple locations, while delivering a &#39;feels like&#39; temperature that accounts for windchill and humidex<br>- Up-to-the-minute traffic information from across the Toronto in a new user-friendly section<br>- An improved rich video experience that’s fully integrated into the stories you read",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 9
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/agiFevCrlG-glA0lJI8X_MgB0LLCsPeedVmTGmo8lLOz-Thpzxbs2uDZiRxS_Q0CZA",
+            "supportsFifeUrlOptions": true,
+            "color": "#BE0A0A"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/8n8skPZ93b0XmPWEKXtMHoR1rIHBypbIwHk6VZm7GesKGDCaOIUVpLvnMswya7OUREc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ML_PTI1tts0wK7dKq7O6Kaltz65v22HNvwVeklI-pTlqKedS7rMTdI9IGJV8uOuUNgPX",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/VTBx6-GO6rNk1CU6aygkOlOVbmJ7iWpWapGwMwX66BXHmvJ9uyUplHY6BcXY47CEQADV",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/PkRma91JcIyY5imYkNYCDaKlflllW3DY_tRTP47ils3UAzKPSkdF0CSBG5LaAQIgaUbF",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/4CzZlGd7c9x1LfAUdWiQJLUntdFbNt0Pb_IPy2q4uuYg2N86BhrhJxROv3ZHSI7pCGE",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/gt0Wq_TEYbW3T4f_Q7tGbiYf7afIryS7L0lpEDaAv7AFDOo6WhsngZAQP2yhwgCgNQ",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Bell Media Inc.",
+            "developerEmail": "cp24app@bellmedia.ca",
+            "developerWebsite": "http://www.cp24.com/",
+            "numDownloads": "100,000+ downloads",
+            "packageName": "ca.bellmedia.cp24",
+            "containsAds": "Contains ads",
+            "developerAddress": "299 Queen Street West, Toronto, ON, M5V 2Z5"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.429234504699707,
+        "ratingsCount": "8611",
+        "oneStarRatings": "309",
+        "twoStarRatings": "179",
+        "threeStarRatings": "549",
+        "fourStarRatings": "2037",
+        "fiveStarRatings": "5534",
+        "commentCount": "2368"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiKiCh8IEioCCAkyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiKiCh8IEioCCAkyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Shares Info<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Bell Media Inc.",
+                "url1": "getStream?ecp=CjmKAzYKGQoTNjM1NzI0Njg1OTUyMjI0Mjk3MhAIGAMSFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjmKAzYKGQoTNjM1NzI0Njg1OTUyMjI0Mjk3MhAIGAMSFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiKiCh8IESoCCAgyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiKiCh8IESoCCAgyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiKiCh8IEioCCAgyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiKiCh8IEioCCAgyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiKiCh8IASoCCAgyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=CiKiCh8IASoCCAgyFwoRY2EuYmVsbG1lZGlhLmNwMjQQARgD"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=ca.bellmedia.cp24",
+    "shareUrl": "https://play.google.com/store/apps/details?id=ca.bellmedia.cp24",
+    "reviewsUrl": "rev?doc=ca.bellmedia.cp24&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Bell Media Inc."
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "cp24app@bellmedia.ca"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "299 Queen Street West, Toronto, ON, M5V 2Z5"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Dec 17, 2013"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Toronto’s Breaking News",
+    "reviewQuestionsUrl": "reviewQuestions?doc=ca.bellmedia.cp24"
+}

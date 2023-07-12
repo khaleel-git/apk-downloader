@@ -1,0 +1,200 @@
+{
+    "docid": "ru.tutu.tutu_emp",
+    "backendDocid": "ru.tutu.tutu_emp",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Tutu.ru - flights, Russian railway and bus tickets",
+    "creator": "Tutu.ru",
+    "descriptionHtml": "Tutu.ru is the most popular travel service in Russia, with a large network all over the globe. Our app is all-in-one travel app with flights, bus and railway stations timetables, which also allows you to buy railway and bus tickets.<br>We compare more than 2287 partners, such as Aeroflot, RZD, S7, Pobeda and others to offer you the best ticket.<br>Our team is ready to support your travelling to Russia during the World Football Cup and gives you a chance to buy tickets to: Moscow, St. Petersburg, Ekaterinburg, Kaliningrad, Saransk, Volgograd, Kazan, Sochi, Nizhny Novgorod, Samara, Rostov-na-Donu",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/1kqntL8wvxdc0epPR80cLw6o9n5px4rY4qz5RjQscnncZVYm5jFubDfkr5DTbJaIbIE",
+            "supportsFifeUrlOptions": true,
+            "color": "#FFFFFF"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Xn8NHefqmDnnfjUuO6XdxcNurEsg6o4JDHhp0pWkHqBj0GnrPbVXjhbT4B8UTi9Tie0W",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/FnrvgSxD0qAotYJ0lVkIE2NeHZAOzMT7U-jYYnoXSfdsRPFN-jHPdZLBGsEncFYEsA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/dsHjvo7JulpsGfv1ZoqPRPiuPmI9SK5tno9SOslzEa-NzUfjgZGQy8iM5DLQrjLe0Q",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/25q_ZUcJp7ykL7IL1r_rjqAteD_5NzrXtVrozPkdFohQiEq1GvBTDlrwLHzZ-9i00Vc",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Tutu.ru",
+            "versionCode": 3420000,
+            "versionString": "3.42.0",
+            "installationSize": "84741426",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.CAMERA",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+            ],
+            "developerEmail": "app@tutu.ru",
+            "developerWebsite": "https://www.tutu.ru",
+            "numDownloads": "5,000,000+ downloads",
+            "packageName": "ru.tutu.tutu_emp",
+            "recentChangesHtml": "Some of you can see a bell at the top right on the main screen. It&#39;s our new notification center. It stores useful push-notifications: about flight changes, check-in beginning or secret deals. Click on the bell and turn on the notifications!",
+            "uploadDate": "Sep 29, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 3420000,
+                    "size": "84741426"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown2": "84741426",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.856925964355469,
+        "ratingsCount": "90966",
+        "oneStarRatings": "1372",
+        "twoStarRatings": "385",
+        "threeStarRatings": "809",
+        "fourStarRatings": "4749",
+        "fiveStarRatings": "83648",
+        "commentCount": "12984"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.tutu.ru/2read/legal_information/legal_personal/",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiGiCh4IEioCCAkyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAkyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Tutu.ru",
+                "url1": "getStream?ecp=CjiKAzUKGQoTNzkxMDc4ODcxMTc0MTk0MDAwOBAIGAMSFgoQcnUudHV0dS50dXR1X2VtcBABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjiKAzUKGQoTNzkxMDc4ODcxMTc0MTk0MDAwOBAIGAMSFgoQcnUudHV0dS50dXR1X2VtcBABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiGiCh4IESoCCAgyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IESoCCAgyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiGiCh4IEioCCAgyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAgyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiGiCh4IASoCCAgyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IASoCCAgyFgoQcnUudHV0dS50dXR1X2VtcBABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=ru.tutu.tutu_emp",
+    "shareUrl": "https://play.google.com/store/apps/details?id=ru.tutu.tutu_emp",
+    "reviewsUrl": "rev?doc=ru.tutu.tutu_emp&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Tutu.ru"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "app@tutu.ru"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Nov 23, 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Russian transport",
+    "reviewQuestionsUrl": "reviewQuestions?doc=ru.tutu.tutu_emp"
+}

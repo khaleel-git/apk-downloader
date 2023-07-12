@@ -4,7 +4,6 @@ define( 'WP_USE_THEMES', true );
 require( $_SERVER['DOCUMENT_ROOT'] .'/wp-load.php' );	
 require_once(ABSPATH . 'wp-admin/includes/image.php');
 
-<<<<<<< HEAD
 # func -> check if the file exists or not
 function does_url_exists($url) {
         $ch = curl_init($url);
@@ -21,13 +20,10 @@ function does_url_exists($url) {
     } 
 
 
-=======
->>>>>>> origin/master
 session_start();
 $_SESSION["mode"] = "apk-downloader";
 
 $url=$_POST['url'];
-<<<<<<< HEAD
 // $url=$_GET['url']; // FOR WEB TESTING
 $url = trim($url);
 // echo $url;
@@ -39,15 +35,6 @@ $fresh_result  =  trim($fresh_result);
 // echo "<br>";  
 
 
-=======
-$url = trim($url);
-
-$av = $_POST['android_ver'];
-$av  =  trim($av);
-
-$arch = $_POST['device_id'];
-$arch  =  trim($arch);
->>>>>>> origin/master
 
 
 #below is the code for splitting url into app id
@@ -60,7 +47,6 @@ $arch  =  trim($arch);
       $appId = $split_id[1];
    	  $_SESSION['appId'] = $appId;
    	  
-<<<<<<< HEAD
         $file_pointer = "https://apkfuel.com/apk-downloader/user_content/play_json/$appId.json";
         // echo $file_pointer;
         if (!does_url_exists($file_pointer)) {
@@ -74,13 +60,6 @@ $arch  =  trim($arch);
                 $output = shell_exec("python3 /home/apkfuel/htdocs/apkfuel.com/apk-downloader/playstore.py $appId 'appId' 'yes'");  
                 // echo $output; echo "<br>";  
             }
-=======
-        $file_pointer = "https://apkfuel.com/apk-downloader/user_content/short_apk_json/$appId.json";
-        if (!does_url_exists($file_pointer)) {
-            $output = shell_exec("python3 /home/apkfuel/public_html/apk-downloader/playstore.py $appId 'appId'"); 
-        	// echo gettype($av) . "<br>";
-        	// echo "<br> $output <br>";                                                       																															 		                                              
->>>>>>> origin/master
         } 	
    	  $mode = 'appId';
     }
@@ -88,7 +67,6 @@ $arch  =  trim($arch);
     elseif (strpos($url, ".") !== false){    
       	#initialize $url value to $appId if there is no url i.e only appId is given by user 
     	$appId = $url;
-<<<<<<< HEAD
         $file_pointer = "https://apkfuel.com/apk-downloader/user_content/play_json/$appId.json";
         if (!does_url_exists($file_pointer)) {
             $output = shell_exec("python3 /home/apkfuel/htdocs/apkfuel.com/apk-downloader/playstore.py $appId 'appId' 'yes'");   
@@ -121,46 +99,18 @@ $arch  =  trim($arch);
                     // echo $output; echo "<br>";  
                 }
             }
-=======
-        $file_pointer = "https://apkfuel.com/apk-downloader/user_content/short_apk_json/$appId.json";
-        if (!does_url_exists($file_pointer)) {
-            $output = shell_exec("python3 /home/apkfuel/public_html/apk-downloader/playstore.py $appId 'appId'"); 
-        	// echo gettype($av) . "<br>";
-        	// echo "<br> $output <br>";                                                       																															 		                                              
-        }                                                       																															 		                                              
-    	$mode = 'appId';
-     }
-	else {
-    	$appId = $url;		           
-        $file_pointer = "https://apkfuel.com/apk-downloader/user_content/short_apk_search/$appId.txt";
-    	// echo "<br> $file_pointer <br>";
-          if (!does_url_exists($file_pointer)) {
-          	  // echo "<br> $file_pointer does not exist <br>";
-              $output = shell_exec("python3 /home/apkfuel/public_html/apk-downloader/playstore.py '$appId' 'search'"); 
-          	  // echo gettype($av) . "<br>";
-          	  // echo "<br> $output <br>";                                                       																															 		                                              
-          }
->>>>>>> origin/master
     	$mode = 'search';
     }
 
 ?>
 
 <?php
-<<<<<<< HEAD
 // echo $mode; echo "<br>";  
-=======
-
->>>>>>> origin/master
 switch($mode)
 {
     case 'appId':
             #case logic here									                                     
-<<<<<<< HEAD
             $get_json = file_get_contents("user_content/play_json/$appId.json");
-=======
-            $get_json = file_get_contents("user_content/short_apk_json/$appId.json");
->>>>>>> origin/master
             $json_obj = json_decode($get_json, true);?>
 
             <strong style="font-size: 18px !important; color: #218838"><?php echo $json_obj['title'] ?></strong> </br>
@@ -180,7 +130,6 @@ switch($mode)
 
     case 'search':
         #logic          	
-<<<<<<< HEAD
         $handle = fopen( "/home/apkfuel/htdocs/apkfuel.com/apk-downloader/user_content/play_search/$search_q.txt", "r");
         if ($handle) {
         	$count = 0;
@@ -192,15 +141,6 @@ switch($mode)
                 $output = shell_exec("python3 /home/apkfuel/htdocs/apkfuel.com/apk-downloader/playstore.py $line 'appId' $fresh_result"); 
                 // echo $output; echo "<br>"; 
                 $get_json = file_get_contents("/home/apkfuel/htdocs/apkfuel.com/apk-downloader/user_content/play_json/$line.json");
-=======
-        $handle = fopen( "/home/apkfuel/public_html/apk-downloader/user_content/short_apk_search/$appId.txt", "r");
-        if ($handle) {
-        	$count = 0;
-            while (($line = fgets($handle)) !== false) {            
-            	$continue_while = false;
-                $line = trim($line);     
-                $get_json = file_get_contents("/home/apkfuel/public_html/apk-downloader/user_content/short_apk_json$line.json");
->>>>>>> origin/master
                 $json_obj = json_decode($get_json, true);          
                            		
         ?>
@@ -213,7 +153,6 @@ switch($mode)
             <strong>Downloads: </strong>    <?php echo $json_obj['num_of_downloads']  ?> </br>   
             
             <div class="w-button-green-out" style=" margin-top: 6px !important;">
-<<<<<<< HEAD
             	<a style="color: white !important;" href="https://apkfuel.com/apk-downloader/apk.php?id=<?php echo $line;?>" target="_blank";>Download APK Now</a>
             </div></hr></br>                                                                                
 
@@ -224,13 +163,6 @@ switch($mode)
                {
                     break;
                }
-=======
-            	<a style="color: white !important;" href="https://apkfuel.com/apk-downloader/apk.php?id=<?php echo $appId;?>" target="_blank";>Download APK Now</a>
-            </div></hr></br>                                                                                
-
-        <?php 
-                
->>>>>>> origin/master
             } // end of while brace
             
         fclose($handle); 
@@ -243,13 +175,5 @@ switch($mode)
     echo 'something wrong';
 }
 
-<<<<<<< HEAD
-=======
-
-
-
-#$get_json = file_get_contents("user_content/apk_json/$appId.json");
-#$json_obj = json_decode($get_json, true);
->>>>>>> origin/master
  ?>
 

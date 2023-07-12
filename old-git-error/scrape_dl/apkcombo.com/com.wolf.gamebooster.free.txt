@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.wolf.gamebooster.free/Wolf%20Game%20Booster%20&%20GFX%20Tool_v2.2.0_apkcombo.com.apk?ecp=Y29tLndvbGYuZ2FtZWJvb3N0ZXIuZnJlZS92Mi4yLjAvMzcuZDc2YWU1MDNlMzRmZTVhNTE5ODFkNTIzZWU5NzBjOGMxZWQwMmE0YS5hcGs=&iat=1663507653&sig=a14140c2d58b5d0f7f8e46446ae0695b&size=8308120&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.wolf.gamebooster.free/Wolf%20Game%20Booster%20&%20GFX%20Tool_2.1.2_apkcombo.com.apk?ecp=Y29tLndvbGYuZ2FtZWJvb3N0ZXIuZnJlZS8yLjEuMi8zNS42MmYwYjllYzlkNDE0YzYzY2FiOGY2ZmFhZTU2NjA3YzdhMmZiOWM4LmFwaw==&iat=1658401345&sig=882d3b7b39a65fb44d32f0953f4f19a3&size=7439556&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

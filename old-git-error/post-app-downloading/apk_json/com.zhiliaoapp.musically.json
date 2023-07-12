@@ -1,0 +1,293 @@
+{
+    "docid": "com.zhiliaoapp.musically",
+    "backendDocid": "com.zhiliaoapp.musically",
+    "docType": 1,
+    "backendId": 3,
+    "title": "TikTok",
+    "creator": "TikTok Pte. Ltd.",
+    "descriptionHtml": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.<br><br>We make it easy for you to discover and create your own original videos by providing easy-to-use tools to view and capture your daily moments. Take your videos to the next level with special effects, filters, music, and more. <br><br>■ Watch endless amount of videos customized specifically for you<br>A personalized video feed based on what you watch, like, and share. TikTok offers you real, interesting, and fun videos that will make your day.<br> <br>■ Explore videos, just one scroll away<br>Watch all types of videos, from Comedy, Gaming, DIY, Food, Sports, Memes, and Pets, to Oddly Satisfying, ASMR, and everything in between.<br> <br>■ Pause recording multiple times in one video<br>Pause and resume your video with just a tap. Shoot as many times as you need.<br> <br>■ Be entertained and inspired by a global community of creators<br>Millions of creators are on TikTok showcasing their incredible skills and everyday life. Let yourself be inspired.<br><br>■ Add your favorite music or sound to your videos for free<br>Easily edit your videos with millions of free music clips and sounds. We curate music and sound playlists for you with the hottest tracks in every genre, including Hip Hop, Edm, Pop, Rock, Rap, and Country, and the most viral original sounds.<br><br>■ Express yourself with creative effects<br>Unlock tons of filters, effects, and AR objects to take your videos to the next level.<br><br>■ Edit your own videos <br>Our integrated editing tools allow you to easily trim, cut, merge and duplicate video clips without leaving the app.<br><br>* Any feedback? Contact us at https://www.tiktok.com/legal/report/feedback or tweet us @tiktok_us",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/IXID0wXvDMANMBcaoYA2DYRsH8Z0b-3z-8-SvHa7q654MD4u-Amr3Z8Xlhy1XPHVGQ",
+            "supportsFifeUrlOptions": true,
+            "color": "#FDFDFD"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/STsINPHbz_Edu86xY7DeCJbXpLNM-dPyQ5mSBEJCfI0869PV7Z10P3QbFPA7iRsBzv4",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Sf-9Gw3_fbZ9uf1CfeqZPI6weBl7C1x1xG8bpw6g-uYI6FXEBH6tNEtTxw84cv4kIA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/CmbuhxgQSmbd0GebOHUXLmRlgXmyKQOAWbtwGdqPmA-vQcEelA4UVFYmddJPGPbUhrI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/vkEjES15xYZyOXYc5ytNbQcMELL2bfTfwZkJEpEMuPh3oXO5q0iAv1TpjR7NJzx0_A",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/6fdaGBGzqQdOE9-giRkwlqCbIdwW3EU76WxkG0O7gar7anYtdd93DT-qlCQrMduQScI",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "TikTok Pte. Ltd.",
+            "versionCode": 2022300050,
+            "versionString": "23.0.5",
+            "installationSize": "103990391",
+            "permission": [
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.BLUETOOTH",
+                "android.permission.CAMERA",
+                "android.permission.FLASHLIGHT",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_TASKS",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_APP_BADGE",
+                "android.permission.READ_CALENDAR",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.REORDER_TASKS",
+                "android.permission.SET_WALLPAPER",
+                "android.permission.UPDATE_APP_BADGE",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_CALENDAR",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "android.permission.WRITE_SYNC_SETTINGS",
+                "com.amazon.device.messaging.permission.RECEIVE",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.android.launcher.permission.READ_SETTINGS",
+                "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+                "com.android.vending.BILLING",
+                "com.ebproductions.android.launcher.permission.READ_SETTINGS",
+                "com.ebproductions.android.launcher.permission.WRITE_SETTINGS",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.htc.launcher.permission.READ_SETTINGS",
+                "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                "com.huawei.android.launcher.permission.READ_SETTINGS",
+                "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                "com.huawei.launcher2.permission.READ_SETTINGS",
+                "com.huawei.launcher2.permission.WRITE_SETTINGS",
+                "com.huawei.launcher3.permission.READ_SETTINGS",
+                "com.huawei.launcher3.permission.WRITE_SETTINGS",
+                "com.lge.launcher.permission.READ_SETTINGS",
+                "com.lge.launcher.permission.WRITE_SETTINGS",
+                "com.majeur.launcher.permission.UPDATE_BADGE",
+                "com.meizu.c2dm.permission.RECEIVE",
+                "com.miui.mihome2.permission.READ_SETTINGS",
+                "com.miui.mihome2.permission.WRITE_SETTINGS",
+                "com.oppo.launcher.permission.READ_SETTINGS",
+                "com.oppo.launcher.permission.WRITE_SETTINGS",
+                "com.sec.android.provider.badge.permission.READ",
+                "com.sec.android.provider.badge.permission.WRITE",
+                "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                "com.vivo.notification.permission.BADGE_ICON",
+                "com.zhiliao.musically.livewallpaper.permission.wallpaperplugin",
+                "com.zhiliaoapp.musically.permission.MIPUSH_RECEIVE",
+                "com.zhiliaoapp.musically.permission.READ_ACCOUNT",
+                "com.zhiliaoapp.musically.permission.RECEIVE_ADM_MESSAGE",
+                "com.zhiliaoapp.musically.permission.WRITE_ACCOUNT",
+                "com.zhiliaoapp.musically.push.permission.MESSAGE",
+                "dianxin.permission.ACCESS_LAUNCHER_DATA",
+                "me.everything.badger.permission.BADGE_COUNT_READ",
+                "me.everything.badger.permission.BADGE_COUNT_WRITE"
+            ],
+            "developerEmail": "feedback@tiktok.com",
+            "developerWebsite": "https://www.tiktok.com/",
+            "numDownloads": "1,000,000,000+ downloads",
+            "packageName": "com.zhiliaoapp.musically",
+            "recentChangesHtml": "Explore our latest video effects!",
+            "uploadDate": "Jan 24, 2022",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 2022300050,
+                    "size": "103990391"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "103990391",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    },
+                    {
+                        "packageName": "com.google.ar.core",
+                        "version": 210210000
+                    }
+                ],
+                "unknown3": 30
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "201 Henderson Road,<br/>#06-22 Apex@Henderson,<br/>Singapore 159545 Singapore"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.5307364,
+        "ratingsCount": "45111711",
+        "oneStarRatings": "3405941",
+        "twoStarRatings": "744672",
+        "threeStarRatings": "1295737",
+        "fourStarRatings": "2720011",
+        "fiveStarRatings": "36945344",
+        "commentCount": "19476302"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.tiktok.com/legal/privacy-policy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CimiCiYIEioCCAkyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CimiCiYIEioCCAkyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact, Shares Location, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by TikTok Pte. Ltd.",
+                "url1": "getStream?ecp=CkCKAz0KGQoTODM1NDYyMTg1MDQwODI4NzE1NRAIGAMSHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CkCKAz0KGQoTODM1NDYyMTg1MDQwODI4NzE1NRAIGAMSHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CimiCiYIESoCCAgyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CimiCiYIESoCCAgyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CimiCiYIEioCCAgyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CimiCiYIEioCCAgyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CimiCiYIASoCCAgyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CimiCiYIASoCCAgyHgoYY29tLnpoaWxpYW9hcHAubXVzaWNhbGx5EAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.zhiliaoapp.musically",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+    "reviewsUrl": "rev?doc=com.zhiliaoapp.musically&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $249.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "TikTok Pte. Ltd."
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "feedback@tiktok.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "201 Henderson Road,<br/>#06-22 Apex@Henderson,<br/>Singapore 159545 Singapore"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jul 9, 2015"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Join your friends and discover videos you love, only on TikTok",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.zhiliaoapp.musically"
+}

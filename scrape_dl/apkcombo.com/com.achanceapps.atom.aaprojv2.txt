@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.achanceapps.atom.aaprojv2/Playnimes_2.6.1_apkcombo.com.apk?ecp=Y29tLmFjaGFuY2VhcHBzLmF0b20uYWFwcm9qdjIvMi42LjEvMzEuNTBlODA5ZjY1YzliN2ZiMGM1ODVkZDJjY2Y0Yzc0NzNmNzBiYTVjMS5hcGs=&iat=1666532042&sig=3429ecde75314e1ccf3e83d814d8251c&size=19539769&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.achanceapps.atom.aaprojv2/Playnimes_2.6.1_apkcombo.com.apk?ecp=Y29tLmFjaGFuY2VhcHBzLmF0b20uYWFwcm9qdjIvMi42LjEvMzEuNTBlODA5ZjY1YzliN2ZiMGM1ODVkZDJjY2Y0Yzc0NzNmNzBiYTVjMS5hcGs=&iat=1658865531&sig=31ba87d37cd2ec542a7638a42d0e09d2&size=19539769&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

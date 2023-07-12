@@ -1,0 +1,282 @@
+{
+    "docid": "com.microsoft.office.officehubrow",
+    "backendDocid": "com.microsoft.office.officehubrow",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Microsoft Office: Word, Excel, PowerPoint & More",
+    "creator": "Microsoft Corporation",
+    "descriptionHtml": "Microsoft Office brings you Word, Excel, and PowerPoint all in one app. Take advantage of a seamless experience with Microsoft tools on the go with the Office app, the simple solution for productivity.<br><br>Scan PDF files, create spreadsheets, or draft up documents anytime and anywhere by accessing integrated Office features through your mobile device. Complete your workflows, no matter where you are, even if your network connection is temporarily interrupted. From Word documents, PowerPoint presentations or Excel files, the Office app provides you with one seamless experience.<br><br>With intelligent cloud services and trusted security, the Office app will help maximize your productivity in both work and life.<br><br>Word, Excel, and PowerPoint Combined:<br>• Widely used tools now accessible within a single application, the go-to app for productivity.<br>• Store and access Word, Excel, and PowerPoint files using the cloud-based storage.<br>• Word documents can be created and collaborated on with others in real-time.<br>• PowerPoint presentations can be shared and edited. Practice your presentation with Presenter Coach.<br>• Excel worksheets can be created using one of the many templates available in-app, or instantly edited.<br>• Shared view makes it easy to access and collaborate on files shared with you directly or via Outlook and Teams.<br>• Catch up on meetings or open shared videos right where you left off. <br><br>Convert Pictures and Documents with Office Lens<br>• Create docs by snapping a picture or uploading a photo from your camera roll.<br>• Transform a photo of a table into a usable Excel spreadsheet to work with the data.<br>• Enhance digital images of whiteboards and documents.<br>• Capture your handwritten notes and carry them wherever you go. Edit and share notes to your friends, family or team instantly.<br><br>PDF Scanning &amp; Editing Capabilities:<br>• Scan PDF files and convert them into Word documents and vice versa, instantaneously.<br>• Edit PDF files on your device quickly and easily while on the go.<br>• PDF Reader allows you to access and sign PDFs.<br><br>Unique Office Mobile Functions:<br>• Quickly jot down thoughts and ideas, and then save or share them via Sticky Notes.<br>• QR Scanner enables your device to scan QR codes and open attached links.<br>• Documents and spreadsheets can be transferred between your phone and computer or shared instantly with nearby mobile devices.<br><br>Anyone can download the Office app for free and start using it right away. Access and save documents to the cloud by connecting with a Microsoft Account (for OneDrive or SharePoint) or by connecting to a third-party cloud storage provider. Logging in with a personal Microsoft account or a work or school account connected to a Microsoft 365 subscription will unlock premium features within the app.<br><br>Achieve more while on the go with the help of Microsoft Office.<br><br>Requirements:<br>OS version: Last 4 major versions of Android running an ARM-based or Intel x86 processor<br>1 GB RAM or above<br><br>This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.<br><br>Please refer to Microsoft&#39;s EULA for Terms of Service for Office on Android. By installing the app, you agree to these terms and conditions: https://go.microsoft.com/fwlink/?linkid=519111",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/USMpdzZUd8OSBpdZYJ2d7p5ThDyrGJWl8-1akHurM-szSiNV4XJKRaY7kQB6tPBPlQ",
+            "supportsFifeUrlOptions": true,
+            "color": "#2F2F2F"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/D6XDCje7pB0nNP1sOZkwD-tXkV0_As3ni21us5yZ71_sy0FTWv1s_MQBe1JUnHlgE94",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/cDvFQbu-3O3NfyrNSkx9d1Ua25bYS3Ly8fCcPgdMnj5ktHh0uidRp0OiNVIb5OFB5ck",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/h054Q_gu6miJlzLA59fyO6sgtSFlEVIa1iSgHeqUXik07F2-ppZNPUK8XjLdnIVI0PA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/OdIJbvIv-ScoGudXjc_tUtdaOgzKS8UhqBjTtHlwXba7m72mfqzION67SIyfh35rcaw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/UBvN2T3iUz6TPo6EaQV2T-4EswGrIKe7AgJjCre-yG-Xi4xKjbGAQBQHIJE_YfpuC20",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/d01_T1-Ol50r7NWeSzYYzmA5b10L0-KOijuzyZ8nhBlPaqOLsHtXXL1xvz_RrcpsA67r",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/saG3ujSLmCwsfWtBVkN3mcMpdKewGKm5RhjqtMAShrIazsKcIOpXv-HU9zDPRp6TpQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/uund1Az8ioLKZge9IcM_5ISTPoYrfTu9VgLd0Fvje5Bnc5AqA4x9mCEPNgJ5B7ec_w",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/aETFWFWzFupig-Y4urUsI_g4EE-7yCs4vsm5yarUe92vy9bPMsQCJxHxdMTDK0DJYh8",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Microsoft Corporation",
+            "versionCode": 42413076,
+            "versionString": "16.0.13628.20448",
+            "installationSize": "96501157",
+            "permission": [
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.AUTHENTICATE_ACCOUNTS",
+                "android.permission.BLUETOOTH",
+                "android.permission.BLUETOOTH_ADMIN",
+                "android.permission.CAMERA",
+                "android.permission.CHANGE_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.GET_PACKAGE_SIZE",
+                "android.permission.INTERNET",
+                "android.permission.MANAGE_ACCOUNTS",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.USE_CREDENTIALS",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.android.vending.CHECK_LICENSE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.microsoft.office.officemobile.permission.NOTIFICATION_LENS"
+            ],
+            "developerEmail": "offandfb@microsoft.com",
+            "developerWebsite": "https://products.office.com",
+            "numDownloads": "100,000,000+ downloads",
+            "packageName": "com.microsoft.office.officehubrow",
+            "uploadDate": "Mar 2, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 42413076,
+                    "size": "89535482"
+                },
+                {
+                    "fileType": 1,
+                    "versionCode": 42413076,
+                    "size": "6965675"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown2": "89535482",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "One Microsoft Way"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.6824750900268555,
+        "ratingsCount": "623792",
+        "oneStarRatings": "13830",
+        "twoStarRatings": "5433",
+        "threeStarRatings": "17778",
+        "fourStarRatings": "90888",
+        "fiveStarRatings": "495860",
+        "commentCount": "154226"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjKiCi8IEioCCAkyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjKiCi8IEioCCAkyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Microsoft Corporation",
+                "url1": "getStream?ecp=CkmKA0YKGQoTNjcyMDg0Nzg3MjU1MzY2MjcyNxAIGAMSJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CkmKA0YKGQoTNjcyMDg0Nzg3MjU1MzY2MjcyNxAIGAMSJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjKiCi8IESoCCAgyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjKiCi8IESoCCAgyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjKiCi8IEioCCAgyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjKiCi8IEioCCAgyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjKiCi8IASoCCAgyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjKiCi8IASoCCAgyJwohY29tLm1pY3Jvc29mdC5vZmZpY2Uub2ZmaWNlaHVicm93EAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.microsoft.office.officehubrow",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
+    "reviewsUrl": "rev?doc=com.microsoft.office.officehubrow&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$6.99 - $99.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Microsoft Corporation"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "offandfb@microsoft.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "One Microsoft Way"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Feb 16, 2020"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "One app for documents, spreadsheets, presentations, PDFs, & more",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.microsoft.office.officehubrow"
+}

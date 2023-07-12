@@ -1,0 +1,8 @@
+com.feldsher.net
+com.custom.amp_assist_android_client
+com.igenapps.FeldsherSMP
+ru.medsolutions
+a.dev.mobile_insert_wear
+nremt.exam
+com.mpro.smp
+com.secu.secu

@@ -1,0 +1,10 @@
+{
+    "appId": "com.google.android.webview",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.webview",
+    "icon": "https://play-lh.googleusercontent.com/sMzCSERY-5_8VZ2z9v0kvzM3ZA21uRHMrVGSYMPP499ecagswyzFYUMbfU02wwDnL1k=w240-h480-rw",
+    "title": "Android System WebView",
+    "rating": "4.1",
+    "num_of_downloads": "5B+",
+    "meta_description": "Web content for apps, powered by Chrome",
+    "full_description": "Android WebView is a pre-installed system component from Google that allows Android apps to display web content."
+}

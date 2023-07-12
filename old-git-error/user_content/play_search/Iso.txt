@@ -1,0 +1,16 @@
+com.apple.movetoios
+se.qzx.isoextractor
+org.ppsspp.ppsspp
+com.mixapplications.iso2usb
+com.rarlab.rar
+iso.extractor.archive
+com.tss.in.android.fitsTolerance
+de.dzapps.iso_system_din286_1
+isone.com.isotogo.android
+com.mixapplications.ventoy_app
+com.caiso.IsoToday
+iso.extractor.zip.bin.creator
+com.pb.android.isocraft
+org.isotools.mrkt
+ru.zdevs.zarchiver
+eu.depau.etchdroid

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.ForeSightGaming.MyFavoriteCar/My%20Favorite%20Car_1.1.9_apkcombo.com.apk?ecp=Y29tLkZvcmVTaWdodEdhbWluZy5NeUZhdm9yaXRlQ2FyLzEuMS45LzMxLjkzOWE0M2ViNWZjMmFlYjVhZDlkZmY4YmZhMWI2YWZjYmQ1MDU4ZTAuYXBr&iat=1662017132&sig=0800f97f9ad3cbc46e87e46a8d0d569b&size=420383668&from=cdn&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.ForeSightGaming.MyFavoriteCar/My%20Favorite%20Car_1.1.3_apkcombo.com.apk?ecp=Y29tLkZvcmVTaWdodEdhbWluZy5NeUZhdm9yaXRlQ2FyLzEuMS4zLzI0LjUyMzBhZTQ5NWZjYWUyMTc5MTUwZTcwNTRkNTYxNmYzMmRkNDg4MWMuYXBr&iat=1659448146&sig=a4c28cd63af0ecd5375e7e49fee49383&size=360652386&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,0 +1,243 @@
+{
+    "docid": "com.security.xvpn.z35kb",
+    "backendDocid": "com.security.xvpn.z35kb",
+    "docType": 1,
+    "backendId": 3,
+    "title": "X-VPN - Private Browser VPN",
+    "creator": "Free Connected Limited",
+    "descriptionHtml": "Surf the web securely and privately. Protect your online privacy with a lightning fast and stable connection.<br><br>★ 10 Protocols To Choose <br><br>★ Support Up To 5 Devices<br><br>★ 8000+ Servers Around 50+ Global Locations(Only premium can access all)<br><br>★ Support Kill Switch &amp; DNS Leak Test &amp; IP Checker(Premium only)<br><br>★ Set The Fastest Severs Automatically For You <br><br>★ Run Speed Test Immediately In X-VPN To Check The Servers(Premium only)<br><br>★ Strict User Privacy Policy <br><br>▶ Secure Your Internet Activity And Wifi Connection<br>Simple switch among locations, then your IP will change to another country easily. Surfing anonymously will give your privacy the greatest protection. You are perfectly encrypted and hidden.<br><br>▶ Super Fast To Connect And Stream<br>We offer dedicated servers(premium only) for you to enjoy streaming on the site you like. You can stream with a boosting fast speed in HD model. Never miss any important sports lives or series again.<br><br>▶Use Security Tools To Get More Protection <br>We provide several functional security tools including Kill Switch, DNS Leak Test and IP checker(premium only). With Kill Switch on, all internet will be disabled if X-VPN disconnects. Checking whether you have a DNS Leak or not is very easy with the test tool. You can also check your IP info in details after connecting to X-VPN. <br><br>▶Strict Privacy Policy<br>We are committed to protecting our users’ privacy and strictly obey the local law about online privacy protection. We have designated staff regularly review the relevant regulation, rule, law changes to enforce the privacy protection. For requests or inquiries concerning user privacy, feel free to contact us at support@xvpn.io, we will respond to requests or inquiries within 48 hours.<br><br>You can find more details about the privacy policy on our site: <br>Privacy Policy:https://xvpn.io/?n=best.free.xvpn.PrivacyPolicyPage<br>Terms of Services:https://xvpn.io/?n=best.free.xvpn.TermsOfServicePage<br><br>If you do like this app, don’t forget to share X-VPN with your friends!<br><br>Contact us<br>If you have any problems or suggestions, feel free to contact us in the app.Feedback will always work.<br><br>Follow us<br>Facebook:https://www.facebook.com/xvpn2017<br>Twitter:https://twitter.com/xvpn2017",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/71SSl40ks8iD4ozj8FPA6ViHpY4p1yRxSmVdxf3zIyAI0YqbhQgpDiWLA27TWA8cCBWF",
+            "supportsFifeUrlOptions": true,
+            "color": "#56CEE0"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/4voR8cx0pIXJAwYuvmcxi4Sch8DFiMogWQqF6CIrKuNg-ZB0bwdkwDwTcN2Hkeq55Go",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 16,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/EHB0zEmN1rAkxm3ggLrCMIYCFOh-xwbH8FRpjPQZIu_fengHoUYM6QOWRmao92eqx48",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2014,
+                "height": 2688
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/x0HEjk80xTaLSS9sNhJDhk0GZqHikyoRtMeoaGbHR8j23uWvFRnac4S4xdHajLvR0QbW",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2014,
+                "height": 2688
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/jCsMLUmWVDT_KpT9m4zHYdzN0cDNYinoZdnEx2LVnGDQTw7dTymH0keOsSQQl0E-6x0",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2014,
+                "height": 2688
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/leeIkYTkJp-xmivwgejOC-cjydESsehdGb-VuE1eD277eLk3_KkjL-eMnN-RZFk_Ls0",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2014,
+                "height": 2688
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/CqbMHyiFblGMGaMFNcPmvZscvc1CiRmoOAbxXZ1rbbK7JUeyWpdb0CqMclFrdayrCek",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2014,
+                "height": 2688
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/qAIMsT6CSGFWLcxddu0NDQJ-SRXJzcFzYaQMASbHRX3ZIcwaPvhUmf3fwaf8jxmjkUQ",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Free Connected Limited",
+            "versionCode": 2147,
+            "versionString": "163",
+            "installationSize": "43395289",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.CAMERA",
+                "android.permission.EXPAND_STATUS_BAR",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.WAKE_LOCK",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.google.android.gms.permission.AD_ID",
+                "com.google.android.providers.gsf.permission.READ_GSERVICES"
+            ],
+            "developerEmail": "support@xvpn.io",
+            "developerWebsite": "https://xvpn.io",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "com.security.xvpn.z35kb",
+            "recentChangesHtml": "- Now there are recommended protocols for your certain region.<br>- Fixed &#39;disconnecting&#39; issue<br>- Thanks for your support as always!",
+            "uploadDate": "Oct 15, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 2147,
+                    "size": "43395289"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "43395289",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            },
+            "developerAddress": "ROOM 1003, 10/F, TOWER 1, LIPPO CENTRE, 89 QUEENSWAY, ADMIRALTY, HK"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.413361549377441,
+        "ratingsCount": "326881",
+        "oneStarRatings": "26534",
+        "twoStarRatings": "7471",
+        "threeStarRatings": "16585",
+        "fourStarRatings": "30036",
+        "fiveStarRatings": "246252",
+        "commentCount": "104164"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://xvpn.io/?n=best.free.xvpn.PrivacyPolicyPage",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiiiCiUIEioCCAkyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiiiCiUIEioCCAkyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Free Connected Limited",
+                "url1": "getStream?ecp=Cj-KAzwKGQoTODc2Nzk3NDYyMTEyODI1Mzc3MxAIGAMSHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=Cj-KAzwKGQoTODc2Nzk3NDYyMTEyODI1Mzc3MxAIGAMSHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiiiCiUIESoCCAgyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiiiCiUIESoCCAgyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiiiCiUIEioCCAgyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiiiCiUIEioCCAgyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiiiCiUIASoCCAgyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=CiiiCiUIASoCCAgyHQoXY29tLnNlY3VyaXR5Lnh2cG4uejM1a2IQARgD"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.security.xvpn.z35kb",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb",
+    "reviewsUrl": "rev?doc=com.security.xvpn.z35kb&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$7.99 - $69.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Free Connected Limited"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "support@xvpn.io"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "ROOM 1003, 10/F, TOWER 1, LIPPO CENTRE, 89 QUEENSWAY, ADMIRALTY, HK"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jun 29, 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Super fast proxy master, unlimited privacy shield on public WiFi and browser",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.security.xvpn.z35kb"
+}

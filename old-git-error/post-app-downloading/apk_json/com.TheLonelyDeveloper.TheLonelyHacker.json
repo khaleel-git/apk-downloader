@@ -1,0 +1,269 @@
+{
+    "docid": "com.TheLonelyDeveloper.TheLonelyHacker",
+    "backendDocid": "com.TheLonelyDeveloper.TheLonelyHacker",
+    "docType": 1,
+    "backendId": 3,
+    "title": "The Lonely Hacker",
+    "creator": "The Lonely Developer 2020",
+    "descriptionHtml": "Turn your phone into the best digital weapon and become a true master of technology. You will hack everything you can imagine within an enormous open world and coordinate 100% realistic attacks with the tools we have designed exclusively for you.<br><br>Live a customized and different adventure each time you submerge into the cybercrime world. You will learn every method used by modern hackers and dominate all the attack vectors, from the most common up to the most exclusive ones, known only by security experts and the most dangerous cybercriminals.<br><br>The knowledge you obtain through the detailed tutorial that will teach you how to use each one of the tools available will also serve you in real-life to better understand the digital world we live in. You will be more aware of the dangers lurking behind each corner in the labyrinth that is the internet and you will feel like a true hacker.<br><br>Features:<br><br>- Big open world with all the real countries to travel to and hack every device possible!<br><br>- Realistic hacking software and hardware!<br><br>- Mini-games for when you get tired of hacking!<br><br>Enjoy!<br><br>A game published by &quot;The Lonely Developer&quot; - An independent developer",
+    "offer": [
+        {
+            "micros": "3000000",
+            "currencyCode": "USD",
+            "formattedAmount": "$3.00",
+            "checkoutFlowRequired": true,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/FAP0jKIOvZYZJDrLzz9pYMTYdlp6tQ_M2cXBRmYGnGaJApBk32wxopGIx03aZ-VUnt6l",
+            "supportsFifeUrlOptions": true,
+            "color": "#025020"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/jYiFLYDLqvzQt65QFsk8zpxqn_XPqWBLGUv4Krt0hJmdu1sM4KnutDTn6PAKADtjtxN7",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 16,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/62mgmqOdYv1g8fNzBaSpQMIPyWzXZz6RTpeH1CAHGJ1LE2hkbRVPNArrFOWA5o44hdU",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=HI0-_i2TvJg"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/HI0-_i2TvJg/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/UR_Jb09_RvUTf11wskqdjZvJlAG_OqrK9CQhJICm-91CpRqTbNpy8kkV1aFogpO0mA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/KLmlXIfyZ4vkbgZSVmpGhN0KTULNhYuutXJi5sXC3iH0pfgdLMOUPgbQhbIV_tkXs7k",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/NAPd_SNC3XSwqoOi7ksUsWru_bufMRQGaFewqb9Hy3Dds26_AvU2ox_Xhol8JLubuA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/nx-wiDHo281I4Dc-O9ev-uAdPnJuwptbHSk_bK0yt-TPASgTV0HBpC5WFMQbhis_AOg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/x2bwC-qDEFMWTcZy3Y-k2EsAvqCdl3Jb-J7E24oSUYV3YrcICcOMlMxfeTpeUvO6-xM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/VKvGgkosWd2_cTs1ZhoTRhKEVdG5Lj7b_Zc0q4HGONZubQiXWrhdnDhWvWUL8bgIYkUR",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Bu1nXDe1gX2NRoM8dQYT_ZyVeTsftOXF-2PHDj5N5ihOFJWCtxZdm4uF7SogiNfCcg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 720
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/o9Nc4XJXPTp2Q_q8uuKiztKyu5JOvMm4P9GsSTVuBrbwTc4I5jDGUW6LcNjRLELxUws",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "The Lonely Developer 2020",
+            "versionCode": 134,
+            "versionString": "14.3",
+            "installationSize": "135614568",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+                "android.permission.INTERNET"
+            ],
+            "developerEmail": "Thelonelycoder87@gmail.com",
+            "developerWebsite": "http://thelonelydeveloper.net/",
+            "numDownloads": "1,000,000+ downloads",
+            "packageName": "com.TheLonelyDeveloper.TheLonelyHacker",
+            "recentChangesHtml": "Enjoy this game with NO ads and NO in-game purchases. You can read the complete changelog inside the game, in the NEWS section of the Hacker&#39;s Headquarters!",
+            "uploadDate": "Oct 14, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 134,
+                    "size": "135614568"
+                }
+            ],
+            "appType": "GAME",
+            "unstable": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "135614568",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    },
+                    {
+                        "packageName": "com.google.android.play.games",
+                        "version": 0
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "Matka Vukovica 10, 24000, Subotica, Serbia"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.408653736114502,
+        "ratingsCount": "12426",
+        "oneStarRatings": "985",
+        "twoStarRatings": "229",
+        "threeStarRatings": "726",
+        "fourStarRatings": "1264",
+        "fiveStarRatings": "9219",
+        "commentCount": "6689"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://thelonelydeveloper.net/privacy%20policy.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjeiCjQIEioCCAkyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjeiCjQIEioCCAkyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by The Lonely Developer 2020",
+                "url1": "getStream?ecp=Ck6KA0sKGQoTNzc3Nzk3MTcwODUzNTM5MjcxNBAIGAMSLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=Ck6KA0sKGQoTNzc3Nzk3MTcwODUzNTM5MjcxNBAIGAMSLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjeiCjQIESoCCAgyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjeiCjQIESoCCAgyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjeiCjQIEioCCAgyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjeiCjQIEioCCAgyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=Cj2iCjoIARIER0FNRSoCCAgyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=Cj2iCjoIARIER0FNRSoCCAgyLAomY29tLlRoZUxvbmVseURldmVsb3Blci5UaGVMb25lbHlIYWNrZXIQARgD"
+            }
+        ],
+        "categoryInfo": {
+            "appType": "GAME"
+        }
+    },
+    "detailsUrl": "details?doc=com.TheLonelyDeveloper.TheLonelyHacker",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker",
+    "reviewsUrl": "rev?doc=com.TheLonelyDeveloper.TheLonelyHacker&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "The Lonely Developer 2020"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "Thelonelycoder87@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Matka Vukovica 10, 24000, Subotica, Serbia"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Feb 15, 2018"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Ever wanted to feel like a hacker? Welcome to the Lonely Hacker!",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.TheLonelyDeveloper.TheLonelyHacker"
+}

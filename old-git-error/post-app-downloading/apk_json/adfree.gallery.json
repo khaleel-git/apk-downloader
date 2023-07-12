@@ -1,0 +1,237 @@
+{
+    "docid": "adfree.gallery",
+    "backendDocid": "adfree.gallery",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Gallery Ad Free",
+    "creator": "gallery ad free",
+    "descriptionHtml": "Photo Gallery Application more secure than the other Android gallery applications. In this application provide many features available like you can change application theme color and in this application three theme provide. And secondary color chooses by your side. Do you have pictures or videos that you want to keep it secret?<br><br>You can enjoy your photos and videos in a HD quality as everyone want to. But the photo gallery strives to possess a high performance in the meantime.<br><br>* Features *<br>- Create photo albums. Auto-style change on position/orientation change of device.<br>- Selfie Camera picture album.<br>- Folder Exclude &amp; Restore<br>- Slide show animation with unlimited photo pics of HD Gallery.<br>- Multi selection move &amp; copy paste files.<br>- Beauty Camera Effects on favorite gallery images<br>- Create an photo albums<br>- Can Change Theme color from setting.<br>- Move to different Album<br>- Customize Background Color.<br>- Best Gallery video player.<br>- Change Theme color from setting<br>- You can set your photo as Wallpaper.<br>- Open photo with preferable apps.<br>- Supported all the popular image and video formats<br>- Show photo details.<br>- Single or double tap or pinch to zoom.<br>- Able Grid Photo view.<br>- Able List Photo view.<br>- Easy to share pictures<br><br>Gallery 2020 is an excellent, feature-rich app for organizing your photos.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/6h_ESXBRmikk81qyzMak1Gd8vlnDB-k0PbdkadLcktcE8gcbJvzyTdt206Vtb3U-rw",
+            "supportsFifeUrlOptions": true,
+            "color": "#FFFFFF"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rh_BxMMH-su6g97OPXDKnMS2Xtf74n_bkBn-g3M9JE3r6_C2Gnf3N42YdEtcipQcvi4",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/SGvJYGiJXSc7lQaa3zkQCyddhC-Xy91TtZz0DdqxwjSVg8cvx1EIb9rO46Uc53m3Vg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/DKTuFcBeNa8xvawlIbcQ3yewFnmvz86Qt73ntUOLqNzsvcTq5HSofrzqLlmX0omAWoo",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/RySpR1pjGnEw5PzjEFG97kBDPe8vBMkvmxJsjoiA7_qCFTfJz6LLRBdAQsdblLmoPn0",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ItS8LtjwjGtQKL7LpLQYHKSXclLlNjA3aB1I4d2D7_1kYZuDOvq51cJcbhKQzjpAwLVP",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/kR4rNDbLmHDRVOarU2ocAgZLV4A0u8AKG-l36OFecVH1LJM7VPLk9ITeKW1UiR7w5a0",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/9fHdiyNLX4bMEk-XfeIWK9OVzoKo1GE9LzeE6X-IWlupwRL6iW6ju7rnr9_NvThsVC4",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/JKT7yRjM9ezEHuTQnhlk4tIV0mCwwlfv8vKEF7cgJoRtHmtnipzsImPI_K9XHUAAYvQ1",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/iNGnSffIURfLQPQl7vnDZFAiKGLuzbgHTd6MmfByVKGSPXM4OicgcHKkCLiY96Fw9IY",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "gallery ad free",
+            "versionCode": 1,
+            "versionString": "1.0",
+            "installationSize": "13884296",
+            "permission": [
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.SET_WALLPAPER",
+                "android.permission.USE_FINGERPRINT",
+                "android.permission.WRITE_EXTERNAL_STORAGE"
+            ],
+            "developerEmail": "trackoninfotech007@gmail.com",
+            "numDownloads": "1,000,000+ downloads",
+            "packageName": "adfree.gallery",
+            "recentChangesHtml": "Free gallery",
+            "uploadDate": "Jun 6, 2020",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 1,
+                    "size": "13884296"
+                }
+            ],
+            "unstable": false,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "13884296",
+                "unknown3": 29
+            },
+            "developerAddress": "Rajkot"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.558910369873047,
+        "ratingsCount": "16814",
+        "oneStarRatings": "876",
+        "twoStarRatings": "388",
+        "threeStarRatings": "657",
+        "fourStarRatings": "1433",
+        "fiveStarRatings": "13459",
+        "commentCount": "6092"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://trackoninfotech007.blogspot.com/2020/06/privacy-policy.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=Ch-iChwIEioCCAkyFAoOYWRmcmVlLmdhbGxlcnkQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=Ch-iChwIEioCCAkyFAoOYWRmcmVlLmdhbGxlcnkQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by gallery ad free",
+                "url1": "getStream?ecp=CjaKAzMKGQoTNjU3NTczMDI2ODg0MjAxODU4MBAIGAMSFAoOYWRmcmVlLmdhbGxlcnkQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjaKAzMKGQoTNjU3NTczMDI2ODg0MjAxODU4MBAIGAMSFAoOYWRmcmVlLmdhbGxlcnkQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=Ch-iChwIESoCCAgyFAoOYWRmcmVlLmdhbGxlcnkQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=Ch-iChwIESoCCAgyFAoOYWRmcmVlLmdhbGxlcnkQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=Ch-iChwIEioCCAgyFAoOYWRmcmVlLmdhbGxlcnkQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=Ch-iChwIEioCCAgyFAoOYWRmcmVlLmdhbGxlcnkQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=Ch-iChwIASoCCAgyFAoOYWRmcmVlLmdhbGxlcnkQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=Ch-iChwIASoCCAgyFAoOYWRmcmVlLmdhbGxlcnkQARgD"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=adfree.gallery",
+    "shareUrl": "https://play.google.com/store/apps/details?id=adfree.gallery",
+    "reviewsUrl": "rev?doc=adfree.gallery&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "gallery ad free"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "trackoninfotech007@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Rajkot"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jun 6, 2020"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Free gallery",
+    "reviewQuestionsUrl": "reviewQuestions?doc=adfree.gallery"
+}

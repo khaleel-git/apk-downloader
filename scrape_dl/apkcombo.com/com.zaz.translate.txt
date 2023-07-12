@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.zaz.translate/Hi%20Translate%20-%20Chat%20translator_v3.0.4.9.1_apkcombo.com.apk?ecp=Y29tLnphei50cmFuc2xhdGUvdjMuMC40LjkuMS8yMDIyMDkyMzE5LjNiYWYxOGIwZDMyYmQzNzA1ZWFhMmI1NTU1Mjg4NmUzODBjZjljZjMuYXBr&iat=1664300974&sig=c884fd9f73cde6d855e36adc9b799bce&size=57817985&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.zaz.translate/Hi%20Translate%20-%20Chat%20translator_v3.0.4.5_apkcombo.com.apk?ecp=Y29tLnphei50cmFuc2xhdGUvdjMuMC40LjUvMjAyMjA3MDUxMC42NWRmMzY3YWNhMWMzMjZkM2Y0ODAzMjNjMGQ4ZmZiNTAxNjNhYzNlLmFwaw==&iat=1657637484&sig=2090263f17bff9a40bd50f27fac85d21&size=56620034&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

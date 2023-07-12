@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.sensedevil.VTT/Virtual%20Table%20Tennis_2.3.1_apkcombo.com.apk?ecp=Y29tLnNlbnNlZGV2aWwuVlRULzIuMy4xLzg4LjFmMzM1MDJlMDdlNDI3NGQyZWFkM2I4MzM1ZTY0OWE1ZDkxZjE3NjMuYXBr&iat=1665416088&sig=1ca77120001db6125928b58fd2ba4b7f&size=71747855&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.sensedevil.VTT/Virtual%20Table%20Tennis_2.3.1_apkcombo.com.apk?ecp=Y29tLnNlbnNlZGV2aWwuVlRULzIuMy4xLzg4LjFmMzM1MDJlMDdlNDI3NGQyZWFkM2I4MzM1ZTY0OWE1ZDkxZjE3NjMuYXBr&iat=1657983127&sig=3279a7b5753031e63519ef784bbb7137&size=71747855&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

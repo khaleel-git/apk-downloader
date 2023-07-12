@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 14:26:53 GMT
+Date: Tue, 11 Jul 2023 14:26:53 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-20.winudf.com/b/APK/emEuY28ud2lncm91cC5idXJnZXJraW5nXzQzMzUwMDA0X2Q4ZjAzYTQ3?_fn=QnVyZ2VyIEtpbmcgU0FfNC4zLjM1X0Fwa3B1cmUuYXBr&_p=emEuY28ud2lncm91cC5idXJnZXJraW5n&is_hot=false&k=72a16350ff82f07485e598d50e9adfcc64aeb82d
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e51b95399673a07-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 24872294
+x-rgw-object-type: Normal
+ETag: "36d2556a6ab02143267a434d32626f0f"
+Last-Modified: Tue, 04 Jul 2023 13:04:24 GMT
+Content-Disposition: attachment; filename="Burger King SA_4.3.35_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

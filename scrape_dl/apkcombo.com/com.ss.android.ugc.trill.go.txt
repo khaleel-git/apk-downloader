@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.ss.android.ugc.trill.go/TikTok%20Lite_3.8.1_apkcombo.com.apk?ecp=Y29tLnNzLmFuZHJvaWQudWdjLnRyaWxsLmdvLzMuOC4xLzM4MS4yNDQwZWMwNzllYzAzOTAxYmUzMTRlN2M2ZWFhOWZjNzdjNzI1MjZiLmFwaw==&iat=1662426253&sig=c74b95a87b7fffb5986adbd0852fdd01&size=34796621&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.ss.android.ugc.trill.go/TikTok%20Lite%20-%20deprecated_3.8.1_apkcombo.com.apk?ecp=Y29tLnNzLmFuZHJvaWQudWdjLnRyaWxsLmdvLzMuOC4xLzM4MS4yNDQwZWMwNzllYzAzOTAxYmUzMTRlN2M2ZWFhOWZjNzdjNzI1MjZiLmFwaw==&iat=1656204242&sig=561115c60f08af3c98f25c56fa75d4fb&size=34796621&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/co.ninecount.wink/Wink_4.30.0_apkcombo.com.apk?ecp=Y28ubmluZWNvdW50LndpbmsvNC4zMC4wLzE2NjU2MTgxMzYuM2ZjYWQzNTE5MmFjNTc5NDRlYzI1OGJlMjA4NGQ3NGU1MDgwZmJhMS5hcGs=&iat=1666253166&sig=35bd49b56c2b37224bd97ac5621cc35c&size=220094692&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/co.ninecount.wink/Wink%20-%20make%20new%20friends_4.27.0_apkcombo.com.apk?ecp=Y28ubmluZWNvdW50LndpbmsvNC4yNy4wLzE2NTkzMTkzMTQuOTdkMTQwNGNjYTc5MGJkNWFiNjMwNmQ2NWZiZDY2NjE3MDUxNDcwNy5hcGs=&iat=1659497673&sig=4a0b46dde1f22309300ba0ebb173f9fd&size=221110613&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

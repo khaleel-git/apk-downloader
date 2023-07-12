@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.GruesomeGames.GDmod/Dmod_1.1_apkcombo.com.xapk?ecp=Y29tLkdydWVzb21lR2FtZXMuR0Rtb2QvMS4xLzExMS44Yzc3MTU1ODg4NjBmMTk4YTBhZDU2ZTQxYTQxNmE5OWNkOTBmMjlkLnppcA==&iat=1664101890&sig=ae8a67480a47b12b66f1aeae4266d532&size=508103717&from=cdn&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.GruesomeGames.GDmod/Dmod_1.0_apkcombo.com.xapk?ecp=Y29tLkdydWVzb21lR2FtZXMuR0Rtb2QvMS4wLzUzLmRhYjc3YmI4ODAzZmQxMTBiNGZjN2MxZjE0YjIzZmJjNmE2ZDIwNzcuemlw&iat=1656484837&sig=b32866aad1f0dc8430caefe33b053176&size=375268187&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

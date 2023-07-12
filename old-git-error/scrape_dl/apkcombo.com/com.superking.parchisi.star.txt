@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.superking.parchisi.star/Parchisi_1.131.4_apkcombo.com.apk?ecp=Y29tLnN1cGVya2luZy5wYXJjaGlzaS5zdGFyLzEuMTMxLjQvMjI4LjQ0MDZkMjI3NDc1Mzg0MzMzODcyMWE4ZDNlYjQ4OWZiYTViNjI1ODMuYXBr&iat=1664211814&sig=f6811630af8544f6c2e5ff4d2df4681b&size=91350210&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.superking.parchisi.star/Parchisi%20STAR%20Online_1.125.2_apkcombo.com.apk?ecp=Y29tLnN1cGVya2luZy5wYXJjaGlzaS5zdGFyLzEuMTI1LjIvMjEzLjA4ZjczZTk5YTk2NGIyMzQzM2Q5MGQ4MzcxMTNiOTE2ZjhjN2JjYTAuYXBr&iat=1655762866&sig=03c8a93b5d0f64625ca755ca1078968b&size=75326931&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

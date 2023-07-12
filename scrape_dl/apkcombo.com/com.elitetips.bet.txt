@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.elitetips.bet/Elite%20Tips%20Bet_1.0.4_apkcombo.com.apk?ecp=Y29tLmVsaXRldGlwcy5iZXQvMS4wLjQvNS4wZjAzOTAwYTQ1NDA4OTZlZjMxYTdhNGFiMTAxNDFkNDQ4ODdiMjM2LmFwaw==&iat=1662728581&sig=f6d0d223e4cf9b6a1127b6d9a91b913a&size=8262981&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.elitetips.bet/Elite%20Tips%20Bet_1.0.4_apkcombo.com.apk?ecp=Y29tLmVsaXRldGlwcy5iZXQvMS4wLjQvNS4wZjAzOTAwYTQ1NDA4OTZlZjMxYTdhNGFiMTAxNDFkNDQ4ODdiMjM2LmFwaw==&iat=1656222148&sig=6d86e05dae8066a670fcb79aa8e98f5e&size=8262981&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

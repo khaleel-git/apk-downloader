@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 21:21:44 GMT
+Date: Tue, 11 Jul 2023 21:21:45 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-15.winudf.com/b/APK/Y29tLnZpZHBhbC55Mm1hdGVkb3dubG9hZGVyXzJfNDlhNmVkYzg?_fn=WTJNYXRlIC0gTXAzICYgTXA0IERvd25sb2FkZXJfMl9BcGtwdXJlLmFwaw&_p=Y29tLnZpZHBhbC55Mm1hdGVkb3dubG9hZGVy&is_hot=false&k=59c39180e0bf79fa8b146b312d8e8de164af1968
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e5419067d9e36c7-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 8289625
+x-rgw-object-type: Normal
+ETag: "f678479e1dda3d125f3aa21fc804185f"
+Last-Modified: Tue, 23 May 2023 07:00:12 GMT
+Content-Disposition: attachment; filename="Y2Mate - Mp3 & Mp4 Downloader_2_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: MISS
+Accept-Ranges: bytes

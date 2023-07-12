@@ -1,0 +1,24 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 14:41:52 GMT
+Date: Tue, 11 Jul 2023 14:41:52 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-21.winudf.com/b/APK/aGQua2FtZXJhXzY3XzNiNmE2YTEy?_fn=SEQgQ2FtZXJhXzEuNjdfQXBrcHVyZS5hcGs&_p=aGQua2FtZXJh&is_hot=false&k=24a6649d5c81e6173e9c39abf0692aea64aebbb0&uu=http%3A%2F%2F172.16.70.1%2Fb%2FAPK%2FaGQua2FtZXJhXzY3XzNiNmE2YTEy%3Fk%3De5b15520f759bdbacca7371c1daf461e64aebbb0
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e51cf47ce0336d4-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 5654416
+Cache-Control: max-age=315360000
+x-rgw-object-type: Normal
+X-Cache-Status: MISS
+X-Cache-Status: HIT
+ETag: "4a0d3b163c040d1d1a22a40e895bdb85"
+Last-Modified: Sun, 04 Jun 2023 22:45:05 GMT
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Content-Disposition: attachment; filename="HD Camera_1.67_Apkpure.apk"
+Accept-Ranges: bytes

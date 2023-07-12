@@ -1,0 +1,226 @@
+{
+    "docid": "com.guidetoget.tutuboxapp",
+    "backendDocid": "com.guidetoget.tutuboxapp",
+    "docType": 1,
+    "backendId": 3,
+    "title": "TutuBox : Guide for App",
+    "creator": "TutuRabit.inc",
+    "descriptionHtml": "There are a lot of App Stores for i OS pretending to be unrevokeable and TutuBox doesn&#39;t make here a lot of a difference. This new 3rd party App Store was designed to work on i OS 13 with access to some popular emulators, jailbreak tools, hacked games, and tweaked apps. Install TutuBox on your i Phone without a computer.<br><br>TutuBox works on both Jailbreak and non-Jailbreak devices running i OS 13. Same as all other free app stores, all apps are signed using an enterprise certificate, that can easily get revoked. Using a proxy can help you to avoid this situation.<br><br>Tutubox app is an excellent addition to the no revoke 3rd party app store for i Phones that allows you to install thousands of popular tweaked apps and games for free. It is designed to work on the latest i OS 13.x and i OS 14.x, regardless of the phone’s Jailbreaking status. Yes, you can use Tutubox to download best for free.<br><br>DISCLAIMER:<br>1. Unofficial Guide for TutuBox app complies with the United States copyright law &quot;fair use.&quot;",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/RFVnrWPrPAzjfHEm5oT9QkOKxkAcJwoLbXSOuCdOJ8VxgVyKlDiW5KNBb0uRcOM1_lE",
+            "supportsFifeUrlOptions": true,
+            "color": "#31C7FE"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/2KCrgvmJvvAAwdB1P9rdPahMZmeEnrCC_3ARSYQH3RrPjXHflKDjHsVVm066XA4o3YpI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 869,
+                "height": 1611
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/-i14f6Yy5Ofte1GEwgJQDGRnOJjBih2NXj3i8VzvxTvbgSBp9CIRxiX1DMlq8OvG5PA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 870,
+                "height": 1611
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/wGKfVlxeMlkaGSqokn5k3VP7z36z_Kfo9EBbJuAdzZxaELqywflIyQ2ISeIYRqxHAdXc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 870,
+                "height": 1611
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/kr0FAwe-nnLdwPWn5O24rCk2Vw81WWvQrm1n3GSQ1tspPAVVveTT7IgKRjScnZBNZEA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 872,
+                "height": 1611
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/JQTza0TDsXfihdtFdYYRxToaU51kDMD9Sf1FxnKNGlfaVWDQyD-bmicm3OOSVsltR3DM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 873,
+                "height": 1611
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/kE6LRhlSJUlqJX2Thg39lz30K9eyXvWkMRoFfBoUOxsZ0CnuPhUe3zGRhZjxbBXY_29j",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "TutuRabit.inc",
+            "versionCode": 1,
+            "versionString": "1.0.0",
+            "installationSize": "10086739",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.INTERNET",
+                "android.permission.READ_APP_BADGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "com.anddoes.launcher.permission.UPDATE_COUNT",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.guidetoget.tutuboxapp.permission.C2D_MESSAGE",
+                "com.htc.launcher.permission.READ_SETTINGS",
+                "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                "com.huawei.android.launcher.permission.READ_SETTINGS",
+                "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                "com.majeur.launcher.permission.UPDATE_BADGE",
+                "com.oppo.launcher.permission.READ_SETTINGS",
+                "com.oppo.launcher.permission.WRITE_SETTINGS",
+                "com.sec.android.provider.badge.permission.READ",
+                "com.sec.android.provider.badge.permission.WRITE",
+                "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                "me.everything.badger.permission.BADGE_COUNT_READ",
+                "me.everything.badger.permission.BADGE_COUNT_WRITE"
+            ],
+            "developerEmail": "tutumartinapp@gmail.com",
+            "numDownloads": "100,000+ downloads",
+            "packageName": "com.guidetoget.tutuboxapp",
+            "uploadDate": "Mar 1, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 1,
+                    "size": "10086739"
+                }
+            ],
+            "unstable": false,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "10086739",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 3.303278684616089,
+        "ratingsCount": "1192",
+        "oneStarRatings": "459",
+        "twoStarRatings": "29",
+        "threeStarRatings": "39",
+        "fourStarRatings": "19",
+        "fiveStarRatings": "644",
+        "commentCount": "663"
+    },
+    "relatedLinks": {
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiqiCicIEioCCAkyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiqiCicIEioCCAkyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by TutuRabit.inc",
+                "url1": "getStream?ecp=CkGKAz4KGQoTODA5OTcxMTE4NjcxNTQ1MDUzMhAIGAMSHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CkGKAz4KGQoTODA5OTcxMTE4NjcxNTQ1MDUzMhAIGAMSHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiqiCicIESoCCAgyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiqiCicIESoCCAgyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiqiCicIEioCCAgyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiqiCicIEioCCAgyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiqiCicIASoCCAgyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiqiCicIASoCCAgyHwoZY29tLmd1aWRldG9nZXQudHV0dWJveGFwcBABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.guidetoget.tutuboxapp",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.guidetoget.tutuboxapp",
+    "reviewsUrl": "rev?doc=com.guidetoget.tutuboxapp&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "TutuRabit.inc"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "tutumartinapp@gmail.com"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Mar 1, 2021"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "There are a lot of App Stores for i OS pretending to be unrevokeable and TutuBox",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.guidetoget.tutuboxapp"
+}

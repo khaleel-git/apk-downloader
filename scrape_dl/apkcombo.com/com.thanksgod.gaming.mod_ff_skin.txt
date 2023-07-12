@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.thanksgod.gaming.mod_ff_skin/Skin%20Tools_5.0.4_apkcombo.com.apk?ecp=Y29tLnRoYW5rc2dvZC5nYW1pbmcubW9kX2ZmX3NraW4vNS4wLjQvNTkuYWI5YmMxNDQyM2FiZWFkOWNlZjQ0MmFjNGFiZjZjMGViODc2MDNlYy5hcGs=&iat=1665323973&sig=a25430876294d15756a355dd63717ec9&size=34070300&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.thanksgod.gaming.mod_ff_skin/Skin%20Tools_5.0.4_apkcombo.com.apk?ecp=Y29tLnRoYW5rc2dvZC5nYW1pbmcubW9kX2ZmX3NraW4vNS4wLjQvNTkuYWI5YmMxNDQyM2FiZWFkOWNlZjQ0MmFjNGFiZjZjMGViODc2MDNlYy5hcGs=&iat=1657873261&sig=827e95eebfe55579aabca90fd7d0d36b&size=34070300&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

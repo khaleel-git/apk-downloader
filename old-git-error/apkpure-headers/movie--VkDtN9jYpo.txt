@@ -1,0 +1,20 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 15:15:56 GMT
+Date: Tue, 11 Jul 2023 15:15:57 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://apkpure.com
+CF-Cache-Status: DYNAMIC
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: cloudflare
+CF-RAY: 7e52012ffbe336ae-YYZ
+CF-RAY: 7e520136fc3e39f3-YYZ
+1: HTTP/1.1 200 OK
+Set-Cookie: _apk_sid=1.1.1689088556774.1.1.1689088556774.-480; Max-Age=31536000; Domain=apkpure.com; Path=/; Expires=Wed, 10 Jul 2024 15:15:56 GMT
+Set-Cookie: _apk_uid=9d2GGndaJ4JRJtc4JdGxFnFzsK6NxSPA; Max-Age=31536000; Domain=apkpure.com; Path=/; Expires=Wed, 10 Jul 2024 15:15:56 GMT
+Set-Cookie: _user_tag=j%3A%7B%22language%22%3A%22en%22%2C%22source_language%22%3A%22*%22%2C%22country%22%3A%22CA%22%7D; Max-Age=22118400; Domain=apkpure.com; Path=/; Expires=Sat, 23 Mar 2024 15:15:56 GMT; HttpOnly

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.vesperchip.ffwalls/Fire%20Sensitivity%20GFX%20Tool_4.5_apkcombo.com.apk?ecp=Y29tLnZlc3BlcmNoaXAuZmZ3YWxscy80LjUvMzUuYzEyOTllZmEzMDcwZjg2NDFiZmU3NjRlYTU5MDc1ZmZhNzQ1MjhlZi5hcGs=&iat=1666345452&sig=e5502d9973bcba00ae44d962d3f67077&size=15540952&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.vesperchip.ffwalls/Fire%20Sensitivity%20GFX%20Tool_4.5_apkcombo.com.apk?ecp=Y29tLnZlc3BlcmNoaXAuZmZ3YWxscy80LjUvMzUuYzEyOTllZmEzMDcwZjg2NDFiZmU3NjRlYTU5MDc1ZmZhNzQ1MjhlZi5hcGs=&iat=1657718566&sig=26c4afdbf60fdce429624898de62eb7c&size=15540952&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

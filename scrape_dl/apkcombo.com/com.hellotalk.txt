@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.hellotalk/HelloTalk%20-%20Learn%20Languages_4.8.9_apkcombo.com.apk?ecp=Y29tLmhlbGxvdGFsay80LjguOS80OTcxLjZmZDg4ZjI5YWFlMGZmNzU5MjgwNjA5ZjhiYWQ2MmQ2NDA5MGU0Y2UuYXBr&iat=1662047708&sig=a578b7fbb04fed075ca22b5a08ee4a11&size=251845407&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.hellotalk/HelloTalk%20-%20Learn%20Languages_4.6.8_apkcombo.com.apk?ecp=Y29tLmhlbGxvdGFsay80LjYuOC80MDQ4LjFkMWEzY2Q4MzYxYzI4Yjc2MGM0OGZmYzgyM2E3Mjk5NWEwOWZjZWIuYXBr&iat=1655886921&sig=551cacf20b8a27eb64fb67aa963e0c4d&size=222458201&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

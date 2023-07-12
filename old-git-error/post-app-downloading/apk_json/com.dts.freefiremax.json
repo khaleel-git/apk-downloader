@@ -1,0 +1,292 @@
+{
+    "docid": "com.dts.freefiremax",
+    "backendDocid": "com.dts.freefiremax",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Garena Free Fire MAX",
+    "creator": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+    "descriptionHtml": "Free Fire MAX is designed exclusively to deliver premium gameplay experience in a Battle Royale. Enjoy a variety of exciting game modes with all Free Fire players via exclusive Firelink technology. Experience combat like never before with Ultra HD resolutions and breathtaking effects. Ambush, snipe, and survive; There is only one goal: to survive and be the last one standing.<br><br>[Fast-paced, deeply immersive gameplay]<br>50 players parachute onto a deserted island but only one will leave. Over ten minutes, players will compete for weapons and supplies and take down any survivors that stand in their way. Hide, scavenge, fight and survive - with reworked and upgraded graphics, players will be richly immersed in the Battle Royale world from start to finish. <br><br>[Same game, better experience]<br>With HD graphics, enhanced special effects and smoother gameplay, Free Fire MAX provides a realistic and immersive survival experience for all Battle Royale fans.<br><br>[4-man squad, with in-game voice chat]<br>Create squads of up to 4 players and establish communication with your squad right from the start. Lead your friends to victory and be the last team standing victorious at the apex!<br><br>[Firelink technology]<br>With Firelink, you can login your existing Free Fire account to play Free Fire MAX without any hassle. Your progress and items are maintained across both applications in real-time. You can play all game modes with both Free Fire and Free Fire MAX  players together, no matter which application they use.<br><br>Privacy Policy: https://sso.garena.com/html/pp_en.html<br>Terms of Service:  https://sso.garena.com/html/tos_en.html<br><br>[Contact us]<br>Customer Service: https://ffsupport.garena.com/hc/en-us",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/w5nTrbqCntP_2MQd7LI1Z_1c8V5sqJVU97-aUYw6caleGW4Vw6PD3TcxUCBD2q74AGs",
+            "supportsFifeUrlOptions": true,
+            "color": "#38594F"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/BYSxC-d7pALHdjF6yl7rZGJ0MKoawF734d-IJaLIZ2EQGvoR1bgtiZT2e5gFdCaoK_k",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=upm_LZ_elvM&ab_channel=FreeFireMalaysiaOfficial"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/upm_LZ_elvM/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/jlDtouqmGPrHkr4j9ZHoq1McXCJTchm-FsMblygvgZo0qXTXo0jD5GfvxBC6AYCf8qc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/BI6vimigQBwRFq0Ft0bzs-t2JTkSFG2gEW8BOsPybnh0copSgqPwdNxQeRelGXfEOQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/XqKVIInPbqIR9PNHYxeXUeUSG1KPcu3GGjvZtFXay6BvAB1B-E6w3SXowGmi-sYNjpA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/nVNX5fmrczFWxWCIkiX6wgOg7rVQ7VD7rE4TBmoLpU3_ZJ9d49S_jMC6dF-HYCffLA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ncjhH6kPFRxE7ivO-ggLZ28A1FUJaUanYuSwv6XNpD646tjKE-3krsjx_dKtIjtUP1mS",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/1hY5e3AZbTJwKhJuFdmwcjwlQ17r2uQ_e4HbgiNnVuEA5Yvtr7HpapAwJe_O2FTHDCfJ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/CH2_-a0y5vZwu9orCo19Kqn9AwaKAavsB4suhxGEX6YPFXiH4ND0qRKefVSgu1lLyWjw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/NPziWUr9L0K3Qq5hrW1mJVGCYCmPofZaeIH0Sv_77885PLDBgem2TbjE8gtygyFoWwA",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+            "versionCode": 2019112404,
+            "versionString": "2.66.0",
+            "installationSize": "994516101",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.AUTHENTICATE_ACCOUNTS",
+                "android.permission.BLUETOOTH",
+                "android.permission.CHANGE_NETWORK_STATE",
+                "android.permission.CHANGE_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.GET_TASKS",
+                "android.permission.INTERNET",
+                "android.permission.MANAGE_ACCOUNTS",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.USE_CREDENTIALS",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "android.permission.WRITE_SETTINGS",
+                "android.permission.WRITE_SYNC_SETTINGS",
+                "com.android.vending.BILLING",
+                "com.android.vending.CHECK_LICENSE",
+                "com.dts.freefiremax.permission.C2D_MESSAGE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.seagroup.spark.sdk"
+            ],
+            "developerEmail": "freefire@garena.com",
+            "developerWebsite": "https://ff.garena.com",
+            "numDownloads": "50,000,000+ downloads",
+            "packageName": "com.dts.freefiremax",
+            "uploadDate": "Oct 15, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 2019112404,
+                    "size": "58947917"
+                },
+                {
+                    "fileType": 1,
+                    "versionCode": 2019112404,
+                    "size": "935568184"
+                }
+            ],
+            "appType": "GAME",
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown1": 3,
+                "unknown2": "58947917",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "1 FUSIONOPOLIS PLACE, 17-10, GALAXIS, Singapore"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.342053413391113,
+        "ratingsCount": "2574531",
+        "oneStarRatings": "312975",
+        "twoStarRatings": "52352",
+        "threeStarRatings": "75602",
+        "fourStarRatings": "133741",
+        "fiveStarRatings": "1999859",
+        "commentCount": "1210630"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://sso.garena.com/html/pp_en.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiSiCiEIEioCCAkyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiSiCiEIEioCCAkyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Mature 17+",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/YX4IU7qLML-be7Xl25J-YkRBNgSZhVhJIsxeLdke3SaX1QBSFEKLbdcWORAwahq0oI4rrjz5YnWiVdb5",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Violence, Blood<br/>Users Interact, In-Game Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by GARENA INTERNATIONAL I PRIVATE LIMITED",
+                "url1": "getStream?ecp=CjuKAzgKGQoTNTI2MjExMzA0NzkxNjA1NDE5NxAIGAMSGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjuKAzgKGQoTNTI2MjExMzA0NzkxNjA1NDE5NxAIGAMSGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiSiCiEIESoCCAgyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiSiCiEIESoCCAgyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiSiCiEIEioCCAgyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiSiCiEIEioCCAgyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiqiCicIARIER0FNRSoCCAgyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiqiCicIARIER0FNRSoCCAgyGQoTY29tLmR0cy5mcmVlZmlyZW1heBABGAM%3D"
+            }
+        ],
+        "categoryInfo": {
+            "appType": "GAME"
+        }
+    },
+    "detailsUrl": "details?doc=com.dts.freefiremax",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+    "reviewsUrl": "rev?doc=com.dts.freefiremax&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $144.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "GARENA INTERNATIONAL I PRIVATE LIMITED"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "freefire@garena.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "1 FUSIONOPOLIS PLACE, 17-10, GALAXIS, Singapore"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Sep 18, 2021"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "MAX Battle Royale Experience",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.dts.freefiremax"
+}

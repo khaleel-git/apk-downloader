@@ -1,0 +1,209 @@
+{
+    "docid": "movie.rulz.hd.box.tv",
+    "backendDocid": "movie.rulz.hd.box.tv",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Movierulz TV: Telugu Movies & Shows",
+    "creator": "calloftech",
+    "descriptionHtml": "HD Movies 2019 in Movierulz TV helps you retrieves list of movies that are currently showing in theaters, new releases opening this week or upcoming new movies soon to be in theaters. Movie info such as synopsis, casts, movie trailer moviebox show movies.<br><br>Detailed Movie Info - Details of a movie includes movie poster,release date, cast, director, genre, ratings,Budget,Earning And Trailer.<br><br>Trailer - You can watch the movie trailers easy in Telugu Movies &amp; Shows .<br>Looking for a convenient way to check movie show times Or simply want to find out what are showing or upcoming movies SHOWTIME! is the best box for you!<br><br>Free Movie show HD HQ box is an app that lets you discover fantastic movies, documentaries and TV shows with minimal effort. shows Movie is a movie box recommendations and search app to get all infos about your favorite new upcoming movies .You can also find out what the best rated movies by year or genre or what the most downloaded movies are today With so many genres: new movies, hd movies, film sexsy au gai, action movies, cartoons, film swordplay, historical drama, comedy cinema, box drama Vietnam.<br>When you need movie recommendations or you&#39;re wondering what to watch next ,Suggest ShOw #box free movies is all you need .HD movie play back box application and HD movie downloads are completely free with the following highlights<br><br>Features:<br>• Movierulz Tv informations to TV shows. (TV shows must be managed in separate lists).<br>• Search to show favorite hd movie in our box mega lists like Tea Tv.<br>• search by title / keyword.<br>• watch trailers and reviews Of Show box Movies &amp; Coto Movies.<br>• Watch 123 movies based on user&#39;s reviews.<br><br><br><br>Our app &quot;Telugu Movies &amp; Shows &amp; Movierulz Tv&quot; is not for streaming movies downloading content, and not allowed to download the show box.<br><br>thank you !!",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/8R2fdl40IdFzNohkIPB7G1lsIA-Vx8KK_CM0FjFootpB2PCQJurekHPU9exaxdsqnz4",
+            "supportsFifeUrlOptions": true,
+            "color": "#201B21"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/sIk_0FZA2FtVTJYZjGlC3-YhPJ-pWvOv6UffUyXLrQDajFJBYs3REtQis6gmMh2Lnbc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/vRIHQv6hXdGeu2TYKm9jeQTw7KxasI8OZ1R0EbpLttU4HXyqLZ4QNrwgyXjp5oK3Fhsh",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/WNZgB0m9oe6GWqvq0FKwFPqBrYUKO8roemONy4WAu7mLQg8-vFYqXAgKoeg1JaXPs_4",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/TgXO2Fhn_y-0f4sS2HpucljWxDNdbOMUEUjw43lwTg2PSbljSKIl9tfnUyz6wFRo1Fk",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/_rMB9QUNrvebzX5oebffRsj1a4L0aRSu3sMl7HmxNb1hEuaExF9KQ9Ldhq-c9OsOlSo",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "calloftech",
+            "versionCode": 2,
+            "versionString": "1.2",
+            "installationSize": "6572044",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.INTERNET",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "movie.rulz.hd.box.tv.permission.C2D_MESSAGE"
+            ],
+            "developerEmail": "Calloftech750@gmail.com",
+            "numDownloads": "500,000+ downloads",
+            "packageName": "movie.rulz.hd.box.tv",
+            "uploadDate": "Jul 16, 2019",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 2,
+                    "size": "6572044"
+                }
+            ],
+            "unstable": false,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "6572044",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 11020000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 28
+            },
+            "developerAddress": "H-no 106 Dar-ul-Islam Calony ,khalid saeed street  Attock city,Pakistan"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 3.269461154937744,
+        "ratingsCount": "3321",
+        "oneStarRatings": "1113",
+        "twoStarRatings": "169",
+        "threeStarRatings": "228",
+        "fourStarRatings": "328",
+        "fiveStarRatings": "1481",
+        "commentCount": "1385"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://writer.zohopublic.com/writer/published/4qhit4abf1a7b74d54357ab5ab318654de08b",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiWiCiIIEioCCAkyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiWiCiIIEioCCAkyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by calloftech",
+                "url1": "getStream?ecp=CjyKAzkKGQoTNjMwMTE5MDk4NDEyMzM0MTk0MhAIGAMSGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjyKAzkKGQoTNjMwMTE5MDk4NDEyMzM0MTk0MhAIGAMSGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiWiCiIIESoCCAgyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIESoCCAgyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiWiCiIIEioCCAgyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIEioCCAgyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiWiCiIIASoCCAgyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIASoCCAgyGgoUbW92aWUucnVsei5oZC5ib3gudHYQARgD"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=movie.rulz.hd.box.tv",
+    "shareUrl": "https://play.google.com/store/apps/details?id=movie.rulz.hd.box.tv",
+    "reviewsUrl": "rev?doc=movie.rulz.hd.box.tv&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "calloftech"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "Calloftech750@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "H-no 106 Dar-ul-Islam Calony ,khalid saeed street  Attock city,Pakistan"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jun 9, 2019"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Top Movies & Series u need to know with Movierulz TV",
+    "reviewQuestionsUrl": "reviewQuestions?doc=movie.rulz.hd.box.tv"
+}

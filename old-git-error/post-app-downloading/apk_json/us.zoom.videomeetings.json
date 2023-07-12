@@ -1,0 +1,272 @@
+{
+    "docid": "us.zoom.videomeetings",
+    "backendDocid": "us.zoom.videomeetings",
+    "docType": 1,
+    "backendId": 3,
+    "title": "ZOOM Cloud Meetings",
+    "creator": "zoom.us",
+    "descriptionHtml": "Stay connected wherever you go – start or join a secure meeting with flawless video and audio, instant screen sharing, and cross-platform instant messaging - for free! <br><br>Zoom is #1 in customer satisfaction and the best unified communication experience on mobile.<br><br>It&#39;s super easy! Install the free Zoom app, click on &quot;New Meeting,&quot; and invite up to 100 people to join you on video! Connect with anyone on Android based phones and tablets, other mobile devices, Windows, Mac, Zoom Rooms, H.323/SIP room systems, and telephones.<br><br>VIDEO MEETINGS FROM ANYWHERE<br>-Best  video meeting quality<br>-Easily join a meeting or start an instant meeting with phone, email, or company contacts<br><br>COLLABORATE ON-THE-GO<br>-Best Android device content and mobile screen sharing quality<br>-Co-annotate over shared content<br>-Real-time whiteboard collaboration on Android tablets<br><br>UNLIMITED MESSAGING (WITH PHOTOS, FILES, AND MORE)<br>-Reach people instantly to easily send messages, files, images, links, and gifs<br>-Quickly respond or react to threaded conversations with emojis<br>-Create or join public and private chat channels<br><br>MAKE, RECEIVE, AND MANAGE PHONE CALLS<br>-Effortlessly make or receive calls with your business number<br>-Get voicemail and call recording with transcripts<br>-Use call delegation to make/receive calls on behalf of others<br>-Setup auto-receptionists to autonomously answer and route calls<br><br>AND MORE….<br>-Safe driving mode while on the road<br>-Use your Android app to start your meeting or for direct share in Zoom Rooms<br>-Join Zoom Webinars <br>-Attend OnZoom events (US Beta only)<br>-Works over WiFi, 5G, 4G/LTE, and 3G networks<br><br>ZOOM LICENSE INFORMATION:<br>-Any free or paid license can be used with the app<br>-Zoom Phone is an add-on to paid Zoom licenses<br>-A paid Zoom subscription is required for certain product features<br><br>Follow us on social @zoom!<br><br>Have a question? Contact us at http://support.zoom.us.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/3xA8F0tl3EzQl4-FpLVV3dhd8uqbqHNM76zs9FamH63X6h83n4ryX82qFm_mpSCjOa-y",
+            "supportsFifeUrlOptions": true,
+            "color": "#E6E2E1"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/JgU6AIREDMsGLmrFSJ8OwLb-JJVw_jwqdwEZWUHemAj0V5Dl7i7GOpmranv2GsCKobM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=BGH1y70zSkg"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/BGH1y70zSkg/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/k_wUfokHCKsK5ZJgo38bWDyeYNXPUO9fTaj8ad7BaxKhaV8h-R3Vb6-X4AwCy14c-A",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/WM5CHsfc9uHsKzWuSqVG2YSXAeqekZkT8NNMDPkgnGE6wJzzh4hat8AD5ETkGZbYwA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/D3JwK6zvQcm1bdI25Dwjg_ucOYCB4UZhmCqYVTGgrTF3XSrrGf4eYA2SmztCAttSHoI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/hMbniv3Sx0KCL9V4ssyTRegLE0ugVq_BDE8FPBYX1Cqdj801DJsaYCL8_v3zge8sSw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rYO--Hysa_TrrNBISHYaG10UgDx63b_5eCLl7AWE3I7_hIYuckD1yAUNvxor_9aZ0Q",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/NSyIFqJ3l_IvUhTVNRFmqPUgjbpI1PD4Mp8aY6xnJAoCOx-0I4lV26NfLkd4ttnf9txA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2700,
+                "height": 2100
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/z1w9Xeh2b7E-hwcEniEqcTy2_TIFbu43qvOSLRLb_baZQ7aSy7AKTA3Zm5YfGJ9nW28",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "zoom.us",
+            "versionCode": 65801,
+            "versionString": "5.8.1.2403",
+            "installationSize": "148303616",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.BLUETOOTH",
+                "android.permission.BLUETOOTH_ADMIN",
+                "android.permission.BROADCAST_STICKY",
+                "android.permission.CALL_PHONE",
+                "android.permission.CAMERA",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_CALENDAR",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_NUMBERS",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+                "android.permission.REQUEST_INSTALL_PACKAGES",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.USE_FINGERPRINT",
+                "android.permission.USE_FULL_SCREEN_INTENT",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_CALENDAR",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "us.zoom.videomeetings.permission-group.ipc.sender",
+                "us.zoom.videomeetings.permission.KUBI_MESSAGE",
+                "us.zoom.videomeetings.permission.MEETING_NOTIFICATION"
+            ],
+            "developerEmail": "info@zoom.us",
+            "developerWebsite": "http://zoom.us",
+            "numDownloads": "500,000,000+ downloads",
+            "packageName": "us.zoom.videomeetings",
+            "recentChangesHtml": "General features<br>-Additional MDM option",
+            "uploadDate": "Oct 11, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 65801,
+                    "size": "148303616"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "148303616",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.030648231506348,
+        "ratingsCount": "3160325",
+        "oneStarRatings": "505485",
+        "twoStarRatings": "99723",
+        "threeStarRatings": "193468",
+        "fourStarRatings": "355415",
+        "fiveStarRatings": "2006231",
+        "commentCount": "1203007"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://zoom.us/privacy/",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiaiCiMIEioCCAkyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiaiCiMIEioCCAkyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by zoom.us",
+                "url1": "getStream?ecp=Cj2KAzoKGQoTODQyMTUyOTI0OTM1ODk5MDQyMRAIGAMSGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=Cj2KAzoKGQoTODQyMTUyOTI0OTM1ODk5MDQyMRAIGAMSGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiaiCiMIESoCCAgyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiaiCiMIESoCCAgyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiaiCiMIEioCCAgyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiaiCiMIEioCCAgyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiaiCiMIASoCCAgyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiaiCiMIASoCCAgyGwoVdXMuem9vbS52aWRlb21lZXRpbmdzEAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=us.zoom.videomeetings",
+    "shareUrl": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
+    "reviewsUrl": "rev?doc=us.zoom.videomeetings&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$14.99 - $149.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "zoom.us"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "info@zoom.us"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jan 24, 2013"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Zoom is a free HD meeting app with video and screen sharing for up to 100 people",
+    "reviewQuestionsUrl": "reviewQuestions?doc=us.zoom.videomeetings"
+}

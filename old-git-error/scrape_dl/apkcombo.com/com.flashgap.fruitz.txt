@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.flashgap.fruitz/Fruitz_3.4.2_apkcombo.com.apk?ecp=Y29tLmZsYXNoZ2FwLmZydWl0ei8zLjQuMi8xNjYzMDg5NjI4LjVlZTM3MTM1MzI4ZDg3MzEzZjI5ZTI1ZDNlNGI3MjkxODVjMjA1NmIuYXBr&iat=1663867647&sig=d063b4fe27ba9f53f41c63c3bd071a45&size=55871859&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.flashgap.fruitz/Fruitz%20-%20Dating%20app_3.1.0_apkcombo.com.apk?ecp=Y29tLmZsYXNoZ2FwLmZydWl0ei8zLjEuMC8xNjU2NjAyMDAzLjE3Y2YyMmE3MjRhZjcxMjc4MmFkMmUxZjQ5ZGVmNDkzOTZmNzUzNGQuYXBr&iat=1657722699&sig=02370d28870a703ef1a35bd3937d8476&size=61617989&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

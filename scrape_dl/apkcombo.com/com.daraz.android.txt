@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.daraz.android/Daraz_5.3.5_apkcombo.com.apk?ecp=Y29tLmRhcmF6LmFuZHJvaWQvNS4zLjUvMTcxLjQyZjczYjQ2YTFkOWM5ODRhYjAxMThmZDk0YzczMWVkZmE4Y2UxOTUuYXBr&iat=1661256043&sig=af5ef27af8e40cff5575111245ccae8d&size=65298982&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.daraz.android/Daraz%20Online%20Shopping%20App_5.3.0_apkcombo.com.apk?ecp=Y29tLmRhcmF6LmFuZHJvaWQvNS4zLjAvMTY2LjdlMTQ4Yzc4Njc1YWMyNjI3MWU0ODlmZGJmMDQ1ZTE0MzhlNWNmYjUuYXBr&iat=1655973593&sig=94f54e7d2694585627920a171964576f&size=65294886&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

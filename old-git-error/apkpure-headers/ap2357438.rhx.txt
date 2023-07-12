@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 18:52:22 GMT
+Date: Tue, 11 Jul 2023 18:52:22 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-15.winudf.com/b/APK/YXAyMzU3NDM4LnJoeF80X2ZmYTI3ZjYy?_fn=ZmZoNHggbW9kIG1lbnUgZmZfOS4xX0Fwa3B1cmUuYXBr&_p=YXAyMzU3NDM4LnJoeA%3D%3D&is_hot=false&k=cebc7197e9f8ee638c1872f86067b84664aef666
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e533e382bb2369e-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 13491764
+x-rgw-object-type: Normal
+ETag: "3623b1c465a2ea77952f65606defcd39"
+Last-Modified: Mon, 26 Dec 2022 05:31:02 GMT
+Content-Disposition: attachment; filename="ffh4x mod menu ff_9.1_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

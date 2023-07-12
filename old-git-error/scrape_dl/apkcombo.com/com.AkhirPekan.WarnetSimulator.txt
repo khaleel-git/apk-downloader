@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.AkhirPekan.WarnetSimulator/Warnet%20Life_3.2.1_apkcombo.com.apk?ecp=Y29tLkFraGlyUGVrYW4uV2FybmV0U2ltdWxhdG9yLzMuMi4xLzk1LmQ2N2EzODBmMDc2OTExYWFjOWRlNmQyMjZlN2Q5NWY5YTVlNjUwMTguYXBr&iat=1663850911&sig=895028ae197a22edc3ca4ddb4c11e577&size=142447258&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.AkhirPekan.WarnetSimulator/Warnet%20Simulator_2.11.2_apkcombo.com.apk?ecp=Y29tLkFraGlyUGVrYW4uV2FybmV0U2ltdWxhdG9yLzIuMTEuMi84NC5lNmQ0NjA4MzhiOTc5ZDJlNTFhM2UzMDEzZjliMTZlYjE5NjMwZGVlLmFwaw==&iat=1655550989&sig=34c915fd7720bcbedb991dd6667c9e04&size=123756946&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

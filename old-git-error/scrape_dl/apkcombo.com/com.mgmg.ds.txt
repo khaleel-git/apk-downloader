@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.mgmg.ds/Apyar%20Kar%20-All%20Kar%20Loe%20Kar_1.5.1_apkcombo.com.apk?ecp=Y29tLm1nbWcuZHMvMS41LjEvMjAuODMxOTFiYzc3ODNjMjlkMGExNWU0NmExMTBjM2M0NTNkMWY0YmQyNC5hcGs=&iat=1664793225&sig=5d991cf0a031071341b6abea4ae25957&size=4431329&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.mgmg.ds/Apyar%20Kar%20-All%20Kar%20Loe%20Kar_1.4_apkcombo.com.apk?ecp=Y29tLm1nbWcuZHMvMS40LzEzLjM3NTdiMzVjNjk2ZWE0M2FiY2RhZmZkYWJmM2IxNmVjMTMxMGUxMzEuYXBr&iat=1659238982&sig=43434ab97e83796ced34b4e9d44ace7b&size=4749936&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

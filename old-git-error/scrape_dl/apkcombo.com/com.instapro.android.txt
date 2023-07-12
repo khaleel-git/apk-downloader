@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.instapro.android/InstaPro_9.60_apkcombo.com.apk?ecp=Y29tLmluc3RhcHJvLmFuZHJvaWQvMjQ5LjAuMC4yMC4xMDUvOTk5OTk5OTk5LjM0Nzg3ZDBkMmMzNDE3MjE4MGEzNjlhYWI3MzBjMWU2YmNlYjY4MjUuYXBr&iat=1666025844&sig=9ba9852b86612cb7d89c811ad8cde4dc&size=59743466&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.instapro.android/InstaPro_240.2.0.18.107_apkcombo.com.apk?ecp=Y29tLmluc3RhcHJvLmFuZHJvaWQvMjQwLjIuMC4xOC4xMDcvMzY0MDA0ODYyLjBmOTJhMDkyOWMwZGQyODM4NjJiMTlmNTRlNmE3NGI3YzU0YWM5ZjUuYXBr&iat=1657081009&sig=a31c59a1b552e03132e7d2c1292e8faa&size=58233473&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

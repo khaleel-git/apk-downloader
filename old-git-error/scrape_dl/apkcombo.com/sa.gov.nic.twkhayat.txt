@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/sa.gov.nic.twkhayat/Tawakkalna%20Services_1.3.2_apkcombo.com.apk?ecp=c2EuZ292Lm5pYy50d2toYXlhdC8xLjMuMi8xMzIwMC5iNzdmMjJjNGEyZGVlM2JlNWI4NzUzYWJiZGM0MThlZTE0NDgwNWU0LmFwaw==&iat=1662363636&sig=2a18374fa67c83ed15bc206dd5553187&size=266414001&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/sa.gov.nic.twkhayat/Tawakkalna%20Services_1.1.0_apkcombo.com.apk?ecp=c2EuZ292Lm5pYy50d2toYXlhdC8xLjEuMC8xMTAwMi45MDg2ZTdlOTM3ODI0NjQwZDI3Mjg5NGEzYzFkMzE5ZDI3ZDZhMWU2LmFwaw==&iat=1656981988&sig=051eb4f11c7bd372bd94038f7d46f7f4&size=263700641&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/xprocamera.hd.camera/HD%20Camera%20for%20Android:%20XCamera_1.0.14_apkcombo.com.apk?ecp=eHByb2NhbWVyYS5oZC5jYW1lcmEvMS4wLjE0LzI1LmFmMjc0NTNjYzE3OGQxMGQxOGI3M2YwNDQwZTdhMTZhNWYxNjIyNzYuYXBr&iat=1664358348&sig=9572379a710dfc59f9d61905f21d465e&size=10422372&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/xprocamera.hd.camera/HD%20Camera%20for%20Android:%20XCamera_1.0.12_apkcombo.com.apk?ecp=eHByb2NhbWVyYS5oZC5jYW1lcmEvMS4wLjEyLzIzLmFmOThjODJkNTBmNDcwNGZhMmYwNTMzNDY5NmUxYzUwYmM3NDA0NmQuYXBr&iat=1655998684&sig=02e6f3b3ad3b3260f0c1960213073c71&size=12149811&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

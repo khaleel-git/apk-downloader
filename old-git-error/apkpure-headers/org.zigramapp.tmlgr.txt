@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 08:34:06 GMT
+Date: Tue, 11 Jul 2023 08:34:06 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-14.winudf.com/b/APK/b3JnLnppZ3JhbWFwcC50bWxncl8yMTkwMF8zN2NkOTZiMA?_fn=2KrZhNqv2LHYp9mFINi22K8g2YHbjNmE2KrYsXwg2KjYr9mI2YYg2YHbjNmE2KrYsV85LjUuMS16Z19BcGtwdXJlLmFwaw&_p=b3JnLnppZ3JhbWFwcC50bWxncg%3D%3D&is_hot=false&k=f82286cc22fb29e00dcb844fd0e9086b64ae657e
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e4fb48e9d7b54af-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 26363017
+x-rgw-object-type: Normal
+ETag: "d4985b0d3272fa06dff126eb8246e67f"
+Last-Modified: Sun, 26 Mar 2023 10:45:56 GMT
+Content-Disposition: attachment; filename="تلگرام ضد فیلتر| بدون فیلتر_9.5.1-zg_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

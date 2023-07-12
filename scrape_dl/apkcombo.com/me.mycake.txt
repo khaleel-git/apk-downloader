@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/me.mycake/Cake:%20Lesson%20updates%20every%20day_4.6.0_apkcombo.com.apk?ecp=bWUubXljYWtlLzQuNi4wLzEwNDA2MDAwMS43Njc5NzUxNjE0NDE4ZTBhZjFlNzUwOGY3MzYzMGQ5MmQ4MzczNmYyLmFwaw==&iat=1661544774&sig=11c0660b114bf55aa8b2a08c346865c6&size=15341004&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/me.mycake/Cake:%20Lesson%20updates%20every%20day_4.5.1_apkcombo.com.apk?ecp=bWUubXljYWtlLzQuNS4xLzEwNDA1MDEwMS4wZDQ0ZDViNTNjNDg5YTIzZjUzZGI1Yzg0MTQzMmEzNTAzMDVlNjY0LmFwaw==&iat=1655988782&sig=6a97607f3ccfc1f1b8e43a2e547caf9e&size=15352305&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

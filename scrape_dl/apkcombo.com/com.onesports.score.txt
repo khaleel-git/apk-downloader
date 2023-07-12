@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.onesports.score/AiScore_3.0.3_apkcombo.com.apk?ecp=Y29tLm9uZXNwb3J0cy5zY29yZS8zLjAuMy8yMDkuZTEyOTU0NWZmZjZmN2MxMTY2NDljOWI5MTYwNDdkZmUwYjk3ZjEwYy5hcGs=&iat=1662392109&sig=86cdc1a5d85222752efa045a498cd9cc&size=31501080&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.onesports.score/AiScore%20-%20Live%20Sports%20Scores_2.9.2_apkcombo.com.apk?ecp=Y29tLm9uZXNwb3J0cy5zY29yZS8yLjkuMi8xOTUuM2IxNmZjZjcxZjQ0N2YwYjE1MmEzZTc0MGNiMzFmMGE5YjFmZGFiZC5hcGs=&iat=1655469919&sig=fcebfe8ffcf4988210b6e05b968dc180&size=32574446&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/ar.tvplayer.tv/TiviMate_4.6.0%20Beta_apkcombo.com.apk?ecp=YXIudHZwbGF5ZXIudHYvNC42LjAgQmV0YS80NjAwLjZlYjlmNWEwNTMwMGYzMzI1ZDg0ZjUzZTBkYjk4OWJjNGJmODQwOTIuYXBr&iat=1663890767&sig=e2e89bedc0e79367d7e16cc740cf062b&size=10934919&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/ar.tvplayer.tv/TiviMate_4.4.0_apkcombo.com.apk?ecp=YXIudHZwbGF5ZXIudHYvNC40LjAvNDQwMS42YmUzY2M4MmVkOTQ5NjA0ODNkYTc0ZmQ1MzkyODlhMGMxNTgzZDQ0LmFwaw==&iat=1655327913&sig=5876db7529e8d97c70795d63fbce0ddd&size=11808222&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 14:42:08 GMT
+Date: Tue, 11 Jul 2023 14:42:08 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-01.winudf.com/b/APK/Y29tLmludGVybWVkaWEuaGQuY2FtZXJhLnByb18yNV84ZjcwNDBmYg?_fn=UHJvQ2FtIFggKCBIRCBDYW1lcmEgUHJvIClfMS4yM19BcGtwdXJlLmFwaw&_p=Y29tLmludGVybWVkaWEuaGQuY2FtZXJhLnBybw%3D%3D&is_hot=true&k=0d17d21b770515490fe488ebe5c5391464aebbc0
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e51cfadc8025443-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 3843270
+x-rgw-object-type: Normal
+ETag: "2e9e96014feaf73938ec66b6003466b1"
+Last-Modified: Wed, 03 May 2023 04:47:07 GMT
+Content-Disposition: attachment; filename="ProCam X ( HD Camera Pro )_1.23_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

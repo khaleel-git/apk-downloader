@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.tiktok.tv/TikTok%20TV_11.7.2_apkcombo.com.apk?ecp=Y29tLnRpa3Rvay50di8xMS43LjIvMTEwNzAyLmFmMWRlODRjNDdjODQ4Y2Y0Zjk1Y2I3NzVjODE0NTczNzJkMzY0YzcuYXBr&iat=1663107811&sig=328071748021b0cc29595778d75ad972&size=30263302&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.tiktok.tv/TikTok%20TV_11.6.1_apkcombo.com.apk?ecp=Y29tLnRpa3Rvay50di8xMS42LjEvMTEwNjAxLmU4MTg4M2RhOWVmNDQwYTIyMDgxNTA4OTQ3MWM2ZDRhNjY3ZWRmOWUuYXBr&iat=1658674426&sig=aed53205bc88abe0d7689d3bb1eaac70&size=30241579&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

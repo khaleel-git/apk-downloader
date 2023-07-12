@@ -1,0 +1,10 @@
+{
+    "appId": "com.evozi.deviceid",
+    "url": "https://play.google.com/store/apps/details?id=com.evozi.deviceid",
+    "icon": "https://play-lh.googleusercontent.com/m-GfcoZxeyKA7bT5Te7Q-ERw_TNcAEtwg0ChxHrEWUY4nk5rn-Ih3J4YFLzEaLRuYlND=w240-h480",
+    "title": "Device ID",
+    "rating": "4.5",
+    "num_of_downloads": "1M+",
+    "meta_description": "Obtain Device/Android ID ,Google Services Framework ID, IMEI,IMSI,IP,MAC Address",
+    "full_description": "Simple app to get your Device Info/ID/local IP/MAC addresses & Serial that allow you easily copy and share the ID of your mobile device. An ideal tool for developers, customer support and user.For paranoid users, you can get Device ID without any network permission at :https://www.evozi.com/l.php?go=deviceid_no_networkThis will disable Local IP Address and MAC address.Google Services Framework Key IDAndroid IDIMEISubscriber ID (IMSI)SIM Card SerialWiFi MAC AddressEthernet MAC AddressBluetooth MAC AddressBluetooth Paired MAC AddressHardware SerialDevice Build FingerprintINTERNET is used to get your local IP addressBLUETOOTH  is used to get your Bluetooth MAC addressREAD_PHONE_STATE is used to get your IMEI, IMSI and SIM SerialACCESS_WIFI_STATE and ACCESS_NETWORK_STATE is used to get your MAC addressREAD_GSERVICES is used to get your Google Services Framework ID---------For user that wanted to get both SIM Serial in DUAL SIM Phone, The default SDK does not have support to handle dual SIM phones. The function will only return one number, most likely from the first active SIM card.---------Facebook : https://www.facebook.com/evozi/Beta Testing Group : https://www.facebook.com/groups/evozi/Instead of rating 1 or 2 star,please email to support@evozi.com or leave a comment so that we can fix or improve it."
+}

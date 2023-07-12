@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.jana.tube.video/JanaTube%20-%20%D8%AC%D9%86%D8%A9%20%D8%AA%D9%8A%D9%88%D8%A8_3.9.90.009_apkcombo.com.apk?ecp=Y29tLmphbmEudHViZS52aWRlby8zLjkuOTAuMDA5LzMwOTkwMDA5LjVhNDJjYzhhODdmZmMyZmQwNDU2NTI1ZGU1NzcyMTZmN2Y0NGJjYjYuYXBr&iat=1664463576&sig=89afa9df1367292e2d6e3b20167c002b&size=24406064&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.jana.tube.video/JanaTube%20-%20%D8%AC%D9%86%D8%A9%20%D8%AA%D9%8A%D9%88%D8%A8_3.7.90.008_apkcombo.com.apk?ecp=Y29tLmphbmEudHViZS52aWRlby8zLjcuOTAuMDA4LzMwNzkwMDA4LjNjYTQ4YTJhNTA2OTQxY2UwMjYwZjEwMDgyZjk3MWUyZGYzYTc5ODMuYXBr&iat=1659157597&sig=698d9214ac8ad1ea7f3d80d556218ef4&size=20490624&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

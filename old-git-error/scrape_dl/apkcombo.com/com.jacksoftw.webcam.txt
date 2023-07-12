@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.jacksoftw.webcam/Iriun%20Webcam_2.5_apkcombo.com.apk?ecp=Y29tLmphY2tzb2Z0dy53ZWJjYW0vMi41LzEyNi4yMjc2MmE0YTZjNTE0MDk1YTMzNDQ3OTIwYjFlOThiNjRlNmJlNmIwLmFwaw==&iat=1666041401&sig=de8aef6e9e5bdff3b6200f2c331429b8&size=3816460&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.jacksoftw.webcam/Iriun%204K%20Webcam%20for%20PC%20and%20Mac_2.5-b2_apkcombo.com.apk?ecp=Y29tLmphY2tzb2Z0dy53ZWJjYW0vMi41LWIyLzEyMi44OTA2ZDY4YTg2MTJiMmUzNzViNjg4ODE1NjgyMDUwNjcyNzJhMzkzLmFwaw==&iat=1659249135&sig=a4958e6a5bc6b1da5730f2968faac416&size=3806507&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

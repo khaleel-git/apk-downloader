@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/org.telegram.messenger.web/Telegram_8.9.3_apkcombo.com.apk?ecp=b3JnLnRlbGVncmFtLm1lc3Nlbmdlci53ZWIvOC45LjMvMjc1NzkuOTY4NmE1MDk0YjY1MTI2YWFhMDcyZjI1OWE5ZDY2Y2E4MjUzOWI4Yy5hcGs=&iat=1662992476&sig=e685339b1092469d5b825e8e15094c7c&size=68887277&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/org.telegram.messenger.web/Telegram_8.7.4_apkcombo.com.apk?ecp=b3JnLnRlbGVncmFtLm1lc3Nlbmdlci53ZWIvOC43LjQvMjYzNjkuZGZkZTZiMDY0ODNjYjRjN2Q3NDAwNWI3YmNiNDk4NmU3NzY4MTYyMi5hcGs=&iat=1655546783&sig=db491da2c8056dc5bb64acff52bf9cbf&size=66416211&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

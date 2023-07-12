@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.meitu.meiyancamera/Beautycam-%20Selfie%20Editor_11.0.95_apkcombo.com.apk?ecp=Y29tLm1laXR1Lm1laXlhbmNhbWVyYS8xMS4wLjk1LzExMDk1LmZhMzY4MWZhMjA0ODRlMjM1OWQxM2VhZWU0NWNjMWZjM2I2MTcxOWEuYXBr&iat=1662260317&sig=a8fbdfba78fcf2eb3cc1f7e70625f8cb&size=141729347&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.meitu.meiyancamera/Beautycam-%20Selfie%20Editor_11.0.35_apkcombo.com.apk?ecp=Y29tLm1laXR1Lm1laXlhbmNhbWVyYS8xMS4wLjM1LzExMDM1LjhlMDc4YTMxYjg2ZDE5NDUzZDRkNTk1YTBmZDRjYzljYTA3ZTlkZTAuYXBr&iat=1659365509&sig=f9ee2e2535846c1d70a978b3ec85a28a&size=145462673&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

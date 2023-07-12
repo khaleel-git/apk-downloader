@@ -1,0 +1,229 @@
+{
+    "docid": "com.nohack.formobile",
+    "backendDocid": "com.nohack.formobile",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Nohack (Anti-Hack)",
+    "creator": "No to Hack",
+    "descriptionHtml": "do you use free and public wifi a lot? <br>Study shows that a hacker can easily have access to your accounts just because you have access to public wifi using techniques such as spoofing arp poisoning  <br>The easiest way is to avoid free wifi but using this app you don&#39;t have to worry anymore",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/n4oRXYQvlyMUCc5SPqXgRT12RIreDqzieFdPj426A2sCNH9RlokeRSxYuuzgNoz85w",
+            "supportsFifeUrlOptions": true,
+            "color": "#1D3822"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/1R5ASMhXeZV7sAPxgKlZ66SJTxUL6kh89JfZqJW35V3cAsGZtpyO4308TLseJZY32Q",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 527,
+                "height": 937
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/D5keNN1mzTA1eUqL1-LTZy-tD3moLvjjFHcimSoHzj6wxuFnFbkXVOCAW9HHRYJnpQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 527,
+                "height": 937
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/te27zUpkG8tSFa9QyCFXWIbMPBNWmUMpdIV5RqpLGVb3u9jqLXRqLJqqSNQPR1xrls44",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 527,
+                "height": 937
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/5202B6b9bknb7xzUFl4n1lOI7ZIT_XKQkf3DcEnIlurr8GFuJMgTk0clkbVwItaiIb0",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 527,
+                "height": 937
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Dxj2NnU5wVCMxKX-hM0FwZ_3Z0R2R26CP84I2Y_S2tilIpVeJF5s-qN9H1bFtsmM8VLE",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "No to Hack",
+            "versionCode": 4052,
+            "versionString": "4.5.2",
+            "installationSize": "13858330",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_PACKAGE_SIZE",
+                "android.permission.GET_TASKS",
+                "android.permission.INTERNET",
+                "android.permission.KILL_BACKGROUND_PROCESSES",
+                "android.permission.PACKAGE_USAGE_STATS",
+                "android.permission.QUERY_ALL_PACKAGES",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.REQUEST_DELETE_PACKAGES",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+            ],
+            "developerEmail": "petuhovasv1976@gmail.com",
+            "developerWebsite": "https://r8fb5ebf0.app-ads-txt.com",
+            "numDownloads": "500,000+ downloads",
+            "packageName": "com.nohack.formobile",
+            "uploadDate": "Sep 16, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 4052,
+                    "size": "13858330"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "13858330",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "Leningradskaya 3к1<br/>Dolgoprudniy<br/>Russia"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.087774276733398,
+        "ratingsCount": "9547",
+        "oneStarRatings": "1566",
+        "twoStarRatings": "299",
+        "threeStarRatings": "399",
+        "fourStarRatings": "748",
+        "fiveStarRatings": "6534",
+        "commentCount": "4778"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://telegra.ph/PRIVACY-PLICY-BMI-12-13",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiWiCiIIEioCCAkyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiWiCiIIEioCCAkyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by No to Hack",
+                "url1": "getStream?ecp=CjyKAzkKGQoTOTA0MDkxNTk2NDYxNzQyMDAwMxAIGAMSGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjyKAzkKGQoTOTA0MDkxNTk2NDYxNzQyMDAwMxAIGAMSGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiWiCiIIESoCCAgyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIESoCCAgyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiWiCiIIEioCCAgyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIEioCCAgyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiWiCiIIASoCCAgyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIASoCCAgyGgoUY29tLm5vaGFjay5mb3Jtb2JpbGUQARgD"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.nohack.formobile",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.nohack.formobile",
+    "reviewsUrl": "rev?doc=com.nohack.formobile&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$7.99 - $35.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "No to Hack"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "petuhovasv1976@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Leningradskaya 3к1<br/>Dolgoprudniy<br/>Russia"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "May 3, 2019"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Anti-Hack | Your shield against the bad hackers...",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.nohack.formobile"
+}

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.kyawgyi.yp/%E1%80%A1%E1%80%95%E1%80%BC%E1%80%AC%E1%80%9B%E1%80%AF%E1%80%95%E1%80%BA%E1%80%95%E1%80%BC%20-Yote%20Pya_1.8_apkcombo.com.apk?ecp=Y29tLmt5YXdneWkueXAvMS44LzE1LjUwNmI4N2I4NDZmODJmYWFlNmZmNTUxOTRkODA5ZjIyMzFhYmUzYzUuYXBr&iat=1665673571&sig=f7db37780687c542aa55e03d218c4f49&size=3046557&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.kyawgyi.yp/%E1%80%A1%E1%80%95%E1%80%BC%E1%80%AC%E1%80%9B%E1%80%AF%E1%80%95%E1%80%BA%E1%80%95%E1%80%BC%20-Yote%20Pya_1.8_apkcombo.com.apk?ecp=Y29tLmt5YXdneWkueXAvMS44LzE1LjUwNmI4N2I4NDZmODJmYWFlNmZmNTUxOTRkODA5ZjIyMzFhYmUzYzUuYXBr&iat=1659020967&sig=f5371f1b1b3dc2bfc845a87737ba0f6e&size=3046557&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

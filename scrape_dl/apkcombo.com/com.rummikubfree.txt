@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.rummikubfree/Rummikub%C2%AE_4.5.34_apkcombo.com.apk?ecp=Y29tLnJ1bW1pa3ViZnJlZS80LjUuMzQvMjAyMjA5MTQuN2JmYjM2NGViNjg4OGMwODI0YTRjYTUwMGFkMGQ5YmQ5MDU3Y2RhYS5hcGs=&iat=1663574233&sig=ae6a59cac61c3eb2fe197f4e949a6b99&size=98380908&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.rummikubfree/Rummikub%C2%AE_4.5.21_apkcombo.com.apk?ecp=Y29tLnJ1bW1pa3ViZnJlZS80LjUuMjEvMjAyMjAzMjcuODJmMWQ5ODBmOThiMDQ0MDM4Y2I5M2U4N2Q4NWFjM2ZlY2U3MzIwYy5hcGs=&iat=1658938202&sig=a421d9a3bfb35ffbe935dbe162435ed5&size=100282955&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

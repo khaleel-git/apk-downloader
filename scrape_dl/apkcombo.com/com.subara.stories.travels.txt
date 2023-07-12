@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.subara.stories.travels/Stories%20World%E2%84%A2%20Travels_1.0.12_apkcombo.com.xapk?ecp=Y29tLnN1YmFyYS5zdG9yaWVzLnRyYXZlbHMvMS4wLjEyLzEwMTIwLmMyY2FlODYyNzk2MzMyNjIyY2Q2ZDA3ZjYyNmNhNDVlNWY1N2U3NzguYXBrcw==&iat=1663001016&sig=7320f0b3a2186788db3499b846787b5c&size=84311924&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.subara.stories.travels/Stories%20World%E2%84%A2%20Travels_1.0.12_apkcombo.com.xapk?ecp=Y29tLnN1YmFyYS5zdG9yaWVzLnRyYXZlbHMvMS4wLjEyLzEwMTIwLmMyY2FlODYyNzk2MzMyNjIyY2Q2ZDA3ZjYyNmNhNDVlNWY1N2U3NzguYXBrcw==&iat=1658436646&sig=557e065445bab98a7c83c157485bf455&size=84311924&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

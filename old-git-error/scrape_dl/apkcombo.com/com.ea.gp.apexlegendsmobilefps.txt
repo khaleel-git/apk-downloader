@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+https://download.apkcombo.com/com.ea.gp.apexlegendsmobilefps/Apex%20Legends_1.1.839.46_apkcombo.com.xapk?ecp=Y29tLmVhLmdwLmFwZXhsZWdlbmRzbW9iaWxlZnBzLzEuMS44MzkuNDYvMzIwMDA2MTMuYTYzZGNkMDFlMWQzNTJlOTUwZTY4ZjMyOTM5ODgzNjAxOTE5YzA4NC56aXA=&iat=1662243170&sig=9409fd4a1546961fbac99620c24b924e&size=2970709870&from=cdn&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.ea.gp.apexlegendsmobilefps/Apex%20Legends_1.1.839.46_apkcombo.com.xapk?ecp=Y29tLmVhLmdwLmFwZXhsZWdlbmRzbW9iaWxlZnBzLzEuMS44MzkuNDYvMzIwMDA2MTMuYTYzZGNkMDFlMWQzNTJlOTUwZTY4ZjMyOTM5ODgzNjAxOTE5YzA4NC56aXA=&iat=1658603575&sig=57531eda7d7fcc2de4c2358b41d78e80&size=2970709870&from=cdn&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

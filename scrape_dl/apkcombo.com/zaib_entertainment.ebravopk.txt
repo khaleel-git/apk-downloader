@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/zaib_entertainment.ebravopk/Ebravo_1.0_apkcombo.com.apk?ecp=emFpYl9lbnRlcnRhaW5tZW50LmVicmF2b3BrLzEuMC8yLjM1OGIxNmNiZjhjYWFkN2RjMTgwMTk1MjZjNTFjYThiMWJiMjJjOTguYXBr&iat=1662909605&sig=21832d1a8904b2a1dfd2d850a7fb5052&size=3343750&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/zaib_entertainment.ebravopk/Ebravo_1.0_apkcombo.com.apk?ecp=emFpYl9lbnRlcnRhaW5tZW50LmVicmF2b3BrLzEuMC8yLjM1OGIxNmNiZjhjYWFkN2RjMTgwMTk1MjZjNTFjYThiMWJiMjJjOTguYXBr&iat=1657806683&sig=79d528eae9cee55ed3fa4dc70ced91af&size=3343750&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

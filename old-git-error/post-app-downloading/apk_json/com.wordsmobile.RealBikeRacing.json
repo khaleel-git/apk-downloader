@@ -1,0 +1,238 @@
+{
+    "docid": "com.wordsmobile.RealBikeRacing",
+    "backendDocid": "com.wordsmobile.RealBikeRacing",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Real Bike Racing",
+    "creator": "Italic Games",
+    "descriptionHtml": "Welcome to the definitive motorcycle racing experience! Real Bike Racing is a must have game for all motor bike riders!<br><br>Start the engine, hit the gas and experience the thrill of handling a 200 HP beast. Go bumper to bumper with elite riders to win the world championship. Now get ready for adrenaline fueled racing action and ride your way to victory in the fastest lane of all!<br><br>Game Features:<br>- Take the wheel of 10+ types of unique superbikes<br>- Fully functioning rear view mirrors<br>- Realistic 3D graphics with dynamic lighting effects<br>- VR mode (virtual reality) which supports Google Cardboard &amp; etc.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/qu7C33T5KpYxGiNoBG66xkX2MohoWq2sBdf6ODTkkfKyl6xP0wgbWrNLN1_r3UGrGgs",
+            "supportsFifeUrlOptions": true,
+            "color": "#201E21"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ekqMTRjOBNGI6qkwTl1Vm9qrm4gZ7KsnJprad3RuZNmFGfRAor1QAvFiUXeNXEbHhRQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=nlZKaIbG2dM"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/nlZKaIbG2dM/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 800,
+                "height": 450
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/uN_UcDbwYNnDb_7D1eITKgUoDvEv1iZNbufPkRJsz2ZfoOpvncYYcN2OM_1NeLNhxgE",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 800,
+                "height": 450
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/njg4hg1Vjd2sb-_9ZUZoPaIiYKR1T-Bz7rxjAyOJIPO84j3NUH5va0n8B2MFcAWShZA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 800,
+                "height": 450
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ik04Lsfyx-IQ3jjZH5vow0iGbKL2vlVmScW-JndrWAhOJ7oUZcsncqsyHMqhhYi82X4",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 800,
+                "height": 450
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/_3XN-am4hexcxXzL7e7nVbbKEtSGijUuSn9MSWfdtXMHDomjwMvrWXIPB-SWfqwdZdc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 800,
+                "height": 450
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/C3_G3Ibb40mFBdw00PW0g60C3ZufXp4Rexb-qWXyKtbejXBXQH3UMXwe7u-laFsQN-k",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Italic Games",
+            "versionCode": 13,
+            "versionString": "1.3.0",
+            "installationSize": "21985299",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.INTERNET",
+                "com.android.vending.BILLING"
+            ],
+            "developerEmail": "contact@italy-games.com",
+            "developerWebsite": "http://www2.italy-games.com",
+            "numDownloads": "100,000,000+ downloads",
+            "packageName": "com.wordsmobile.RealBikeRacing",
+            "recentChangesHtml": "Fixed some crash bugs of the game. Thanks.",
+            "uploadDate": "Oct 11, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 13,
+                    "size": "21985299"
+                }
+            ],
+            "appType": "GAME",
+            "unstable": false,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown1": 3,
+                "unknown2": "21985299",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 11200000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "Start Chambers, Wickham’s Cay II, P. O. Box 2221, Road Town, Tortola, British Virgin Island"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.061592102050781,
+        "ratingsCount": "952294",
+        "oneStarRatings": "143549",
+        "twoStarRatings": "39198",
+        "threeStarRatings": "59599",
+        "fourStarRatings": "82646",
+        "fiveStarRatings": "627299",
+        "commentCount": "380240"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://www2.italy-games.com/policy.htm",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=Ci-iCiwIEioCCAkyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=Ci-iCiwIEioCCAkyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Digital Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Italic Games",
+                "url1": "getStream?ecp=CkaKA0MKGQoTNzE4ODc5MzE5NDc0NTEwODc4NBAIGAMSJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CkaKA0MKGQoTNzE4ODc5MzE5NDc0NTEwODc4NBAIGAMSJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=Ci-iCiwIESoCCAgyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=Ci-iCiwIESoCCAgyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=Ci-iCiwIEioCCAgyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=Ci-iCiwIEioCCAgyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjWiCjIIARIER0FNRSoCCAgyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjWiCjIIARIER0FNRSoCCAgyJAoeY29tLndvcmRzbW9iaWxlLlJlYWxCaWtlUmFjaW5nEAEYAw%3D%3D"
+            }
+        ],
+        "categoryInfo": {
+            "appType": "GAME"
+        }
+    },
+    "detailsUrl": "details?doc=com.wordsmobile.RealBikeRacing",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.wordsmobile.RealBikeRacing",
+    "reviewsUrl": "rev?doc=com.wordsmobile.RealBikeRacing&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$1.99 - $99.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Italic Games"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "contact@italy-games.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Start Chambers, Wickham’s Cay II, P. O. Box 2221, Road Town, Tortola, British Virgin Island"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Sep 20, 2016"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Real Bike Racing is #1 adrenaline fueled 3D motorcycle racing game.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.wordsmobile.RealBikeRacing"
+}

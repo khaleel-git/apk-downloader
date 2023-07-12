@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.sweetdance2.sea/Sweet%20Dance2-SEA_2.3_apkcombo.com.apk?ecp=Y29tLnN3ZWV0ZGFuY2UyLnNlYS8yLjMvMTQuMjg4OGI0ZWM3NWJlODk4ODk0ZDQ2MTNmMTMxOTY2ZTUyNTA1NjI3YS5hcGs=&iat=1663896720&sig=d2a25630b8e3e5b58fc2f48292a92625&size=138412288&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.sweetdance2.sea/Sweet%20Dance2-SEA_2.3_apkcombo.com.apk?ecp=Y29tLnN3ZWV0ZGFuY2UyLnNlYS8yLjMvMTQuMjg4OGI0ZWM3NWJlODk4ODk0ZDQ2MTNmMTMxOTY2ZTUyNTA1NjI3YS5hcGs=&iat=1656783658&sig=e066b79a6dda1007cba231e3036c0a89&size=138412288&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

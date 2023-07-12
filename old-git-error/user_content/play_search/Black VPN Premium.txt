@@ -1,0 +1,10 @@
+com.vpnpremium.expressvpnpremium
+com.vetriinfotech.blackvpn
+com.nordvpn.android
+openvpn.vpn
+blackvpn24.pro
+com.aed.droidvpn
+com.blackvpn
+com.expressvpn.vpn
+com.bitdefender.vpn
+com.security.xvpn.z35kb

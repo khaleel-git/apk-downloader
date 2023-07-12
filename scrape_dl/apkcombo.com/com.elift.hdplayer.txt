@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.elift.hdplayer/HD%20Video%20Player_5.3.0_apkcombo.com.apk?ecp=Y29tLmVsaWZ0LmhkcGxheWVyLzUuMy4wLzUzMC4yM2M5OGI3NjhjMmJkMGQyY2NmYmZmMWI0NGRjMzY0OGVkZDY1Y2RiLmFwaw==&iat=1665563584&sig=b478fc36e92488f682eaa5bde6e83249&size=10860761&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.elift.hdplayer/HD%20Video%20Player_5.2.1_apkcombo.com.apk?ecp=Y29tLmVsaWZ0LmhkcGxheWVyLzUuMi4xLzUyMS4xZjhjYTk5OGE4MThiMGE2ODI3OTU5NGFhZDEyYzA0YjFkNmRkNGU4LmFwaw==&iat=1659467687&sig=739c6ebfc7d3e95fc0019774f67e294e&size=10678664&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

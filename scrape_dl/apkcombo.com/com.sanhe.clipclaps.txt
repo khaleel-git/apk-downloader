@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://download.apkcombo.com/com.sanhe.clipclaps/ClipClaps%20-%20Find%20your%20interest_3.9.4_apkcombo.com.apk?ecp=Y29tLnNhbmhlLmNsaXBjbGFwcy8zLjkuNC8yNzEuZGFmZmQ2OTdhNmIwYTdkNTE4ZmZjMDEyMzZkOWM3YzU5Y2VjZGZhMC5hcGs=&iat=1660281605&sig=09276fe73649e6a7499ebbde0c5c5bb7&size=97038383&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.sanhe.clipclaps/ClipClaps%20-%20Find%20your%20interest_3.9.4_apkcombo.com.apk?ecp=Y29tLnNhbmhlLmNsaXBjbGFwcy8zLjkuNC8yNzEuZGFmZmQ2OTdhNmIwYTdkNTE4ZmZjMDEyMzZkOWM3YzU5Y2VjZGZhMC5hcGs=&iat=1657682496&sig=0e0ff2be3dbac39bc35f73fe7cabddc0&size=97038383&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master
