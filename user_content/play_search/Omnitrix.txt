@@ -1,0 +1,10 @@
+com.andrej.simulator
+com.cristigarage.dnaaltering
+com.KokokatStudios.OmniWatch3D
+eu.adi007.alien
+com.omrslhyz.ben10
+com.APPDO.Ben10Simulator
+com.kolapps.omnitrix
+com.dxomnitrixsimulator.moyasama
+com.turner.b10runner
+com.asmina.ben10omnitrixglitch

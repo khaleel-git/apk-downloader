@@ -1,0 +1,145 @@
+{
+    "docid": "movie-duUnI4QIqnM.P",
+    "backendDocid": "duUnI4QIqnM.P",
+    "docType": 6,
+    "backendId": 4,
+    "title": "HAK_MTL",
+    "creator": "Documentary",
+    "descriptionHtml": "Does privacy still exist in 2019? In less than one generation, the internet has become a mass surveillance machine based on one simple mindset: If it&#39;s free, you&#39;re the product. Google, Facebook, Twitter, Skype and many other services have become masters of monetising our personal data. But it doesn&#39;t stop there. The traces we leave of ourselves on the internet are captured, stored and made accessible to government agencies across the world. To the hacker community, Big Brother is real and only a technological battle will be able to defeat him.",
+    "offer": [
+        {
+            "micros": "3990000",
+            "currencyCode": "USD",
+            "formattedAmount": "$3.99",
+            "checkoutFlowRequired": true,
+            "offerType": 3,
+            "rentalTerms": {},
+            "formattedName": "Rent SD",
+            "formattedDescription": "Plays in SD anywhere you can watch movies from Google Play",
+            "message": "Rent"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 0,
+            "dimension": {
+                "width": 3840,
+                "height": 2160
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/proxy/-4uKk2nTJ9EGCv-0fWMHmsap_VTVIRT-GbseviUMnPKierXSezaBeOBLSO5wyk_yByU2jwjAQJTFIernRCj8--sTwDThXiQnH9yzGziOApNyyRuk1MCiqY_HL3VINDoSyMjLSd7UuQTTlHQQ2ax2wbLNTNmpCQFuoFvLPg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 2000,
+                "height": 2898
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/dEk-L0VfEiDTCEAkPM7-B9v1xBkKlDlZYyNh1tqXuYLR-vd-yWJf-8_FHFB9HUtgpK3ZolCJ5XD8DmbQKrU",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=poSBD66pby0.P"
+        },
+        {
+            "imageType": 13,
+            "dimension": {
+                "width": 3840,
+                "height": 2160
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/proxy/-4uKk2nTJ9EGCv-0fWMHmsap_VTVIRT-GbseviUMnPKierXSezaBeOBLSO5wyk_yByU2jwjAQJTFIernRCj8--sTwDThXiQnH9yzGziOApNyyRuk1MCiqY_HL3VINDoSyMjLSd7UuQTTlHQQ2ax2wbLNTNmpCQFuoFvLPg",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "videoDetails": {
+            "credit": [
+                {
+                    "creditType": 0,
+                    "credit": "Actors",
+                    "name": [
+                        "Daniel Legault",
+                        "Jean-Philippe Décarie-Mathieu",
+                        "Steven Rambam"
+                    ]
+                },
+                {
+                    "creditType": 1,
+                    "credit": "Directors",
+                    "name": [
+                        "Alexandre Sheldon"
+                    ]
+                },
+                {
+                    "creditType": 2,
+                    "credit": "Producers",
+                    "name": [
+                        "Amélie Lambert Bouchard",
+                        "Sylvie van Brabant"
+                    ]
+                },
+                {
+                    "creditType": 3,
+                    "credit": "Writers",
+                    "name": [
+                        "Alexandre Sheldon"
+                    ]
+                }
+            ],
+            "duration": "67 minutes",
+            "releaseDate": "2019",
+            "contentRating": "PG-13",
+            "likes": "0",
+            "dislikes": "0",
+            "genre": [
+                "Documentary",
+                "Independent"
+            ]
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.0,
+        "ratingsCount": "1",
+        "oneStarRatings": "0",
+        "twoStarRatings": "0",
+        "threeStarRatings": "0",
+        "fourStarRatings": "1",
+        "fiveStarRatings": "0",
+        "commentCount": "0"
+    },
+    "relatedLinks": {},
+    "detailsUrl": "details?doc=movie-duUnI4QIqnM.P",
+    "shareUrl": "https://play.google.com/store/movies/details/HAK_MTL?id=duUnI4QIqnM.P",
+    "reviewsUrl": "rev?doc=movie-duUnI4QIqnM.P&n=20",
+    "backendUrl": "https://www.youtube.com/watch?v=duUnI4QIqnM.P",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Audio language",
+                "container": {
+                    "value": "English [Stereo]"
+                }
+            },
+            {
+                "label": "Subtitles",
+                "container": {
+                    "value": "English [CC]"
+                }
+            },
+            {
+                "label": "Rental Period",
+                "container": {
+                    "value": "Start within 30 days, finish within 48 hours."
+                }
+            }
+        ]
+    },
+    "reviewQuestionsUrl": "reviewQuestions?doc=movie-duUnI4QIqnM.P"
+}

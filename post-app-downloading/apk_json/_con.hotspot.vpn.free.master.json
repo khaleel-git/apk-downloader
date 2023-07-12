@@ -1,0 +1,235 @@
+{
+    "docid": "con.hotspot.vpn.free.master",
+    "backendDocid": "con.hotspot.vpn.free.master",
+    "docType": 1,
+    "backendId": 3,
+    "title": "VPN Free - Unlimited Proxy & Fast Unblock Master",
+    "creator": "Hotspot VPN & Proxy Master",
+    "descriptionHtml": "VPN Free - Unlimited Proxy &amp; Fast Unblock Master <br>100% free Proxy! Totally unlimited bandwidth! Super fast and high VPN speed! The best unlimited free Proxy clients for android. <br>Proxy Master - Free Proxy VPN, super fast VPN to proxy sites, watch videos and movies, protect WiFi security and protect privacy. <br><br>What do you expect from a great VPN app?<br># Unlimited Bandwidth to use<br># Endless list of countries to connect to worldwide!<br># Simple one click to connect<br># Super fast speed proxy<br># Proxy any apps and sites in any country<br># IP vanish/ IP Fake <br># Hotspot VPN<br># proxy VPN for VOIP<br><br>Proxy Master - Free Proxy VPN Highlight:<br>★ Fastest - Super Fast Proxy<br>- Thousands of servers being provided for you to make sure super fast speed.<br>- Lots of different locations worldwide to proxy your favorite sites. <br><br>★ Simple - only contain a “Connect” button <br>- One touch to connect to VPN proxy server and connect a better net. <br>- Non username, Non password, Non registration. <br>- No credit card needed.<br><br>★ FREE &amp; Unlimited <br>- 100% unlimited free VPN proxy! <br>- No credit card information needed. No trials offered.<br>- Truly unlimited， No session，speed and bandwidth unlimitation<br><br>★ Proxy - Visit any sites and APP <br>- Bypass geo-restrictions, internet filters and censorship while you’re at work or school.<br>- Proxy websites or social media sites with free VPN proxy server. <br>- Bypass the firewalls as school VPN proxy.<br>- Proxy blocked websites such as: Netflix VPN, YouTube VPN, Instagram, Snapchat, Twitter, Facebook, Viber, Skype, WhatsApp, Wechat etc…<br><br>★ Security - Protect Privacy and Security<br>- NO LOGS! That means, that you&#39;re absolutely anonymous and protected while using our app.<br>- Protect your network traffic under public WiFi hotspot browse anonymously and securely without being tracked. <br>- Protect data privacy, personal information security and internet security while VPN Robot is on.<br>- Enjoy private browsing.<br>- Encrypts data using OpenVPN protocols (UDP / TCP).<br><br>★ Stable - Most Stable - Never lose connection<br>- Top Speed VPN &amp; Stable Connection<br>- Global networks, free vpn for USA, India, Japan, Singapore, Canada, France, Germany, UK, etc..<br>- Perfect support for Saudi Arabia and the United Arab Emirates<br><br><br>★ Multi VPN serversy<br>- vpn for United States<br>- vpn for Germany<br>- vpn for India<br>- vpn for Singapore<br>- vpn for Canada<br>- vpn for Russia<br>- vpn for Japan<br><br>We are the best VPN apps on the market!<br>Just try us and see for yourself!",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/w4gwSfPzeOSaw-ND1cefibv_mEEhSzTAJR2r9FxaYKwRvzjX_T1YJs0aKBM8cfWA-MU",
+            "supportsFifeUrlOptions": true,
+            "color": "#1DA9D8"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/2q5Mn4jVLLfr8qvsnALBirals6PfECO1xKrXNSwcnRP9JNsMAjyAiZCGFL62U0ZQuCE",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2208,
+                "height": 1242
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/9Zo7mkQIJONxcyvgJKcM2q2l0GoYMr0U1ySMFSgC5-umBinTRCBNhs2c9FmguBAVCw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2208,
+                "height": 1242
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/bN3cq8NrrGrHcjWI53hbJyDi1jMLKeGRd_AcSsgcO8swE0u8Ga6TMr20w_QZvLr6lg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2208,
+                "height": 1242
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/VxiqNfFLxWZqWyxjnOORedxWK5gWTbULolWRYylxGnsz030f41adYwoEB1Z9z2F1wvU",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2208,
+                "height": 1242
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/V4_IOegXSy-RVLdnGv7ZOqvs1o3jNX9_kpDEY-FPwEAwlvaxjz91Ew4khqo_6maBht00",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2208,
+                "height": 1242
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/jpa1KtRgVZDMjcYR31UQJvmsejMIBHbTNe7WYqBKGS6ORGi7MaCw9UO_NhLaZ9qpe0-b",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Hotspot VPN & Proxy Master",
+            "versionCode": 213,
+            "versionString": "2.1.3",
+            "installationSize": "15509948",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.CHANGE_NETWORK_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+            ],
+            "developerEmail": "shellapps.dev@gmail.com",
+            "developerWebsite": "https://supershell.me",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "con.hotspot.vpn.free.master",
+            "recentChangesHtml": "Minor bug fixed.",
+            "uploadDate": "Aug 16, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 213,
+                    "size": "15509948"
+                }
+            ],
+            "unstable": false,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "15509948",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "shellapps.dev@gmail.com<br/>1 Yisun Industrial Street 1<br/>A'Posh Bizhub<br/>"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.59755802154541,
+        "ratingsCount": "263408",
+        "oneStarRatings": "16466",
+        "twoStarRatings": "3914",
+        "threeStarRatings": "6964",
+        "fourStarRatings": "14469",
+        "fiveStarRatings": "221593",
+        "commentCount": "121893"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.supershell.me/about/security_privacy.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiyiCikIEioCCAkyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiyiCikIEioCCAkyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Hotspot VPN & Proxy Master",
+                "url1": "getStream?ecp=CkOKA0AKGQoTNzczODA2MjA0MzY4NzUyMDA1MRAIGAMSIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CkOKA0AKGQoTNzczODA2MjA0MzY4NzUyMDA1MRAIGAMSIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiyiCikIESoCCAgyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiyiCikIESoCCAgyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiyiCikIEioCCAgyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiyiCikIEioCCAgyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiyiCikIASoCCAgyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiyiCikIASoCCAgyIQobY29uLmhvdHNwb3QudnBuLmZyZWUubWFzdGVyEAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=con.hotspot.vpn.free.master",
+    "shareUrl": "https://play.google.com/store/apps/details?id=con.hotspot.vpn.free.master",
+    "reviewsUrl": "rev?doc=con.hotspot.vpn.free.master&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$9.99 - $79.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Hotspot VPN & Proxy Master"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "shellapps.dev@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "shellapps.dev@gmail.com<br/>1 Yisun Industrial Street 1<br/>A'Posh Bizhub<br/>"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jul 7, 2020"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "FREE & Unlimited VPN, Super Fast VPN & Secure VPN",
+    "reviewQuestionsUrl": "reviewQuestions?doc=con.hotspot.vpn.free.master"
+}

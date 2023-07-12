@@ -1,0 +1,274 @@
+{
+    "docid": "network.celsius.wallet",
+    "backendDocid": "network.celsius.wallet",
+    "docType": 1,
+    "backendId": 3,
+    "title": "FaceApp Pro Unlocked",
+    "creator": "Celsius Network Crypto Wallet",
+    "descriptionHtml": "<b> Welcome to the Celsius secure crypto app - a platform Built by HODLers, for HODLers, that lets you earn and borrow over 30 different cryptocurrencies. </b> <br><br>Manage your crypto portfolio and earn compounding rewards (up to 15% APY!) in Bitcoin (BTC), Ethereum (ETH), Tether (USDT), and many other crypto coins! Qualifying users can get instant approval for dollar or stablecoin crypto loans. The best part … <b> you’ll never pay any fees! </b> Celsius covers all network costs and will never charge transfer fees, origination fees, or withdrawal fees. <br><br>Our trusted crypto platform always has your best interest in mind. Enjoy a new wave of financial crypto services to help you join the 1% and expand the crypto community. <br><br>➡️Manage all your digital currency in one place<br>Join Celsius Secure crypto platform and complete a quick registration to be able to transfer crypto coins and start earning rewards right away. You can now buy and track your favorite coins inside the app and grow your portfolio even more. Use our fully functioning crypto app &amp; crypto lending platform to transfer and withdraw your Ethereum, Bitcoin, and over 30 other cryptocurrencies, free. Zero fees.<br><br>➡️ Transfer crypto to friends in seconds with Celsius app!<br>Your digital assets - Your way! With Celsius secure crypto platform you can buy, earn, withdraw and transfer all your tracked cryptocurrencies in no time, anytime! <br><br><b> Celsius secure crypto platform Features: </b><br>✔️ Celsius Web App - now you can access your Celsius account anywhere, anytime, and on any device! Track your crypto balance, rewards, and easily measure your success with Celsius!<br>✔️ Transfer your crypto capital (in over 30 cryptocurrencies!) to your Celsius account <br>✔️ Earn weekly on your crypto – up to 15% APY (paid every week)<br>✔️ Access promo codes and earning deals and earn even more on your cryptos <br>✔️ Check your potential return on your crypto holdings with Celsius currency calculator<br>✔️ Apply for a cash loan against your crypto in just seconds<br>✔️ Check bitcoin price, Ripple rates and the status of other cryptocurrencies on your crypto portfolio  <br><br><br>➡️ Earn CEL Tokens on your current holdings<br>CEL Tokens is a utility token that gives you access to higher rates on earnings and lower rates on loans.  Choose to earn your weekly rewards in CEL tokens and receive up to 25% more rewards on all non-CEL coins.   <br><br>➡️ Let your cryptos work for you<br>Stablecoins are now earning up to 13% APY! Celsius supports 11 stablecoins and counting, which means you can earn best rates on any amount of digital dollars!<br>Celsius is your <b>trusted cryptocurrencies lending platform</b> for the best rates and safest crypto transfers.<br><br>➡️ Be a part of the best crypto community online!<br>Join the 500,000+ Celsians that are already earning more APY on their crypto and enjoy real time community insights!<br>Invite friends to download Celsius crypto app to receive referral rewards. <br><br>Borrow and pay on the blockchain with Celsius crypto platform and enjoy the best rates and get more on your cryptocurrencies. <br><br>Our team is already working hard on the next release, so expect a bunch of updates in the Celsius -Secure crypto platform in the upcoming weeks and months. We love to hear from our users for product features and ideas, so join us on Twitter @celsiusnetwork and email us feedback, questions, and suggestions at app@celsius.network.<br><br>Happy HODLing! Team Celsius",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/q6_6TTNeP7Q-dkeMni_KfWu5jxyeo0Vc49kPl0vRWR3Qn5hB2PyifSDN0pQBCKPqWQ",
+            "supportsFifeUrlOptions": true,
+            "color": "#F7F7F8"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://apkfuel.com/wp-content/uploads/2019/07/faceapp-icon-1-150x150.png",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=KQXl01Mxg4I"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/KQXl01Mxg4I/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/gp6UgHMQl9nkWE47Y_73uIaMAjA_u20zYYzKqccVCsnml-YeOVP9WNgcuj-hTmfZ7t9M",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/3WFt35Y3TmDQOwyp1hkG5EkDqN5MHNS-YbBX2sgWPtpyT96XZPtVBgjvpvpkLXW7Zhc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/mGdPqFE-V-PfAAtDvqT-ELqK-ZfhsPAE7JMw0xDcpZFHltsNc_X9vfMeGzkrAFgvAPE",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Uz3Nuk8PIZUUYoeheeUiJXMEZG7mWn8BvG0u4zNSkyJldGhcsveJttWZqudgCPpNw18",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/zOYFgMoqij7WXxZdqaIk3z2a26j4jO-rNMtZYnPZWwvo9U2Cj1FgS-CiyvsVb1hghg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/VB9K3AVeqHkx74xDDiig1_g0XSzm5K-6jmaEauRB1f4vtS8Xno8ioD-AeddbpUn46Q",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Qu2ZQFJ24wzwYtgP0L36D5LUSuYzejsRNYsKSR8rkGs65n8A2Rjljqt1zVg3bmcWW_Y",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/sD7qEL32GXQRP5GAgapwu1O56NbRtKtAzjfKDY9eqa8QteM5nypFM-i8LpJQ66P8ZR8",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Celsius Network Crypto Wallet",
+            "versionCode": 94,
+            "versionString": "4.10.0",
+            "installationSize": "93316575",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.CAMERA",
+                "android.permission.INTERNET",
+                "android.permission.READ_APP_BADGE",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.USE_BIOMETRIC",
+                "android.permission.USE_FINGERPRINT",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.anddoes.launcher.permission.UPDATE_COUNT",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.htc.launcher.permission.READ_SETTINGS",
+                "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                "com.huawei.android.launcher.permission.READ_SETTINGS",
+                "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                "com.majeur.launcher.permission.UPDATE_BADGE",
+                "com.oppo.launcher.permission.READ_SETTINGS",
+                "com.oppo.launcher.permission.WRITE_SETTINGS",
+                "com.sec.android.provider.badge.permission.READ",
+                "com.sec.android.provider.badge.permission.WRITE",
+                "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                "me.everything.badger.permission.BADGE_COUNT_READ",
+                "me.everything.badger.permission.BADGE_COUNT_WRITE"
+            ],
+            "developerEmail": "app@celsius.network",
+            "developerWebsite": "https://celsius.network",
+            "numDownloads": "500,000+ downloads",
+            "packageName": "network.celsius.wallet",
+            "recentChangesHtml": "- Cardano (ADA) is now available on Celsius! Earn yield on your ADA or take a loan with your ADA as collateral<br>- Bug fixes and improvements for optimal performance",
+            "uploadDate": "Aug 9, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 94,
+                    "size": "93316575"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown2": "93316575",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 3.5837173461914062,
+        "ratingsCount": "6476",
+        "oneStarRatings": "1711",
+        "twoStarRatings": "387",
+        "threeStarRatings": "308",
+        "fourStarRatings": "547",
+        "fiveStarRatings": "3521",
+        "commentCount": "4468"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://celsius.network/privacy-policy/",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CieiCiQIEioCCAkyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CieiCiQIEioCCAkyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Celsius Network Crypto Wallet",
+                "url1": "getStream?ecp=Cj6KAzsKGQoTNjUwMzIzMzExNzM2NDAxOTMzNxAIGAMSHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=Cj6KAzsKGQoTNjUwMzIzMzExNzM2NDAxOTMzNxAIGAMSHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CieiCiQIESoCCAgyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CieiCiQIESoCCAgyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CieiCiQIEioCCAgyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CieiCiQIEioCCAgyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CieiCiQIASoCCAgyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CieiCiQIASoCCAgyHAoWbmV0d29yay5jZWxzaXVzLndhbGxldBABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=network.celsius.wallet",
+    "shareUrl": "https://play.google.com/store/apps/details?id=network.celsius.wallet",
+    "reviewsUrl": "rev?doc=network.celsius.wallet&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Celsius Network Crypto Wallet"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "app@celsius.network"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jun 4, 2018"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Earn Yield on crypto up to 17% APY weekly. Cryptocurrency lending & staking",
+    "reviewQuestionsUrl": "reviewQuestions?doc=network.celsius.wallet"
+}

@@ -1,0 +1,10 @@
+tv.abema
+jp.ameba
+com.dazn
+radiotime.player
+com.amazon.amazonvideo.livingroom
+jp.co.fenrir.tvAsahiNews
+com.fanetv
+com.huya.nimo
+com.ftt.eroica.gl.aos
+jp.gocro.smartnews.android

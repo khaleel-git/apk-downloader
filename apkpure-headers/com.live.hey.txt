@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 22:01:23 GMT
+Date: Tue, 11 Jul 2023 22:01:23 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-27.winudf.com/b/APK/Y29tLmxpdmUuaGV5XzQ4MV85YWFkMDhkYg?_fn=Qm9sb0hpXzUuMTMuMF9BcGtwdXJlLmFwaw&_p=Y29tLmxpdmUuaGV5&is_hot=false&k=d74a35841eecc00efc7559c4ec8541d364af22b3&uu=http%3A%2F%2F172.16.78.1%2Fb%2FAPK%2FY29tLmxpdmUuaGV5XzQ4MV85YWFkMDhkYg%3Fk%3D2c6b9270953ad712014430357e83d8a564af22b3
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e54531ecfc8a1e0-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 196353114
+x-rgw-object-type: Normal
+ETag: "6a7207b5a51c0eb9e2abe62403d968ef"
+Last-Modified: Fri, 26 May 2023 09:37:40 GMT
+Content-Disposition: attachment; filename="BoloHi_5.13.0_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

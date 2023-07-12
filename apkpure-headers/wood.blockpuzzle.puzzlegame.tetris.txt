@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 15:39:14 GMT
+Date: Tue, 11 Jul 2023 15:39:17 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-12.winudf.com/b/APK/d29vZC5ibG9ja3B1enpsZS5wdXp6bGVnYW1lLnRldHJpc18yOV9jY2I5OGQ2YQ?_fn=V29vZCBCbG9jayBQdXp6bGVfMS45LjlfQXBrcHVyZS5hcGs&_p=d29vZC5ibG9ja3B1enpsZS5wdXp6bGVnYW1lLnRldHJpcw%3D%3D&is_hot=false&k=010d887640ec8d2b52f3dd6652c6f7c164aec921
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e522349ddb2a20b-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 9230775
+x-rgw-object-type: Normal
+ETag: "f2d19be718f5966a5d684a0267bd5627"
+Last-Modified: Wed, 17 May 2023 11:15:42 GMT
+Content-Disposition: attachment; filename="Wood Block Puzzle_1.9.9_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: MISS
+Accept-Ranges: bytes

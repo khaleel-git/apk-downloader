@@ -1,0 +1,12 @@
+com.opera.browser
+com.opera.mini.native
+com.opera.gx
+com.opera.touch
+com.opera.browser.beta
+com.opera.mini.native.beta
+com.opera.app.news
+com.opera.cryptobrowser
+com.opera.app.newslite
+com.opera.app.news.us
+com.opera.app.sports
+com.opera.olist

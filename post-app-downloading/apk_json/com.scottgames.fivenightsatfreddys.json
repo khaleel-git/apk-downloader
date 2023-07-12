@@ -1,0 +1,263 @@
+{
+    "docid": "com.scottgames.fivenightsatfreddys",
+    "backendDocid": "com.scottgames.fivenightsatfreddys",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Five Nights at Freddy's",
+    "creator": "Clickteam USA LLC",
+    "descriptionHtml": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.<br><br>Welcome to your new summer job at Freddy Fazbear&#39;s Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots&#39; behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.<br><br>From your small office you must watch the security cameras carefully. You have a very limited amount of electricity that you&#39;re allowed to use per night (corporate budget cuts, you know). That means when you run out of power for the night- no more security doors and no more lights! If something isn&#39;t right- namely if Freddybear or his friends aren&#39;t in their proper places, you must find them on the monitors and protect yourself if needed!<br><br>Can you survive five nights at Freddy&#39;s?<br><br>&quot;For all the simplicity of the game’s controls and premise, Five Nights at Freddy‘s is frightening. It’s a fantastic example of how cleverness in design and subtlety can be used to make an experience terrifying. Simple still images and proper character design steal the show in this game, and show that Scott Cawthon knows quite a lot about the secret fears people feel when looking at creepy dolls and toys. It’s elegant in how it sows fear, and is a must-own for anyone who likes scary games.&quot; -Joel Couture IndieGameMag.com<br><br>NOTE: Game entirely in English.<br><br>#MadeWithFusion",
+    "offer": [
+        {
+            "micros": "2990000",
+            "currencyCode": "USD",
+            "formattedAmount": "$2.99",
+            "checkoutFlowRequired": true,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/jRaERy_DY3j4qSxpszoD3jf6pt-KmiaGRTp3jA7_rM-QUyrl0pV0wqjwU0F2jhHmSYEY",
+            "supportsFifeUrlOptions": true,
+            "color": "#020000"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/myJ2kwywsCRglKkZuHBq6Aku9PX7HB75v-8KbnTK9JOPU6z0hpD9xtvjiTGqrn-e4eI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=kLffexj3tbI"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/kLffexj3tbI/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/cjF7Amqomp2kz1oUbCdUiVmnRrz1BmBFeXwz2UGkRUC1ACwftTrOhI1b7BAz7HN1wCZA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/dnItqtkgJTDqDGaWcXNdMlWS74AAi5HT4crT0vH90Kthw9M6uZRiKxHxIfKt1P2ZUg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/7qJVk5Smp7I-SiQmzD5FtImRQ9iqRBaftLDVZ4ZNrzBi3hEkUQbZVt_gt69Pj7Bu1F8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/4J3MnjNXUU0oQkRvPj4eSEpGSNryH-wSQobui4YvmZAa5L-HocRMbXe3g-399LhVhIT1",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/003-K9Qwo80w2DF45qvYaf681lT0pxKUpEu7QHJvwJiCIHvUZm7xk46HSYdfD3DZyg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/-1KlkKP4FnnPvU7bvc4RDZyISpD-NJzzZGy3GX30zKD-7nz5wr0nR-kD3DwtneKWTCHQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/t95qn__0iJTHMhrnloqa6nS-F5oJoyHaPfU373kk0PmV7CXxav0frDtHThd2d9hy_Q",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2560,
+                "height": 1600
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/TQxf6Px6HYhXfAo7NN60xmls0mIfoTdybuI58ZC_Zrl7wLPe2vTNTCEPdhC1hqlP9Q",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Clickteam USA LLC",
+            "versionCode": 27,
+            "versionString": "2.0.2",
+            "installationSize": "112152078",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.VIBRATE",
+                "com.android.vending.BILLING"
+            ],
+            "developerEmail": "ctusallc@gmail.com",
+            "developerWebsite": "http://www.clickteam.com",
+            "numDownloads": "1,000,000+ downloads",
+            "packageName": "com.scottgames.fivenightsatfreddys",
+            "recentChangesHtml": "- Options screen<br>- Improved audio support<br>- Various fixes and improvements",
+            "uploadDate": "Jul 31, 2020",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 27,
+                    "size": "112152078"
+                }
+            ],
+            "appType": "GAME",
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "112152078",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "10010 NE 188TH ST<br/>Battle Ground WA 98604<br/>USA"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.697941303253174,
+        "ratingsCount": "130467",
+        "oneStarRatings": "4982",
+        "twoStarRatings": "1268",
+        "threeStarRatings": "3015",
+        "fourStarRatings": "9644",
+        "fiveStarRatings": "111556",
+        "commentCount": "58523"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.clickteam.com/privacy-policy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjOiCjAIEioCCAkyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjOiCjAIEioCCAkyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Fantasy Violence<br/>In-Game Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Clickteam USA LLC",
+                "url1": "getStream?ecp=CkqKA0cKGQoTODI3ODg4NjA2OTQzMTQ5MzI2MRAIGAMSKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CkqKA0cKGQoTODI3ODg4NjA2OTQzMTQ5MzI2MRAIGAMSKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjOiCjAIESoCCAgyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjOiCjAIESoCCAgyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjOiCjAIEioCCAgyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjOiCjAIEioCCAgyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjmiCjYIARIER0FNRSoCCAgyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjmiCjYIARIER0FNRSoCCAgyKAoiY29tLnNjb3R0Z2FtZXMuZml2ZW5pZ2h0c2F0ZnJlZGR5cxABGAM%3D"
+            }
+        ],
+        "categoryInfo": {
+            "appType": "GAME"
+        }
+    },
+    "detailsUrl": "details?doc=com.scottgames.fivenightsatfreddys",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.scottgames.fivenightsatfreddys",
+    "reviewsUrl": "rev?doc=com.scottgames.fivenightsatfreddys&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $4.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Clickteam USA LLC"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "ctusallc@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "10010 NE 188TH ST<br/>Battle Ground WA 98604<br/>USA"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Aug 24, 2014"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Keep an eye on the animatronics and you'll make it thru the night... probably.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.scottgames.fivenightsatfreddys"
+}

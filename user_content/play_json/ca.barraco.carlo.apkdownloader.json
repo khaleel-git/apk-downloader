@@ -1,0 +1,10 @@
+{
+    "appId": "ca.barraco.carlo.apkdownloader",
+    "url": "https://play.google.com/store/apps/details?id=ca.barraco.carlo.apkdownloader",
+    "icon": "https://play-lh.googleusercontent.com/tUCfOdwd9twiLJn0xxVp16pqoiyh3HxEiD-TME3qgdwzpBY5iiRYxYjRsrqKnboudlv2=w240-h480",
+    "title": "APK Downloader",
+    "rating": "3.2",
+    "num_of_downloads": "1M+",
+    "meta_description": "Save apps that are installed on your device to an APK file with one tap.",
+    "full_description": "Save apps that are installed on your device to an APK file with one tap. You can use this app to create backups or install apps on devices without access to the internet. You can also install your APKs on devices that do not have access to the app via the main store. For example: if an app is not available on the store for your smart TV, you can usually still install the app using an APK file without issue.Features:- One tap APK downloading for single apps- Long press for bulk downloading- Supports large multi-part APKs like games- Sorting by install date or name- Search bar to quickly find the app you want- Responsive and intuitive user interfaceAPK Downloader needs permission to access photos, media, and files to be able to read the APKs from the device's app storage folders as well as to copy the APK to the device's main storage.Root access is not required to use this app."
+}

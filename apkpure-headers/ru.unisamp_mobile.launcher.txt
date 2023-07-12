@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 16:57:03 GMT
+Date: Tue, 11 Jul 2023 16:57:03 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-15.winudf.com/b/APK/cnUudW5pc2FtcF9tb2JpbGUubGF1bmNoZXJfNTNfMmVmYzFlN2Y?_fn=U0EtTVAgTGF1bmNoZXJfMi4wLWJ1aWxkLTI0LjA1LjIzXygxNi4xMClfQXBrcHVyZS5hcGs&_p=cnUudW5pc2FtcF9tb2JpbGUubGF1bmNoZXI%3D&is_hot=true&k=38b80de746a0a712736141936044921b64aedb5f
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e52954cbd953a04-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 19329260
+x-rgw-object-type: Normal
+ETag: "3c2c02d81e2bdcd2fc43d115f31982f3"
+Last-Modified: Wed, 24 May 2023 13:52:24 GMT
+Content-Disposition: attachment; filename="SA-MP Launcher_2.0-build-24.05.23_(16.10)_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

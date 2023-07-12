@@ -1,0 +1,24 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 20:16:31 GMT
+Date: Tue, 11 Jul 2023 20:16:31 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-21.winudf.com/b/APK/Y29tLm1vdmllLmhkaHViNHVfMV84NmEwYjhiNA?_fn=SERIdWI0dV84LjVfQXBrcHVyZS5hcGs&_p=Y29tLm1vdmllLmhkaHViNHU%3D&is_hot=false&k=b77286d1f0bcbc96934a387bb6f24f0f64af0a1f&uu=http%3A%2F%2F172.16.70.1%2Fb%2FAPK%2FY29tLm1vdmllLmhkaHViNHVfMV84NmEwYjhiNA%3Fk%3D58e09549f4380635d073906cc809bbe064af0a1f
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e53b9823d993870-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 1097310
+Cache-Control: max-age=315360000
+x-rgw-object-type: Normal
+X-Cache-Status: HIT
+X-Cache-Status: HIT
+ETag: "c49507c6b8392cc52a47fe08dfb756e1"
+Last-Modified: Tue, 20 Jun 2023 08:34:27 GMT
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Content-Disposition: attachment; filename="HDHub4u_8.5_Apkpure.apk"
+Accept-Ranges: bytes

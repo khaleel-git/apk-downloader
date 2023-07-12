@@ -1,0 +1,14 @@
+com.bandainamcoent.dblegends_ww
+com.bandainamcogames.dbzdokkanww
+com.stickman.dragon.pvp.online
+com.bandainamcogames.dbzdokkan
+com.saiof.scsd
+com.tt.legendarystick
+com.gameloft.android.ANMP.GloftDOHM
+com.zitga.ninja.stickman.legends
+com.stickman.warriors.dragon
+com.sftlos.android
+com.wb.goog.dc.legends
+com.legend.eternal
+com.bandai.dbscgapp
+com.lzlzlzwz28.gj

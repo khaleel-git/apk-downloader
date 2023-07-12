@@ -1,0 +1,224 @@
+{
+    "docid": "wonder.deals.app",
+    "backendDocid": "wonder.deals.app",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Wonder Deals - Discounts on Amazon & best markets",
+    "creator": "Paridhouse",
+    "descriptionHtml": "Wonder Deals allows you to find any product at the best prices on the web!<br><br>● Find the best discounts in one search<br> ✔ daily offers<br> ✔ flash deals<br> ✔ coupons and promo codes<br> ✔ warehouse products, renewed and used<br><br>● Search in major online stores<br> ✔ Amazon<br> ✔ Ebay<br> ✔ Aliexpress<br> ✔ Banggood<br><br>● Notifications: You will always receive notifications for special offers and exclusive promotional discount codes for online purchases<br> ✔ Don&#39;t miss the best of Black Friday<br> ✔ Many interesting gift ideas<br> ✔ Buy your Christmas and other holiday gifts with an exclusive discount<br> <br>● Completely free, no advance purchases, no in-app purchases, no registration<br><br>● Copy coupon codes by clicking on the orange button and paste them at checkout<br><br>● Favorites to save the products of your interest<br><br>● User interface designed to ensure speed and ease in finding products<br><br>● Darkmode<br><br>● Sorting and filtering by price and shops and region selection<br><br>● Currently available in Italy, United States and United Kingdom<br><br>Wonder deals useful links:<br><br>Privacy policy - https://www.iubenda.com/privacy-policy/46084326<br><br>Contact us - https://wonder.deals/it/contact<br><br>Terms of use - https://wonder.deals/it/termsOfUse/",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/iwMLUwfCegMi97yp8CfDDKt0jnftKRVs8I_BI6e5m1nJTp7wVST5FfHSzTcHu_2go2E7",
+            "supportsFifeUrlOptions": true,
+            "color": "#F9F8F9"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/uUp779II7UGkmTVG1HH1-m88SyoEAdhHu977ya39KmzZI_EvOU5GiW8b4pklR1ewrw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1536,
+                "height": 2048
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/mQmSKJ4dlpTOXO9W7RGLy3brSPqBU4xLF7CQpfRPCeubqA6X5eNzQGh9CZutvP8ggws",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1536,
+                "height": 2048
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/K5PzjNlT19caaw5Hhb4ZxpRdBEnfqHgesUYXmtyAzakHsqwikB9-_gRBxmJxVXKH7QY",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1536,
+                "height": 2048
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/pjjLm_Zjo9Kks6yi5R5FEgn4mLTte58Cw_3-fY0n71QMnaagdrhqLH7zJFN4epNva40",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1536,
+                "height": 2048
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/o0ulS7mn55hmTCTFkH4e3e-vVtuKzfzPnlWrtr0tDbNgyB_80dRBTtNLrr8_oxPd",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1536,
+                "height": 2048
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/3a3OVb5EZSmJ6shtH909Qeg4OKU6UpWQD26XuQuJQQ-cIMMsAsap-r4LRZgbnzn-qwc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1536,
+                "height": 2048
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/CVXfBMVkCdhG2A1aJRYveOXwIArUtfkbAb0Vrl6FDZyeZLsfz2zSrO6D_PsPhSCGthg",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Paridhouse",
+            "versionCode": 10702,
+            "versionString": "1.7.2",
+            "installationSize": "16314205",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.INTERNET",
+                "android.permission.READ_CLIPBOARD",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_CLIPBOARD",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+            ],
+            "developerEmail": "info@wonder.deals",
+            "developerWebsite": "https://wonder.deals",
+            "numDownloads": "5,000+ downloads",
+            "packageName": "wonder.deals.app",
+            "recentChangesHtml": "Aliexpress now available.<br><br>Added coupons for Amazon, eBay, Aliexpress and Banggood.<br><br>Now available in Italy, United States and United Kingdom.<br><br>Fixed a bug related to Banggood that cleared all search results.<br><br>Improved performances and user experience.",
+            "uploadDate": "Sep 30, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 10702,
+                    "size": "16314205"
+                }
+            ],
+            "unstable": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "16314205",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.107142925262451,
+        "ratingsCount": "28",
+        "oneStarRatings": "4",
+        "twoStarRatings": "2",
+        "threeStarRatings": "1",
+        "fourStarRatings": "1",
+        "fiveStarRatings": "20",
+        "commentCount": "17"
+    },
+    "relatedLinks": {
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiGiCh4IEioCCAkyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAkyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Paridhouse",
+                "url1": "getStream?ecp=CjiKAzUKGQoTNTU1Mjk0OTc0MDcyNjU3NDk4MRAIGAMSFgoQd29uZGVyLmRlYWxzLmFwcBABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjiKAzUKGQoTNTU1Mjk0OTc0MDcyNjU3NDk4MRAIGAMSFgoQd29uZGVyLmRlYWxzLmFwcBABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiGiCh4IESoCCAgyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IESoCCAgyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiGiCh4IEioCCAgyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IEioCCAgyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiGiCh4IASoCCAgyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiGiCh4IASoCCAgyFgoQd29uZGVyLmRlYWxzLmFwcBABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=wonder.deals.app",
+    "shareUrl": "https://play.google.com/store/apps/details?id=wonder.deals.app",
+    "reviewsUrl": "rev?doc=wonder.deals.app&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Paridhouse"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "info@wonder.deals"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Oct 26, 2020"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Daily offers, flash deals, coupons, discounts on Amazon,eBay,Aliexpress,Banggood",
+    "reviewQuestionsUrl": "reviewQuestions?doc=wonder.deals.app"
+}

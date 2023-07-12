@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 21:56:54 GMT
+Date: Tue, 11 Jul 2023 21:56:55 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-01.winudf.com/b/APK/Y29tLmJ1ZGdlc3R1ZGlvcy5TdHJhd2JlcnJ5U2hvcnRjYWtlRHJlc3NVcERyZWFtc18xMDgyXzM2YjI2ZTcx?_fn=U3RyYXdiZXJyeSBTaG9ydGNha2UgRHJlYW1zXzIwMjEuMS4wX0Fwa3B1cmUuYXBr&_p=Y29tLmJ1ZGdlc3R1ZGlvcy5TdHJhd2JlcnJ5U2hvcnRjYWtlRHJlc3NVcERyZWFtcw%3D%3D&is_hot=false&k=6ae8b36f619690145d861d997fcb45b264af21a6
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e544c89092ba20b-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 39024421
+x-rgw-object-type: Normal
+ETag: "3ade9bcbebb8a3918910ad64655c4b63"
+Last-Modified: Fri, 12 Nov 2021 18:03:31 GMT
+Content-Disposition: attachment; filename="Strawberry Shortcake Dreams_2021.1.0_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: MISS
+Accept-Ranges: bytes

@@ -1,0 +1,243 @@
+{
+    "docid": "jp.pokemon.pokemonunite",
+    "backendDocid": "jp.pokemon.pokemonunite",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Pokémon UNITE",
+    "creator": "The Pokemon Company",
+    "descriptionHtml": "Headline:<br><br>Pokémon UNITE:<br>Team up and take down the opposition in Pokémon’s first 5-on-5 strategic team battle game!  <br><br>Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pokémon, level up, evolve your own Pokémon, and work to prevent the opposing team from scoring points. Put your teamwork to the test, and take home the win!  <br><br>Key Features: <br>•\tBATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pokémon in a variety of holographic outfits—with new styles arriving regularly! <br> <br>•\tUNITE MOVES: Unleash the true power of your Pokémon with Unite Moves! Leverage these all-new Pokémon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations. <br> <br>•\tRANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard! <br> <br>•\tCOMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team’s success. Leverage signals, quick-chat messages, and—for the first time in a Pokémon title—voice chat to communicate and stay in sync with your team. <br> <br>•\tCROSS-PLATFORM PLAY: Challenge Trainers from around the world to Unite Battles on the Nintendo SwitchTM system or on a compatible mobile device thanks to cross-platform support. Trainers may use their Pokémon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices. <br><br><br>Check out the official website for more information, and follow Pokémon UNITE on Twitter for all the latest news. <br>------------------------------------------------------------<br>Official Website: http://PokemonUNITE.com/<br>Official Twitter: https://twitter.com/PokemonUNITE/<br><br>Legal:<br>•\tThis is a free-to-start game; optional in-game purchases available. Data charges may apply.<br>•\tAn internet connection is required to play the game.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/MaFH8pnG9lT6m7XeaFC0r2ZsRprk9VkSTO22ornPlot9GGrimGl9iBoiy4emMtgOFg",
+            "supportsFifeUrlOptions": true,
+            "color": "#1C2C62"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/l6iBBhrah3mNhvcjZgZBwICAF5uu3KjorU4pq-eMOxYgT_L_TnpzT7a3TmmdxaMMgbUy",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=ZLBVuHDguvQ"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/ZLBVuHDguvQ/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2499,
+                "height": 1562
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/33KDXbclWFAcyTYRa2ervf57gcCLrtugeToF-J6Yirz93-jRjF3nLSgoKpWx7ipHRQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2499,
+                "height": 1562
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/nKTAYK-1QBDX66yN0fmCBpQFAGDaSAJrau32q86BfOZ2tldjQ_7KzPYSS8ih6BJt1m8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2499,
+                "height": 1562
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/OOvJdurMl6SLc_laontPJrMG-z_A0upTiTPU_r7xTSHKNVC0-5ESffTbh-RION0Rbg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2208,
+                "height": 1380
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/USBheV_dz9HNtSfWchgVChPcgeHH2-XLLIAneWcEt3pDlvoS3cE9Q_XKCLzOWduJx88",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "The Pokemon Company",
+            "versionCode": 335379,
+            "versionString": "1.2.1.2",
+            "installationSize": "669588981",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.BLUETOOTH",
+                "android.permission.BLUETOOTH_ADMIN",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "jp.pokemon.pokemonunite.permission.C2D_MESSAGE"
+            ],
+            "developerEmail": "app-auto-reply@pokemon-support.com",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "jp.pokemon.pokemonunite",
+            "recentChangesHtml": "Bug Fixes for Android",
+            "uploadDate": "Sep 24, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 335379,
+                    "size": "669588981"
+                }
+            ],
+            "appType": "GAME",
+            "unstable": true,
+            "hasInstantLink": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "669588981",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    },
+                    {
+                        "packageName": "com.google.android.play.games",
+                        "version": 0
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "東京都港区六本木6-10-1六本木ヒルズ森タワー"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.1450581550598145,
+        "ratingsCount": "484949",
+        "oneStarRatings": "60911",
+        "twoStarRatings": "17448",
+        "threeStarRatings": "30332",
+        "fourStarRatings": "57944",
+        "fiveStarRatings": "318311",
+        "commentCount": "198948"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.apppokemon.com/pokemon-unite/kiyaku/kiyaku002/policy/",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiiiCiUIEioCCAkyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiiiCiUIEioCCAkyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone 10+",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/csiz76udPjXmaJddU_1sanHGlQAAbKkvlprK3DSUNmwu1nY3U6qnXRrI2IDMaivooYK1x11oxz3PEO4z",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Fantasy Violence<br/>Users Interact, In-Game Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by The Pokemon Company",
+                "url1": "getStream?ecp=Cj-KAzwKGQoTNzAzNjYwNDEyNjQ5MTAzOTIzORAIGAMSHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=Cj-KAzwKGQoTNzAzNjYwNDEyNjQ5MTAzOTIzORAIGAMSHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiiiCiUIESoCCAgyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiiiCiUIESoCCAgyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiiiCiUIEioCCAgyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiiiCiUIEioCCAgyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=Ci6iCisIARIER0FNRSoCCAgyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=Ci6iCisIARIER0FNRSoCCAgyHQoXanAucG9rZW1vbi5wb2tlbW9udW5pdGUQARgD"
+            }
+        ],
+        "categoryInfo": {
+            "appType": "GAME"
+        }
+    },
+    "detailsUrl": "details?doc=jp.pokemon.pokemonunite",
+    "shareUrl": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite",
+    "reviewsUrl": "rev?doc=jp.pokemon.pokemonunite&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $99.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "The Pokemon Company"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "app-auto-reply@pokemon-support.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "東京都港区六本木6-10-1六本木ヒルズ森タワー"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Sep 21, 2021"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "5-on-5 Strategic Team Pokémon Battles!",
+    "reviewQuestionsUrl": "reviewQuestions?doc=jp.pokemon.pokemonunite"
+}

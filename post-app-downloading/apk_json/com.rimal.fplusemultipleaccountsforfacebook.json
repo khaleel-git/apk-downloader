@@ -1,0 +1,222 @@
+{
+    "docid": "com.rimal.fplusemultipleaccountsforfacebook",
+    "backendDocid": "com.rimal.fplusemultipleaccountsforfacebook",
+    "docType": 1,
+    "backendId": 3,
+    "title": "fPlus: Multi Accounts for Facebook",
+    "creator": "FastVid",
+    "descriptionHtml": "fPlus: Multiple accounts for Facebook, allows you to use two or more Facebook accounts at the same time. For each account you can browse your news feed inside the app, your friends/pages timeline and your friends stories. using a built-in browser that allows you to create two or more accounts on your device and enjoy browsing and chatting with your friends on all accounts. <br><br>Now you can use multiple Facebook accounts in the same app! <br><br>How to use:<br>Click on the menu in the upper left corner<br>Click add account<br>Login to your account<br>Browse Facebook<br><br>To add another account repeat the same steps<br><br><br>Features:<br><br>1- Easy to use and friendly user experience.<br>2- Safe &amp; light weight.<br>3- Allows you to sign in multiple Facebook accounts on the same device.<br>4- Allows you to create new account on Facebook using your email ID.<br>5- Allows you to sign in more than two accounts at once.<br><br><br>Install fPlus: Multiple accounts for Facebook and enjoy browsing all your accounts on the same app.<br><br>Important Notes:<br><br>- This app is NOT affiliated with or endorsed by the Facebook official network.<br><br>- Any unauthorized use and/or violations of terms and conditions is the sole responsibility of the user.<br><br>- This app is intended to be used by people aged 13+",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/YMMYy08_9kfXCbhC9VYe6UCuOV3LnL2h1MqPhCVRN176CxPJCkTKmTmK_MwVbPAwgryz",
+            "supportsFifeUrlOptions": true,
+            "color": "#4766A9"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ve4zEiv0x7Oh-yZApyq49L1PYsgOyLwtDWj8IAMsDPSZQp5wxr3pi5rUhPTu6EDR3dZb",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2033,
+                "height": 3626
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/SP6ShjS2jHMHooUZ1fiakWyIcWQgtb8N0XVpX5hHP0_OdjNml5Pv6ryCvQvcq1ZyS8c_",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2033,
+                "height": 3626
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/K8QYUq_CgI48awuRhxxYqCMg0VwCLhiIZXDgFVbL2xJBmG-EqOX8W1zxjvWNons1VA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2033,
+                "height": 3626
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rWSvPkwhUVnPvuhy8hIIuPAJ3za4lTs2TsTZpye2jZa5NyFXRzT8TU4fo3W5su6mPA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2033,
+                "height": 3626
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/2SVIALJ-JQTXTtZ0SAMc2IA0KFo62T_2BqgqqqKYw30eXvpvj_p0uZsN78FwRFckxg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2033,
+                "height": 3626
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rsrWgEFZUBFL-SbEMRJnpQHs_GNn3IXvsv4_k-h8HLvm1rvC3UwCONGUe3sMX8p1Gg",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "FastVid",
+            "versionCode": 21,
+            "versionString": "1.3.3",
+            "installationSize": "3945055",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.INTERNET",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+            ],
+            "developerEmail": "play@linterna-games.com",
+            "developerWebsite": "http://fastvid.com",
+            "numDownloads": "1,000,000+ downloads",
+            "packageName": "com.rimal.fplusemultipleaccountsforfacebook",
+            "recentChangesHtml": "New theme",
+            "uploadDate": "May 29, 2020",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 21,
+                    "size": "3945055"
+                }
+            ],
+            "unstable": false,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "3945055",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "Al Madina Al Munawra St."
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.083792686462402,
+        "ratingsCount": "9033",
+        "oneStarRatings": "1364",
+        "twoStarRatings": "318",
+        "threeStarRatings": "507",
+        "fourStarRatings": "846",
+        "fiveStarRatings": "5995",
+        "commentCount": "4425"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://www.linterna-games.com/privacy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjyiCjkIEioCCAkyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjyiCjkIEioCCAkyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by FastVid",
+                "url1": "getStream?ecp=ClOKA1AKGQoTNjQ5NDcxODA1MTUyNTU5MTA2MRAIGAMSMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=ClOKA1AKGQoTNjQ5NDcxODA1MTUyNTU5MTA2MRAIGAMSMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjyiCjkIESoCCAgyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjyiCjkIESoCCAgyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjyiCjkIEioCCAgyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjyiCjkIEioCCAgyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjyiCjkIASoCCAgyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjyiCjkIASoCCAgyMQorY29tLnJpbWFsLmZwbHVzZW11bHRpcGxlYWNjb3VudHNmb3JmYWNlYm9vaxABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.rimal.fplusemultipleaccountsforfacebook",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.rimal.fplusemultipleaccountsforfacebook",
+    "reviewsUrl": "rev?doc=com.rimal.fplusemultipleaccountsforfacebook&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "FastVid"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "play@linterna-games.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Al Madina Al Munawra St."
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jun 26, 2019"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "fPlus allows you to use more than one Facebook account at the same time",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.rimal.fplusemultipleaccountsforfacebook"
+}

@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 15:39:23 GMT
+Date: Tue, 11 Jul 2023 15:39:24 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-01.winudf.com/b/APK/Y29tLmlncy5wb29sYWNlXzEwNjM2NzI5MjZfNzZhZmE4NGI?_fn=UG9vbCBBY2UgLSA4IGFuZCA5IEJhbGwgR2FtZV8xLjIxLjBfQXBrcHVyZS5hcGs&_p=Y29tLmlncy5wb29sYWNl&is_hot=false&k=c954b62f27c5a8862ed85c365a233c6164aec92b
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e52238a6d153a08-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 80591524
+x-rgw-object-type: Normal
+ETag: "eb0d7c0274b2b778c56834505b902633"
+Last-Modified: Wed, 31 May 2023 12:52:33 GMT
+Content-Disposition: attachment; filename="Pool Ace - 8 and 9 Ball Game_1.21.0_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: MISS
+Accept-Ranges: bytes

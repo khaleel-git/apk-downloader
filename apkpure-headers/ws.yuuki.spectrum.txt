@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 17:18:02 GMT
+Date: Tue, 11 Jul 2023 17:18:04 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-14.winudf.com/b/APK/d3MueXV1a2kuc3BlY3RydW1fNTkxX2I1ZDQ5M2Ew?_fn=U3BlY3RydW0gLSBNdXNpYyBWaXN1YWxpemVyXzUuOS4wX0Fwa3B1cmUuYXBr&_p=d3MueXV1a2kuc3BlY3RydW0%3D&is_hot=false&k=e5cb90ae5a7a983c86e22434731703fe64aee049
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e52b408abbaa22f-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 41753758
+x-rgw-object-type: Normal
+ETag: "0998df9a87f9bee123bbe6fd67ac4928"
+Last-Modified: Mon, 27 Sep 2021 06:31:15 GMT
+Content-Disposition: attachment; filename="Spectrum - Music Visualizer_5.9.0_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: MISS
+Accept-Ranges: bytes

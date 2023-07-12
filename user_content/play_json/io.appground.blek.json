@@ -1,0 +1,10 @@
+{
+    "appId": "io.appground.blek",
+    "url": "https://play.google.com/store/apps/details?id=io.appground.blek",
+    "icon": "https://play-lh.googleusercontent.com/RaRL34doR-JDteIWy1OzH2XRVIqsG2_b0G6b9FtXdvdNModA_nvLOx8HOnGb_yhTTBw=w240-h480-rw",
+    "title": "Bluetooth Keyboard & Mouse",
+    "rating": "4.4",
+    "num_of_downloads": "1M+",
+    "meta_description": "Turn your Android device into a serverless Bluetooth Remote Keyboard & Mouse!",
+    "full_description": "Use your Android device as a remote keyboard and mouse for your Smartphone, Tablet, Computer or Android TV.- Low latency Bluetooth connection without additional software- Turn your smartphone into a touchpad with scrolling support- Use any keyboard app to type text on the remote device with support for 33 different keyboard language layouts- Multimedia mode for controlling media players with controls for playback, volume and navigation *- Numpad and presenter control modes *- Create your own custom layouts for specific controls for an application or game *- Turn your phone into an movement based Air mouse *- Use speech input and send copied text to connected devices ** Premium featureThe receiving device must have Bluetooth. The following operating systems have been successfully tested:Android and Android TVApple iOS and iPad OSWindows 8.1 and higherChromebook Chrome OSIf you have issues or feature requests please visit the support forum on GitHub:https://github.com/AppGround-io/bluetooth-keyboard-and-mouse-support/discussions"
+}

@@ -1,0 +1,12 @@
+com.weberdo.apps.serviceinfo
+com.zadeveloper.playstore.playservices.info
+com.google.ar.core
+com.google.android.ims
+com.google.android.play.games
+com.delxfun.serviceshelp
+io.androidstudio.utilitiesforplayservices
+com.frdeveloper.help.update.playstore.playservices
+com.google.android.tts
+com.playservice.info.update
+com.services.update
+com.google.android.googlequicksearchbox

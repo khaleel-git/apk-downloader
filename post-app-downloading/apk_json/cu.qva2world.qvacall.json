@@ -1,0 +1,250 @@
+{
+    "docid": "cu.qva2world.qvacall",
+    "backendDocid": "cu.qva2world.qvacall",
+    "docType": 1,
+    "backendId": 3,
+    "title": "qvacall",
+    "creator": "qva2world",
+    "descriptionHtml": "Aplicación que simplifica los pasos a seguir para realizar las principales operaciones dentro de la red móvil cubana, ya sea recargar, consultar saldo o activar cualquiera de los planes que se están ofreciendo. Además ofrece información estadística sobre los gastos en los que incurre el usuario ya sea en general o con alguien en específico. La aplicación también ofrece una vía de acceso rápido a los puntos v de etecsa así como a su portal, pudiendo mostrarse en caso de solicitarse una burbuja con el tiempo restante de conexión. El portal nauta puede ser accedido desde la propia WIFI nauta y también desde los datos móviles. Existe la posibilidad de bloquear números indeseados y de mantener datos privados como notas, tarjetas nautas temporales o recargas de nauta o de móvil, las cuales se pueden usar directamente desde las funcionalidades que lo necesiten sin ir a la zona privada.<br><br>De la 2.3.9<br>Actualizado el widget con la información de Bolsa Diaria.<br>Actualizado conexión con Micubacel para obtener la información de la Bolsa Diaria.<br>Ahora en el flotante de datos móviles se mostrara la bolsa diaria aunque exista un paquete, hasta que esta culmine.<br>Agregados nuevos planes LTE.<br>Agregada Bolsa diaria.<br>Actualizada la lista de codigos ussd en el la ayuda del menú lateral.<br>Agregada opción de establecer el tipo de llamada por defecto desde el registro de llamadas.<br>Agregado a la funcionalidad de transfermovil, nuevos mensajes, entre los que se encuentra el de agregar tarjeta de enzona.<br>Arreglados varios errores reportados por los usuarios.<br><br><br>Servicio de accesibilidad: Esta aplicación es un servicio de accesibilidad, por lo que puede ver las acciones que realizas, recuperar el contenido de las ventanas y ver lo que escribes. El objetivo de esto es poder leer los códigos de saldo para mostrarlo en los widgets disponibles y poder dar al usuario una mejor experiencia.<br><br>This app uses Accessibility services.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/_-VryIQ7Gi8binW7eg5_flVLZYdjc2SGBWaylM_iKKjQdZ01BUMF9q6_WWh5s1U4_g",
+            "supportsFifeUrlOptions": true,
+            "color": "#60A8CB"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/LqlSR0MauURkx2u84Tt--sBkNm5a5wtCKRZJSDG76Zj1rtmmdbdqkZtG7rkbtjm6dA8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/jw4pMk-QkqYVEfZ3UpKQjtzXnv_XraRe7qOoF7UPMOLt4b-i9vJnop33I1ixj8iBk3_6",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/I7IYMoOTP-mJQTX-3tDvveeAr_a30QKX_UOom76GBdm7gXRSrRdJRM9tS8XxUvSvd8o",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rSbzwrriLicitGfB4ICJNNq1wv9A-od6YSde37pia2i6s3RRcf8A-JNca0kpCnehDA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/0U6dEahgZGVQiCrqGKb1NJrYXHf2UREl1f_kGvqJUji-a41MC0rqKqcBtXajFoLb1g7K",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1440,
+                "height": 2560
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/xLXXN636gjSO4e4tBtVRp0LHU8uhUeMlDXqHRQWwa0pfC7qx7pI-ePS5L-96eCLGltM",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "qva2world",
+            "versionCode": 203,
+            "versionString": "2.3.31",
+            "installationSize": "14180297",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.ANSWER_PHONE_CALLS",
+                "android.permission.CALL_PHONE",
+                "android.permission.CAMERA",
+                "android.permission.CHANGE_CONFIGURATION",
+                "android.permission.CHANGE_NETWORK_STATE",
+                "android.permission.CHANGE_WIFI_STATE",
+                "android.permission.DISABLE_KEYGUARD",
+                "android.permission.FLASHLIGHT",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_PHONE_STATE",
+                "android.permission.NFC",
+                "android.permission.READ_CALENDAR",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_PRECISE_PHONE_STATE",
+                "android.permission.READ_PROFILE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.REQUEST_INSTALL_PACKAGES",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.SYSTEM_OVERLAY_WINDOW",
+                "android.permission.UPDATE_APP_OPS_STATS",
+                "android.permission.USE_FINGERPRINT",
+                "android.permission.USE_FULL_SCREEN_INTENT",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_CALENDAR",
+                "android.permission.WRITE_CONTACTS",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "android.permission.WRITE_SECURE_SETTINGS",
+                "android.permission.WRITE_SETTINGS",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+                "cu.qva2world.qvasms.DELETEMESSAGEREMOTEPERMITION"
+            ],
+            "developerEmail": "chenry@qva2world.com",
+            "developerWebsite": "http://www.qvacall.com",
+            "numDownloads": "100,000+ downloads",
+            "packageName": "cu.qva2world.qvacall",
+            "recentChangesHtml": "🔸 Eliminados los accesos a Micubacel, servicio que no está activo actualmente.<br>🔸 Agregado el método de marcado con *99 con el formato 99535XXXXXXX99.<br>🔸 Agregado el valor por defecto de 1 cup para el precio de sms nacional.<br>🔸 Arreglados errores reportados por los usuarios.",
+            "uploadDate": "Aug 6, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 203,
+                    "size": "14180297"
+                }
+            ],
+            "unstable": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "14180297",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12211000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.390658378601074,
+        "ratingsCount": "4707",
+        "oneStarRatings": "389",
+        "twoStarRatings": "99",
+        "threeStarRatings": "289",
+        "fourStarRatings": "429",
+        "fiveStarRatings": "3497",
+        "commentCount": "2729"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://qvacall.com/pages/privacy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiWiCiIIEioCCAkyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiWiCiIIEioCCAkyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by qva2world",
+                "url1": "getStream?ecp=CjyKAzkKGQoTODc4NjU1MDk1OTExNzIzODEwMhAIGAMSGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgDGAE%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjyKAzkKGQoTODc4NjU1MDk1OTExNzIzODEwMhAIGAMSGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgDGAE%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiWiCiIIESoCCAgyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIESoCCAgyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiWiCiIIEioCCAgyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIEioCCAgyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiWiCiIIASoCCAgyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD&ds=1",
+                "url2": "getBrowseStream?ecp=CiWiCiIIASoCCAgyGgoUY3UucXZhMndvcmxkLnF2YWNhbGwQARgD"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=cu.qva2world.qvacall",
+    "shareUrl": "https://play.google.com/store/apps/details?id=cu.qva2world.qvacall",
+    "reviewsUrl": "rev?doc=cu.qva2world.qvacall&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "qva2world"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "chenry@qva2world.com"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Feb 27, 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Make more simple operations on your device, keep at bay their expenses.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=cu.qva2world.qvacall"
+}

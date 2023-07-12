@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 16:05:06 GMT
+Date: Tue, 11 Jul 2023 16:05:06 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-08.winudf.com/b/APK/Y29tLm5pbmphaGVyb2VzMy51bHRpbWF0ZXNoaXBwdWRlbl8yXzE4MTE0Nzk?_fn=TmluamEgSGVyb2VzIFVsdGltYXRlIDNfMS4wLjJfQXBrcHVyZS5hcGs&_p=Y29tLm5pbmphaGVyb2VzMy51bHRpbWF0ZXNoaXBwdWRlbg%3D%3D&is_hot=false&k=47593b96c457ace99f6481b1b8f7008164aecf32
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e524934cf413a05-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 13954716
+x-rgw-object-type: Normal
+ETag: "0b5a1d0b1680c2e73dbe3ac6d4a06c6e"
+Last-Modified: Fri, 11 Mar 2022 00:50:28 GMT
+Content-Disposition: attachment; filename="Ninja Heroes Ultimate 3_1.0.2_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

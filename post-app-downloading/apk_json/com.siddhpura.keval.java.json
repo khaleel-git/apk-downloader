@@ -1,0 +1,204 @@
+{
+    "docid": "com.siddhpura.keval.java",
+    "backendDocid": "com.siddhpura.keval.java",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Core Java programming - offline",
+    "creator": "K J SIDDHPURA",
+    "descriptionHtml": "*#1 Top Free Java Learning Tutorial App*<br><br>This language has supports apps development in android,Server side,advance java and javascript.<br><br>Feature:<br>1. Basic Fundamantals<br>2. Offline access the content with sample Code snippt<br>3. Sample Android programs in Java<br>4. Offline Available<br>5. Easily understand and learning java<br>6. User friendly<br><br>Keywords: Java,core java,JavaTutorials,JavaTutorial,javaPrograming,,JavaAndroid,JavaAndroid Tutorials,<br>Java Android Tutorial, Learn JavaTutorials, Learn Java, Learn Javaprograms, Learn Java vs Android, Java vs Kotlin, Kotlin vs Java, JavaFull Tutorial, Javaprograms, Java program,Java programming, Java programming language, <br>Java guide, Java language, Java Kt, Java learn, Java tutorial, Java Simplified, Java Book, Java book professional, Java for Android, Java hub, Java complete guide, Java , Java faq, Java full tutorial, Java complete tutorial, java news<br><br>Also searched as: <br>Java tutorial, java learning, java, tutorial ,   learn java, java tutorial , java, jva , tutorials, tutorial , java tutorial learing app .<br><br>CONTACT US :-<br>For any queries/feedback, write to us at kevalsiddhpura34@gmail.com or call us on 814-0448631<br>Our website is kevalsiddhpura34@gmail.com\t<br>Like us on Facebook: www.facebook.com/keval.siddhpura.3/<br>Like us on Instagram: www.instagram.com/keval__siddhpura/",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/tv8znhdOgs_dHQwg3em2JqovvKmXnfSHYZGeMJBdNg7K9tMueyzwIKmmYBjrLv3lJpU",
+            "supportsFifeUrlOptions": true,
+            "color": "#F7F7F7"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/wRMG_VMnnszlaAQDofA_u_eLISTbJbb8-WeLeR9BPuedkWyulhqYf3pNmfp-debDeA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1242,
+                "height": 2208
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Ym8MjWS5P7Zxnpe8NO5H8mQ51rt1k6GUmfdHqP_AthgsyKc2NgA74twn6xb4_snP5njS",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 375,
+                "height": 667
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ems6bCpfg5OK7y439_KDIvjew0EbhCGCjghFjh3meXhZa-bXUBWz7kCjI7PHqoBJl7g",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 375,
+                "height": 667
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/f079IdFlb80ASK7E075She2yE3hzJS-AFWeagcUmDZQmqW6dk3GDWIviNwsGKD542tY",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1242,
+                "height": 2208
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/vtdU2XSXR0OV8spdReoEcM5Mm5LY4XC7VxiOhpisDwwOuGd3mmj8OVj2CmkdwNasoMDE",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1242,
+                "height": 2208
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/dPnN6gKzQcVH4zkcYO09QzIUty6Go8fW-2_WuEJ9uYY365agQiQkrpM3VXFaBw6NtFQ",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "K J SIDDHPURA",
+            "versionCode": 2,
+            "versionString": "1.0",
+            "installationSize": "3475164",
+            "permission": [
+                "android.permission.INTERNET"
+            ],
+            "developerEmail": "kevalsiddhpura34@gmail.com",
+            "numDownloads": "100,000+ downloads",
+            "packageName": "com.siddhpura.keval.java",
+            "recentChangesHtml": "This Application Is Useful For All Beginners",
+            "uploadDate": "Aug 13, 2019",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 2,
+                    "size": "3475164"
+                }
+            ],
+            "unstable": false,
+            "dependencies": {
+                "unknown2": "3475164",
+                "unknown3": 28
+            },
+            "developerAddress": "Gayatri Chock , Radhe park society , Upleta"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 3.9700000286102295,
+        "ratingsCount": "349",
+        "oneStarRatings": "59",
+        "twoStarRatings": "6",
+        "threeStarRatings": "31",
+        "fourStarRatings": "38",
+        "fiveStarRatings": "212",
+        "commentCount": "167"
+    },
+    "relatedLinks": {
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CimiCiYIEioCCAkyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CimiCiYIEioCCAkyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by K J SIDDHPURA",
+                "url1": "getStream?ecp=CkCKAz0KGQoTNzAzNzg3MTE0NjUyODk0MjI1MxAIGAMSHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CkCKAz0KGQoTNzAzNzg3MTE0NjUyODk0MjI1MxAIGAMSHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CimiCiYIESoCCAgyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CimiCiYIESoCCAgyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CimiCiYIEioCCAgyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CimiCiYIEioCCAgyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CimiCiYIASoCCAgyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CimiCiYIASoCCAgyHgoYY29tLnNpZGRocHVyYS5rZXZhbC5qYXZhEAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.siddhpura.keval.java",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.siddhpura.keval.java",
+    "reviewsUrl": "rev?doc=com.siddhpura.keval.java&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "K J SIDDHPURA"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "kevalsiddhpura34@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Gayatri Chock , Radhe park society , Upleta"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Aug 13, 2019"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Cover all the topics in this Core Java App and also useful for Java Beginners.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.siddhpura.keval.java"
+}

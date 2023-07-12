@@ -1,0 +1,213 @@
+{
+    "docid": "com.tutu.user",
+    "backendDocid": "com.tutu.user",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Tutu",
+    "creator": "TuTu Developer",
+    "descriptionHtml": "Book a ride and reach your place easily",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ipbGXPo7_MSxaKwXjJItt9mD5vzdEEgy30-j_YTJWhEElMsaLIbGjgXW8UMC-NiX3uc",
+            "supportsFifeUrlOptions": true,
+            "color": "#FEFEFE"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/nJuKiIv_hJ4SsconnqPJIrgZprCQsNIOrQQH8PkJaxdh1rZYNRyNZNK50u0s5MIO300",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/HYo8wpP5CmRayYiZ4B8YKb1pJ7YgCG2WSQaS5r1Nzod_fT3dRzGh0noIbGNjHzE3dOnu",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 720,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/OexW-sm9IhXHGmVXNOo9f4wEXYzKuneTPmncIGUYUAAhcuIIh5TrdTRkyGXYVn4pOA",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "TuTu Developer",
+            "versionCode": 6,
+            "versionString": "1.5",
+            "installationSize": "11788204",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.CALL_PHONE",
+                "android.permission.CAMERA",
+                "android.permission.CLEAR_APP_CACHE",
+                "android.permission.INTERNET",
+                "android.permission.READ_APP_BADGE",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.anddoes.launcher.permission.UPDATE_COUNT",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                "com.htc.launcher.permission.READ_SETTINGS",
+                "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                "com.huawei.android.launcher.permission.CHANGE_BADGE",
+                "com.huawei.android.launcher.permission.READ_SETTINGS",
+                "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+                "com.majeur.launcher.permission.UPDATE_BADGE",
+                "com.oppo.launcher.permission.READ_SETTINGS",
+                "com.oppo.launcher.permission.WRITE_SETTINGS",
+                "com.sec.android.provider.badge.permission.READ",
+                "com.sec.android.provider.badge.permission.WRITE",
+                "com.sonyericsson.home.permission.BROADCAST_BADGE",
+                "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+                "com.tutu.user.permission.C2D_MESSAGE",
+                "com.tutu.user.permission.MAPS_RECEIVE",
+                "me.everything.badger.permission.BADGE_COUNT_READ",
+                "me.everything.badger.permission.BADGE_COUNT_WRITE"
+            ],
+            "developerEmail": "tutu.appacct@gmail.com",
+            "developerWebsite": "https://www.apporio.com/",
+            "numDownloads": "1,000+ downloads",
+            "packageName": "com.tutu.user",
+            "uploadDate": "Nov 2, 2019",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 6,
+                    "size": "11788204"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown2": "11788204",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 28
+            },
+            "earlyAccessInfo": {},
+            "developerAddress": "1-3-3, Block 1, City Garden Commercial Centre,<br/>Jalan Nirwana, Taman Nirwana,<br/>68000 Ampang,<br/>Selangor Darul Ehsan,<br/>Malaysia.<br/>"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 0.0,
+        "ratingsCount": "0",
+        "oneStarRatings": "0",
+        "twoStarRatings": "0",
+        "threeStarRatings": "0",
+        "fourStarRatings": "0",
+        "fiveStarRatings": "0",
+        "commentCount": "0"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.apporio.com/privacy-policy/",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=Ch6iChsIEioCCAkyEwoNY29tLnR1dHUudXNlchABGAM%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=Ch6iChsIEioCCAkyEwoNY29tLnR1dHUudXNlchABGAM%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Shares Location<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by TuTu Developer",
+                "url1": "getStream?ecp=CjWKAzIKGQoTODQ4NzY5NjIxMDYwODg1MDYyNhAIGAMSEwoNY29tLnR1dHUudXNlchABGAMYAQ%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjWKAzIKGQoTODQ4NzY5NjIxMDYwODg1MDYyNhAIGAMSEwoNY29tLnR1dHUudXNlchABGAMYAQ%3D%3D"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=Ch6iChsIESoCCAgyEwoNY29tLnR1dHUudXNlchABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=Ch6iChsIESoCCAgyEwoNY29tLnR1dHUudXNlchABGAM%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=Ch6iChsIEioCCAgyEwoNY29tLnR1dHUudXNlchABGAM%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=Ch6iChsIEioCCAgyEwoNY29tLnR1dHUudXNlchABGAM%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=Ch6iChsIASoCCAgyEwoNY29tLnR1dHUudXNlchABGAM%3D&ds=1",
+                "url2": "getBrowseStream?ecp=Ch6iChsIASoCCAgyEwoNY29tLnR1dHUudXNlchABGAM%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.tutu.user",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.tutu.user",
+    "reviewsUrl": "rev?doc=com.tutu.user&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "TuTu Developer"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "tutu.appacct@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "1-3-3, Block 1, City Garden Commercial Centre,<br/>Jalan Nirwana, Taman Nirwana,<br/>68000 Ampang,<br/>Selangor Darul Ehsan,<br/>Malaysia.<br/>"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Tutu Rides",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.tutu.user"
+}

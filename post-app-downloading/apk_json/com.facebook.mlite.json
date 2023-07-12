@@ -1,0 +1,274 @@
+{
+    "docid": "com.facebook.mlite",
+    "backendDocid": "com.facebook.mlite",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Messenger Lite",
+    "creator": "Facebook",
+    "descriptionHtml": "A fast and data-efficient messaging app to reach the people in your life. <br><br>Messenger Lite:<br>- Installs quickly. It&#39;s less than 10MB to download!<br>- Saves data. It loads fast, runs efficiently and uses less mobile data.<br>- Works everywhere. Reach people when you&#39;re in an area with a slow or unstable internet connection.<br><br>With Messenger Lite, you can:<br>- Contact anyone on Messenger, Facebook or Facebook Lite.<br>- See when people are active and available to chat.<br>- Message people one-on-one or in groups to catch up or make plans.<br>- Send photos, links, or express yourself with stickers.<br>- Make one-on-one voice and video calls for free over Wi-Fi (otherwise standard data charges apply). Talk as long as you want, even with people in other countries!",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/EXptjGHzrgdI6AABXGstAQV4s0WPgOpvrzCMDE8Knzhs3_yV3DaOUV26IZxlhx31gA",
+            "supportsFifeUrlOptions": true,
+            "color": "#8C41FF"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/I6iR-zi371fJJsGnqwnY8uUmeYqv-_erzVbVBhyASixDReX2JUuIhgXjtV9OrA-_nQI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/BNJoJKk8r3VEq5ECxm1MuiVzJCbl2uu3ZESUj6kyVUff9d88VgMGfoJJHG7pdubP250",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/0LsGYN3PUcfRyHG9NFU1p2ajlYMjqWDfDgVwktr14wivvQ8ZyLoiiMWr-IRh_twlby8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/tQGyv3PX9wr9EbPyjAafmF5_uEJZECBaDPPI8J6tYSAIMA8UkPykB_faQuTSrrOLHCo",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/DkY9MsUHtahLwepIwbYohXR6Si38a01KK9Ct6TFi5HatrdZSshg4o8X8MxS8F9z1iAg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/lVHLwal-iZGVo-txB7_fSpnQVvb1i4i8lesMSiGizJx2vM9doeLB-wRfOMgLVxvFD1w",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/xSeD-Yd5xUno4dvCbLViFyrG5fV1WIQkif2GhFFP1f9xEW5iLO98NU7q-jthwtubopb2",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 956,
+                "height": 1700
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/CB11xEy64NuRSYkpxajqDPuX0q6yXHchUyBKqkgqGJTi8Q6a2vDIHej0Q_tR-5mPNA2G",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Facebook",
+            "versionCode": 323323940,
+            "versionString": "272.0.0.5.129",
+            "installationSize": "14563687",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.AUTHENTICATE_ACCOUNTS",
+                "android.permission.BATTERY_STATS",
+                "android.permission.BLUETOOTH",
+                "android.permission.CAMERA",
+                "android.permission.CHANGE_NETWORK_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.GET_ACCOUNTS",
+                "android.permission.INTERNET",
+                "android.permission.MANAGE_ACCOUNTS",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_NUMBERS",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_PROFILE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.REQUEST_INSTALL_PACKAGES",
+                "android.permission.USE_FULL_SCREEN_INTENT",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+                "com.facebook.katana.provider.ACCESS",
+                "com.facebook.lite.provider.ACCESS",
+                "com.facebook.mlite.BROADCAST",
+                "com.facebook.mlite.permission.C2D_MESSAGE",
+                "com.facebook.mlite.provider.ACCESS",
+                "com.facebook.orca.provider.ACCESS",
+                "com.facebook.pages.app.provider.ACCESS",
+                "com.facebook.permission.prod.FB_APP_COMMUNICATION",
+                "com.facebook.wakizashi.provider.ACCESS",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.htc.launcher.permission.READ_SETTINGS",
+                "com.htc.launcher.permission.UPDATE_SHORTCUT",
+                "com.sec.android.provider.badge.permission.READ",
+                "com.sec.android.provider.badge.permission.WRITE",
+                "com.sonyericsson.home.permission.BROADCAST_BADGE"
+            ],
+            "developerEmail": "android-support@fb.com",
+            "numDownloads": "500,000,000+ downloads",
+            "packageName": "com.facebook.mlite",
+            "uploadDate": "Oct 7, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 323323940,
+                    "size": "14563687"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "14563687",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "1 Hacker Way<br/>Menlo Park, CA 94025"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 3.9125969409942627,
+        "ratingsCount": "4854166",
+        "oneStarRatings": "936374",
+        "twoStarRatings": "164367",
+        "threeStarRatings": "297506",
+        "fourStarRatings": "444818",
+        "fiveStarRatings": "3011098",
+        "commentCount": "1611293"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://m.facebook.com/policy.php",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CiOiCiAIEioCCAkyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiOiCiAIEioCCAkyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Facebook",
+                "url1": "getStream?ecp=CjqKAzcKGQoTNTYyOTk5MzU0NjM3MjIxMzA4NhAIGAMSGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CjqKAzcKGQoTNTYyOTk5MzU0NjM3MjIxMzA4NhAIGAMSGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CiOiCiAIESoCCAgyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiOiCiAIESoCCAgyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CiOiCiAIEioCCAgyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CiOiCiAIEioCCAgyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CiOiCiAIASoCCAgyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CiOiCiAIASoCCAgyGAoSY29tLmZhY2Vib29rLm1saXRlEAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.facebook.mlite",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.facebook.mlite",
+    "reviewsUrl": "rev?doc=com.facebook.mlite&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Facebook"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "android-support@fb.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "1 Hacker Way<br/>Menlo Park, CA 94025"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Oct 2, 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "A faster version of Messenger that works in all network conditions",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.facebook.mlite"
+}

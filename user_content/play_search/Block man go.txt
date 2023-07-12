@@ -1,0 +1,16 @@
+com.sandboxol.blockymods
+com.sandboxol.indiegame.bedwar
+com.sandboxol.blockmaneditor
+com.sandboxol.indiegame.skywar
+com.sandboxol.indiegame.skyblock
+com.sandboxol.indiegame.eggwars
+com.sandboxol.indiegame.jailbreak
+com.sandboxol.indiegame.survivalgames
+com.sandboxol.indiegame.buildandshoot
+com.roblox.client
+com.sandboxol.indiegame.herotycoon
+com.playmini.miniworld
+com.sandboxol.indiegame.buildbattle
+com.mojang.minecraftpe
+com.sandboxol.indiegame.hideandseek
+com.AgainstGravity.RecRoom

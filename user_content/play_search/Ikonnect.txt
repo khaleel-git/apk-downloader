@@ -1,0 +1,10 @@
+com.boschpharma.ikonnect.cardiacare
+com.keppelland.ikonnect
+com.internkings.nidhi
+com.alterramtnco.ikonpass
+com.ikontechnologies.ikonconnect
+tz.co.tanesco
+com.Brightstarr.UnilyXamarin
+network.konnect.konnect
+workplaceoptions.com.iconnectyou
+com.alkamitech.connexus

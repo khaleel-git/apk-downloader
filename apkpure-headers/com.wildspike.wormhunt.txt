@@ -1,0 +1,23 @@
+0: HTTP/1.1 302 Found
+Date: Tue, 11 Jul 2023 14:24:14 GMT
+Date: Tue, 11 Jul 2023 14:24:14 GMT
+Content-Type: text/html; charset=utf-8
+Content-Type: application/vnd.android.package-archive
+Transfer-Encoding: chunked
+Connection: close
+Connection: close
+Location: https://d-10.winudf.com/b/APK/Y29tLndpbGRzcGlrZS53b3JtaHVudF8zMjIwXzIzYWY4N2Jm?_fn=V29ybSBIdW50IC0gU25ha2UgZ2FtZSBpTyB6b25lXzMuMi4yX0Fwa3B1cmUuYXBr&_p=Y29tLndpbGRzcGlrZS53b3JtaHVudA%3D%3D&is_hot=false&k=9f32301f21a98c1f5b4db361fc9719bc64aeb78e
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+Server: openresty
+CF-RAY: 7e51b5709fbe54d3-YYZ
+1: HTTP/1.1 200 OK
+Content-Length: 162193654
+x-rgw-object-type: Normal
+ETag: "6c3bb06f96abc3895344c642eadeed25"
+Last-Modified: Thu, 15 Jun 2023 06:27:44 GMT
+Content-Disposition: attachment; filename="Worm Hunt - Snake game iO zone_3.2.2_Apkpure.apk"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Cache-Status: HIT
+Accept-Ranges: bytes

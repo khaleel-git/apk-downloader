@@ -1,0 +1,231 @@
+{
+    "docid": "com.fast.free.unblock.thunder.vpn",
+    "backendDocid": "com.fast.free.unblock.thunder.vpn",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Thunder VPN - Fast, Safe VPN",
+    "creator": "Signal Lab",
+    "descriptionHtml": "Thunder VPN is a lightning-fast app provide free VPN service. Not need any configuration, just simply click one button, you can access the Internet securely and anonymously.<br><br>Thunder VPN encrypts your Internet connection so that third parties can’t track your online activity, making it more secure than a typical proxy, make your Internet&#39;s safety and security, especially when you using public free Wi-Fi.<br><br>We have built a global VPN network included America, Europe and Asia, and expand to more country soon. Most servers are free to use, you can click the flag and change server as any times as you want.<br><br><b>Why choose Thunder VPN?</b><br>✅ Large number of servers, high-speed bandwidth<br>✅ Choose apps which using VPN (Android 5.0+ required)<br>✅ Works with Wi-Fi, 5G, LTE/4G, 3G and all mobile data carriers<br>✅ Strict no-logging policy<br>✅ Smart choose server<br>✅ Well-designed UI, a few ADs<br>✅ No usage and time limit<br>✅ No registration or configuration required<br>✅ No additional permissions required<br>✅ Tiny size with high performance<br><br>User privacy is very important to us. If you compare to other similar apps, you will find that our app has almost the fewest permission required and the smallest package size, which means that less sensitive information is collected and less uncontrollable risks from third-party code. This app is a very good choice for privacy.<br><br>Download Thunder VPN, the world&#39;s fastest secure virtual private network, and enjoy it all!<br><br>If Thunder VPN connect failed, don&#39;t worry, you can follow these steps to fix it:<br>1) Click the flag icon<br>2) Click the refresh button to check servers<br>3) Choose the fastest and most stable server to reconnect<br><br>Hoping you suggestion and good rating to keep it growing and make it better :-)<br><br><br>VPN related introduction<br><br>A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across the VPN may therefore benefit from the functionality, security, and management of the private network.<br><br>Individual Internet users may secure their transactions with a VPN, to circumvent geo-restrictions and censorship, or to connect to proxy servers for the purpose of protecting personal identity and location. However, some Internet sites block access to known VPN technology to prevent the circumvention of their geo-restrictions.<br><br>VPNs cannot make online connections completely anonymous, but they can usually increase privacy and security. To prevent disclosure of private information, VPNs typically allow only authenticated remote access using tunneling protocols and encryption techniques.<br><br>Mobile virtual private networks are used in settings where an endpoint of the VPN is not fixed to a single IP address, but instead roams across various networks such as data networks from cellular carriers or between multiple Wi-Fi access points. Mobile VPNs have been widely used in public safety, where they give law enforcement officers access to mission-critical applications, such as computer-assisted dispatch and criminal databases, while they travel between different subnets of a mobile network.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/qbyzNfdCwollHJ3JJtJihmd4Agg-uTM7Bks2mowpBwHZYegZI1xqbV3EOrTfSFItDEMr",
+            "supportsFifeUrlOptions": true,
+            "color": "#05A9BA"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1080
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ySCSYFd3ci814GF-HYbQOQOIoMwsXr11RsIx5OWgeK9Lb1oKHxWLwDUE5la9QFTETss",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1080
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/JeX1pBUDmK-BHAU6QOY1N4v6JptU5uMmSff2aN2LoxWE4v5YZx05Y0CLEiYdBpuJtA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1080
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/XCfOhWInLQIlBIxLMgo__oGaxkUpiShv5fOBKF2tddR5exLXybNv91K9dbow1KQbIQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1080
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/4hlGHu_OENXfFIV1LyRMcuaY6y3fSpz3WgFrjFHkusuc2n9w-Uq4UJxsAbLrqIatJDM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1920,
+                "height": 1080
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rukWwm_omURd-SMnK05hIkZrGbrRQoUd8y9ng6YZ6yX_EMYmiexcimVdgybe9A8KwKw",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Signal Lab",
+            "versionCode": 202110080,
+            "versionString": "4.0.17",
+            "installationSize": "8990855",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.KILL_BACKGROUND_PROCESSES",
+                "android.permission.QUERY_ALL_PACKAGES",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+                "android.permission.WAKE_LOCK",
+                "com.android.vending.BILLING",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+            ],
+            "developerEmail": "thunder-vpn@free-signal.com",
+            "developerWebsite": "https://thunder.free-signal.com/",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "com.fast.free.unblock.thunder.vpn",
+            "recentChangesHtml": "- More servers added<br>- Improved performance and stability of VPN connection<br>- Enjoy the lightning fast, free VPN!",
+            "uploadDate": "Oct 8, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 202110080,
+                    "size": "8990855"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "8990855",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            },
+            "developerAddress": "1000 S. Fremont Ave. Bldg. A1, Alhambra Arkansas 91803 US"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.720385551452637,
+        "ratingsCount": "928444",
+        "oneStarRatings": "36846",
+        "twoStarRatings": "8594",
+        "threeStarRatings": "17327",
+        "fourStarRatings": "51783",
+        "fiveStarRatings": "813892",
+        "commentCount": "317194"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://thunder.free-signal.com/Terms%20of%20Service.html",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=CjKiCi8IEioCCAkyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CjKiCi8IEioCCAkyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Signal Lab",
+                "url1": "getStream?ecp=CkmKA0YKGQoTNjQ4MTU3NzU3MTUzNTMwMTM0NRAIGAMSJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CkmKA0YKGQoTNjQ4MTU3NzU3MTUzNTMwMTM0NRAIGAMSJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=CjKiCi8IESoCCAgyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjKiCi8IESoCCAgyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=CjKiCi8IEioCCAgyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=CjKiCi8IEioCCAgyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=CjKiCi8IASoCCAgyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=CjKiCi8IASoCCAgyJwohY29tLmZhc3QuZnJlZS51bmJsb2NrLnRodW5kZXIudnBuEAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.fast.free.unblock.thunder.vpn",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn",
+    "reviewsUrl": "rev?doc=com.fast.free.unblock.thunder.vpn&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$5.99 - $59.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Signal Lab"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "thunder-vpn@free-signal.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "1000 S. Fremont Ave. Bldg. A1, Alhambra Arkansas 91803 US"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Nov 3, 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Lightning fast free VPN, connect to the world in 1 second",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.fast.free.unblock.thunder.vpn"
+}
