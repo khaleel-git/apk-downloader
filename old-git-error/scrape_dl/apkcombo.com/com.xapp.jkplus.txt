@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.xapp.jkplus/VIP%20Multi_5.0.1_apkcombo.com.apk?ecp=Y29tLnhhcHAuamtwbHVzLzUuMC4xLzcwOC5hM2VhNjRiZmMxY2U3OTI4MDM2ZWQzNGQ3ZGIzZWU1OTY1YjI5YWU3LmFwaw==&iat=1663535656&sig=525d8800d33bffeedb28a4919d497d4b&size=35938481&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.xapp.jkplus/VIP%20Multi_5.0.1_apkcombo.com.apk?ecp=Y29tLnhhcHAuamtwbHVzLzUuMC4xLzcwOC5hM2VhNjRiZmMxY2U3OTI4MDM2ZWQzNGQ3ZGIzZWU1OTY1YjI5YWU3LmFwaw==&iat=1659530918&sig=e8749dfd572687dd39a39e1fe4b2161d&size=35938481&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

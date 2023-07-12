@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.nng.igo.primong.igoworld/iGO%20Navigation_9.35.2.272870_apkcombo.com.apk?ecp=Y29tLm5uZy5pZ28ucHJpbW9uZy5pZ293b3JsZC85LjM1LjIuMjcyODcwLzEwMDI3Mjg3MC42NzVmMmUzM2M5YTdlMmY0MjMyMDA1M2I4MWRmOWE0ZWMwNDA3ZTU5LmFwaw==&iat=1665518771&sig=7f0ef1012f4617f69e369ce4c0db67a8&size=360627977&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.nng.igo.primong.igoworld/iGO%20Navigation_9.35.2.272870_apkcombo.com.apk?ecp=Y29tLm5uZy5pZ28ucHJpbW9uZy5pZ293b3JsZC85LjM1LjIuMjcyODcwLzEwMDI3Mjg3MC42NzVmMmUzM2M5YTdlMmY0MjMyMDA1M2I4MWRmOWE0ZWMwNDA3ZTU5LmFwaw==&iat=1659613139&sig=a97afe752ed0dea4ba6054cdb7737106&size=360627977&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

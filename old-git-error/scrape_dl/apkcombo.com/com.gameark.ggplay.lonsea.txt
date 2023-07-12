@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.gameark.ggplay.lonsea/The%20Legend%20of%20Neverland_1.16.22091604_apkcombo.com.apk?ecp=Y29tLmdhbWVhcmsuZ2dwbGF5LmxvbnNlYS8xLjE2LjIyMDkxNjA0LzE2NjMzMDkzNzguMzIzZDEwZTFjYmViMWNlYjMzZGI4ZDY2Njg5ODk3ZTNmMjMwNDgwOS5hcGs=&iat=1664154179&sig=4dc4d69eeb0b103d3023c278fa28dadf&size=111907219&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.gameark.ggplay.lonsea/The%20Legend%20of%20Neverland_1.12.22061322_apkcombo.com.apk?ecp=Y29tLmdhbWVhcmsuZ2dwbGF5LmxvbnNlYS8xLjEyLjIyMDYxMzIyLzE2NTUxMjEyODAuMmQ5OTNhNmI4N2ZkODQ2N2Y4YmU0OTg5ZjI0MWIyMzYwY2IzZGE3ZC5hcGs=&iat=1655366235&sig=689d67096135da5488232c4e5486a416&size=103414736&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

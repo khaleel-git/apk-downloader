@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/uni.UNI42811E9/SINOPEC%20PLUS_3.1.0_apkcombo.com.apk?ecp=dW5pLlVOSTQyODExRTkvMy4xLjAvMzEwLmNlYTg3NzhkY2E3Y2ViZDc3MjFmYmZkNzYxYTY0NDUyM2VmMzkxYmQuYXBr&iat=1664469954&sig=e350b9029604f49c804fd88a6bdb1a99&size=40716949&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/uni.UNI42811E9/SINOPEC%20PLUS_2.0.2_apkcombo.com.apk?ecp=dW5pLlVOSTQyODExRTkvMi4wLjIvMjAyLmQwZWNjYTgzMjVkZjk0YTRhMGQ4OTdhZTIwMjgyNmMxODU4MGZhOWYuYXBr&iat=1656118628&sig=838524e7a9f69451247df06ccda70712&size=40502696&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

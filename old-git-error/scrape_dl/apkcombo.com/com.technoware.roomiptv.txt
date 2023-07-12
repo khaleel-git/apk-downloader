@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.technoware.roomiptv/Room%20IPTV_1.5.0_apkcombo.com.apk?ecp=Y29tLnRlY2hub3dhcmUucm9vbWlwdHYvMS41LjAvOC5lZjkxMGU1OGY1Y2VhNjM4NDYwNzcyODQ5MzRhZWU0MDBiYjA0YjcyLmFwaw==&iat=1666455469&sig=483afb5326aeb2604e29db7a71ce3f20&size=99322584&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.technoware.roomiptv/Room%20IPTV_1.0.3_apkcombo.com.apk?ecp=Y29tLnRlY2hub3dhcmUucm9vbWlwdHYvMS4wLjMvNi45ZTQ0MDAwYWM2N2YwMjc5OTFiOGQ5YTE5YmNmNTNhM2Y1OTgyYWU0LmFwaw==&iat=1659641553&sig=9cf191d79f4dec7e1156625df8e4698d&size=96346620&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

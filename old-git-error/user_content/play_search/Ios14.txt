@@ -1,9 +1,0 @@
-com.launcher.ios11.iphonex
-ioslauncher.ios14.iphone14
-com.luutinhit.ioslauncher
-iphonex.ios14.mylauncher
-com.launcherios.iLauncherOS
-launcher.theme.ios14
-ios14.kustom.pack
-com.apple.movetoios
-com.nitish.privacyindicator

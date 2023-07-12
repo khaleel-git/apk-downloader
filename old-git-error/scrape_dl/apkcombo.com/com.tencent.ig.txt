@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.tencent.ig/PUBG%20MOBILE_2.2.0_apkcombo.com.apk?ecp=Y29tLnRlbmNlbnQuaWcvMi4yLjAvMTY3MDMuZGI2MjMzZWQ2NGU2ODM1MTkxODY4ZmFiNTE4NjRmZjU3MDk1ZTg3NS5hcGs=&iat=1666455537&sig=b7946af6f068a69d09a7c00054557c3d&size=1123848712&from=cdn&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.tencent.ig/PUBG%20MOBILE_2.1.0_apkcombo.com.apk?ecp=Y29tLnRlbmNlbnQuaWcvMi4xLjAvMTY0OTMuZjJmYjFkYTU0MTk4NGYxNzZlNzE1NzQyMmMyNThmNDNkOTY2ZjE4NS5hcGs=&iat=1659117638&sig=587fad1565e487e9d0e77f78540bf48f&size=1161724820&from=cdn&version=latest&lang=en&fp=1234
->>>>>>> origin/master

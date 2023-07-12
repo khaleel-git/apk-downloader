@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.facechangervideo/FaceFunny_15.1_apkcombo.com.apk?ecp=Y29tLmZhY2VjaGFuZ2VydmlkZW8vMTUuMS8xMTEuMzg5ZTZiYmYwNGRiNGVjNWFkYjZkMWIxNDFiMjc2MjJjY2YyY2Q4Yy5hcGs=&iat=1664037810&sig=8899869d4b187847b9c959da3c3b8ce5&size=93827115&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.facechangervideo/Add%20Face%20To%20Video%20Reface%20video_15.1_apkcombo.com.apk?ecp=Y29tLmZhY2VjaGFuZ2VydmlkZW8vMTUuMS8xMTEuMzg5ZTZiYmYwNGRiNGVjNWFkYjZkMWIxNDFiMjc2MjJjY2YyY2Q4Yy5hcGs=&iat=1656510636&sig=60c81a4d2c5eb102bec461efba177441&size=93827115&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

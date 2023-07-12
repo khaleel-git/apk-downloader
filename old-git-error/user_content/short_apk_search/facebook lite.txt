@@ -1,3 +1,0 @@
-com.facebook.lite
-com.facebook.orca
-com.facebook.katana

@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.dreamgames.royalmatch/Royal%20Match_10055_apkcombo.com.apk?ecp=Y29tLmRyZWFtZ2FtZXMucm95YWxtYXRjaC8xMDA1NS8xMDA1NS43MTRiM2YyMGM3YTM0NmZjM2Q0NWZiYTRkMTI2YTQ5NDZmMzE2NGRhLmFwaw==&iat=1661281156&sig=c1f068ffcd3cce04bf3548c085725561&size=173739291&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.dreamgames.royalmatch/Royal%20Match_9106_apkcombo.com.apk?ecp=Y29tLmRyZWFtZ2FtZXMucm95YWxtYXRjaC85MTA2LzkxMDYuNDBjYTkyMzU1NzIwNGNkNDJmYjg2MGVhZGU2YTVlY2E1ZDc4NzZiZi5hcGs=&iat=1655493219&sig=03f427e92d75f1a999b337760ae97c6a&size=175431368&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

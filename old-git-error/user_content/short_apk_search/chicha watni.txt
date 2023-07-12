@@ -1,3 +1,0 @@
-com.education.chichawatniteachers
-pakistan.distance.cal
-com.unisoftaps.weathertoday.Pakistanweather

@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/hdmi.connector.five/Mobile%20Connect%20To%20TV%20USB_127.0_apkcombo.com.apk?ecp=aGRtaS5jb25uZWN0b3IuZml2ZS8xMjcuMC8xMjcuNjhmMzU1ZmE2OTdiYmU4NTJlMjQ5YTRiMTBlN2UwNzRiMzlmM2MxYy5hcGs=&iat=1663802383&sig=781d640b80d36df6ef0b97af1f85026f&size=4059161&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/hdmi.connector.five/Mobile%20Connect%20To%20TV%20USB_127.0_apkcombo.com.apk?ecp=aGRtaS5jb25uZWN0b3IuZml2ZS8xMjcuMC8xMjcuNjhmMzU1ZmE2OTdiYmU4NTJlMjQ5YTRiMTBlN2UwNzRiMzlmM2MxYy5hcGs=&iat=1657490128&sig=cd42954ec7eb686551b7d3e523156075&size=4059161&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

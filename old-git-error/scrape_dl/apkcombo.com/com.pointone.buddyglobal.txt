@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.pointone.buddyglobal/BUD_1.44.0_apkcombo.com.apk?ecp=Y29tLnBvaW50b25lLmJ1ZGR5Z2xvYmFsLzEuNDQuMC8xNDQwMDAwLmU1ZjQ5YmVmZTEzYjJmY2VkZGM3ZTA0YTFkYzAwYzJmMTZmZTA4YTcuYXBr&iat=1664431850&sig=fa67c17d5f7c51130e982e93a2c7b537&size=396670393&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.pointone.buddyglobal/BUD_1.35.0_apkcombo.com.apk?ecp=Y29tLnBvaW50b25lLmJ1ZGR5Z2xvYmFsLzEuMzUuMC8xMzUwMDAwLjk1YTdjMjRhZjIyNDdiZTdiMzZlMmFiZDExZWI0YTYyYTg0ZDA0MGEuYXBr&iat=1657853966&sig=b9becfd4bc330bda59737a4c6dadd95c&size=260811350&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.deltatre.nfl.gamepass/NFL%20Game%20Pass_2.1.0_apkcombo.com.apk?ecp=Y29tLmRlbHRhdHJlLm5mbC5nYW1lcGFzcy8yLjEuMC8yMDIyMDMwNzAxLjE3MzA2MDg5Y2VhMWJjMTQ0ZDFjODE0OWI2ZDIxNGE0NDc3NWUwZTYuYXBr&iat=1664729633&sig=57890ef88955757188bb01222bf5036e&size=36664718&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.deltatre.nfl.gamepass/NFL%20Game%20Pass_2.1.0_apkcombo.com.apk?ecp=Y29tLmRlbHRhdHJlLm5mbC5nYW1lcGFzcy8yLjEuMC8yMDIyMDMwNzAxLjE3MzA2MDg5Y2VhMWJjMTQ0ZDFjODE0OWI2ZDIxNGE0NDc3NWUwZTYuYXBr&iat=1655933435&sig=8b5627cfbf1d6b7f5eb8fac70e1479cd&size=36664718&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

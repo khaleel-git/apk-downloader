@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.vanced.android.apps.youtube.music/Vanced%20YouTube%20Music_4.65.50_apkcombo.com.apk?ecp=Y29tLnZhbmNlZC5hbmRyb2lkLmFwcHMueW91dHViZS5tdXNpYy80LjY1LjUwLzQ2NTUwMjQwLjNhNzFlNzY1ZjgwYWI1YjNlZjI0ZThmNDU3YzgzZmU3YjdiODQ0YTMuYXBr&iat=1665804244&sig=89dd4eba42e2fe28a97a8082b777945f&size=61831717&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.vanced.android.apps.youtube.music/Vanced%20YouTube%20Music_4.65.50_apkcombo.com.apk?ecp=Y29tLnZhbmNlZC5hbmRyb2lkLmFwcHMueW91dHViZS5tdXNpYy80LjY1LjUwLzQ2NTUwMjQwLjNhNzFlNzY1ZjgwYWI1YjNlZjI0ZThmNDU3YzgzZmU3YjdiODQ0YTMuYXBr&iat=1656224601&sig=53e724dae3582b374734d4d06f04750c&size=61831717&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

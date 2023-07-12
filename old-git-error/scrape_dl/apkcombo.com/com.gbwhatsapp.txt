@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.gbwhatsapp/GBWhatsApp_19.35.11_apkcombo.com.apk?ecp=Y29tLmdiLzE5LjM1LjExLzExOTM1MTE5LjczN2VjY2YwNjAyMDdhNWI0NWM5YTYwMzM0ZGU2OGY0YzhjNDUwM2UuYXBr&iat=1662775907&sig=bdd74cd3e1e9f35e42e6329ffd96f005&size=67669662&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.gbwhatsapp/GBWhatsapp_2.22.11.75_apkcombo.com.apk?ecp=Y29tLmdid2hhdHNhcHAvMi4yMi4xMS43NS8yMjExNzUwMDAuNzZmYWFkNTQ2YmJhMmQ0MDY1YmE3MGFhM2QyY2RmNzQxYzhiMjRmYS5hcGs=&iat=1657409795&sig=64d8214e3dab175f5756d72bcc8a2cf9&size=59926122&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

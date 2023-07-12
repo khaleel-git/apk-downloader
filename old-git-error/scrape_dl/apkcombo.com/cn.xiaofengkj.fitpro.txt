@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/cn.xiaofengkj.fitpro/fitpro_2.0.5_apkcombo.com.apk?ecp=Y24ueGlhb2Zlbmdrai5maXRwcm8vMi4wLjUvMTA0LjBlYWJkNDc4ZWZlMGUxN2FiMDc0NzE4YTJkMDQzNjYxZmUyYWNhYmUuYXBr&iat=1663621323&sig=950f097ed7a31416cabf3d9310ada0d6&size=36557018&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/cn.xiaofengkj.fitpro/fitpro_2.0.2_apkcombo.com.apk?ecp=Y24ueGlhb2Zlbmdrai5maXRwcm8vMi4wLjIvMTAxLmVhYjk1ZWIyYTM1ZWJlYmE2YzI2YjE1YTNjYjZhNDNjYTJjMDk2ZjAuYXBr&iat=1658656423&sig=aa6450b1fb66440908734a46499e74c9&size=36155415&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.garena.game.kgvn/Li%C3%AAn%20Qu%C3%A2n_1.46.2.4_apkcombo.com.apk?ecp=Y29tLmdhcmVuYS5nYW1lLmtndm4vMS40Ni4yLjQvODIyNjEyNjQuYmQwYjcyYTQxZTg0YmUyMTEwOWQxMmVkMTFkY2U3OWViYTIzNGExZi5hcGs=&iat=1663633201&sig=f1339557ca25a68aee2ef49ad936de8f&size=194565879&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.garena.game.kgvn/Garena%20Li%C3%AAn%20Qu%C3%A2n%20Mobile_1.45.1.7_apkcombo.com.xapk?ecp=Y29tLmdhcmVuYS5nYW1lLmtndm4vMS40NS4xLjcvNzQ1MTQ5MzIuNTcwNzBlMjNmMDNkNWMyNDk1MzI5OGZkY2YyMmFmYjVhYzZlYjBjZS56aXA=&iat=1655461680&sig=ec961648f8b604bdbd7b2d1404abcad6&size=281229560&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,7 +1,0 @@
-com.amazon.mp3
-com.amazon.music.tv
-com.amazon.mp3.automotiveOS
-com.amazon.ziggy.android
-com.amazon.dee.app
-com.amazon.avod.thirdpartyclient
-com.amazon.dee.alexaonwearos

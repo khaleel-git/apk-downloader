@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.bitel.selfcare/Mi%20Bitel_4.4.7_apkcombo.com.apk?ecp=Y29tLmJpdGVsLnNlbGZjYXJlLzQuNC43LzI5OS43NDcyZGE2YjU5Y2UxYjVmNTgwZjY1NzBkMGMyY2Q1MWJiZTQyNmRmLmFwaw==&iat=1666545917&sig=83dc7435d52ac2d44b2eafbe2f428b0a&size=350330082&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.bitel.selfcare/Mi%20Bitel_4.4.4_apkcombo.com.apk?ecp=Y29tLmJpdGVsLnNlbGZjYXJlLzQuNC40LzIzMy45ODU0Zjg1MzU5ZjNjYjg5YjcxNTA2NzM3YjMwNmUwZjdlNzk3MzhiLmFwaw==&iat=1658495356&sig=073dd24fff9e944ef22c15d144a3764b&size=236826115&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

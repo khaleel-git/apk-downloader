@@ -1,6 +1,0 @@
-rexdl.mods.apk
-com.tocaboca.tocalifeworld
-com.mojang.minecraftpe
-com.HappyModAdvice.hpa
-com.ten.cents.pov.happytech.happymod
-com.miga.world

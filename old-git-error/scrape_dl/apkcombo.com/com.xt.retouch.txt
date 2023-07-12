@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.xt.retouch/Xingtu_6.5.0_apkcombo.com.apk?ecp=Y29tLnh0LnJldG91Y2gvNi41LjAvNjUwMDcuMzdlMWQ1MDA4ZjZmZjI3ZjNhYzBhYTNlZjFkZjEwNGQ5OTgxN2VmNS5hcGs=&iat=1665589634&sig=4b7a9b3696612fa42d81989e6d2fb762&size=127819501&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.xt.retouch/Xingtu%20-%20%E9%86%92%E5%9B%BE_6.0.0_apkcombo.com.apk?ecp=Y29tLnh0LnJldG91Y2gvNi4wLjAvNjAwMDUuZGI4NTQ1Yjg5OTk2MjlmN2E0ZmZhZGU5YmZiYWQxNGJhMTg3NWRlZS5hcGs=&iat=1658530265&sig=f50683c9bb3b6827b8c922bd71062562&size=121643881&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

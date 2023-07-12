@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.kidscrape.touchlock.lite/Touch%20Lock%20-%20screen%20lock_1.0.20054216%20GP%20RELEASE_apkcombo.com.apk?ecp=Y29tLmtpZHNjcmFwZS50b3VjaGxvY2subGl0ZS8xLjAuMjAwNTQyMTYgR1AgUkVMRUFTRS8yMDA1NDMwNi5jMGNjMWY1MjdmZTE2NzY4ZDUwNDg4MTg5Njg3OTM0MjBhNTM1YzAyLmFwaw==&iat=1659837458&sig=caf1917ce881fbfb794f46af37acb054&size=13964184&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.kidscrape.touchlock.lite/Touch%20Lock%20-%20screen%20lock_1.0.20054213%20GP%20RELEASE_apkcombo.com.apk?ecp=Y29tLmtpZHNjcmFwZS50b3VjaGxvY2subGl0ZS8xLjAuMjAwNTQyMTMgR1AgUkVMRUFTRS8yMDA1NDMwMy43MzE1MDBiMDEwN2UzZjBlNWI2NzJhMzE2ZmFiODc2N2U2NjQ5M2I4LmFwaw==&iat=1657361024&sig=fb9181020a6b802b6be1eb467bb2673a&size=12149705&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

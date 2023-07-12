@@ -1,5 +1,0 @@
-com.bandainamcoent.dblegends_ww
-com.bandainamcogames.dbzdokkanww
-com.bandainamcogames.dbzdokkan
-com.bandainamcoent.db_event_project
-com.bandainamcoent.dragonballofficial

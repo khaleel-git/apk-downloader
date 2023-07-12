@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.delivertech.flashrewards/Flash%20Rewards:%20Earn%20Gift%20Cards_1.0.84_apkcombo.com.apk?ecp=Y29tLmRlbGl2ZXJ0ZWNoLmZsYXNocmV3YXJkcy8xLjAuODQvMTA4NC42ZTI3MGI5MzQ3ZjM4ZjhjMWJmMWY3YjAyOWU4OTUxMmI4M2JhM2RkLmFwaw==&iat=1665755514&sig=8cf151e1426641e26fcd64a323267ee2&size=56514814&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.delivertech.flashrewards/Flash%20Rewards_1.0.80_apkcombo.com.apk?ecp=Y29tLmRlbGl2ZXJ0ZWNoLmZsYXNocmV3YXJkcy8xLjAuODAvMTA4MC41ZmY0YTYzZTViYTJjNjA1MTI0ZWVjZGRhNzc5MTc1NzU0ZDUxMjU2LmFwaw==&iat=1658915982&sig=a4247d661c5b8504bcbc3621f6814c8e&size=50238413&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

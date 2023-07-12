@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/co.yellw.yellowapp/Yubo_4.45.7_apkcombo.com.apk?ecp=Y28ueWVsbHcueWVsbG93YXBwLzQuNDUuNy8yMDAxNzY1Ni4wNDlkMTk0ZmQ1YTdjMGYwY2YzN2IyNWU5MGYwZDlmOThhNjdiOWU1LmFwaw==&iat=1665310424&sig=0c583696800068bc2c68705a6ddd9c6f&size=294712005&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/co.yellw.yellowapp/Yubo:%20Chat,%20Play,%20Make%20Friends_4.36.3_apkcombo.com.apk?ecp=Y28ueWVsbHcueWVsbG93YXBwLzQuMzYuMy8yMDAxNzYxMS44NmNiMTg3NTMyZTZlOTVhYWFmNThjZWU0Y2Q1Mjc4MWU3ODFiMjZhLmFwaw==&iat=1655746612&sig=4f9052d61268f58a0b6c904b18c7ee7b&size=292877503&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

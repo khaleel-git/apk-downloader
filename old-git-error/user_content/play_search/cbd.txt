@@ -1,9 +1,0 @@
-com.cbd.mobile
-leafly.android
-com.ontracka
-com.jointly
-com.cbd.investr
-com.cbd.business
-com.weedmaps.app.android
-com.droppy.android
-com.phannafest.kushy

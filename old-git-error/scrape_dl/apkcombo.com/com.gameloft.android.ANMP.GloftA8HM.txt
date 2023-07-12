@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.gameloft.android.ANMP.GloftA8HM/Asphalt%208_6.5.0g_apkcombo.com.apk?ecp=Y29tLmdhbWVsb2Z0LmFuZHJvaWQuQU5NUC5HbG9mdEE4SE0vNi41LjBnLzY1MDA5LjU5ZmZiZDk2YzdiOTY2M2IyZTdjNTRjMGEwZTdiYjY5MzViNTFiNGEuYXBr&iat=1665250720&sig=b95052de6e068a356b38a62dc3390fdb&size=188313093&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.gameloft.android.ANMP.GloftA8HM/Asphalt%208_6.3.0u_apkcombo.com.apk?ecp=Y29tLmdhbWVsb2Z0LmFuZHJvaWQuQU5NUC5HbG9mdEE4SE0vNi4zLjB1LzYzMDMxLjZhZjk3MTliNzE2OGNjMDNhMTcwMGQyMGNjN2RjYmM2NTY5MzdmNjIuYXBr&iat=1656462603&sig=32a7459836f3664b1c373f1bb5b27ae5&size=184156106&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

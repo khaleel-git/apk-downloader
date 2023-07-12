@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.shimano.etubeprojectmobile.droid.phone/E-TUBE%20PROJECT%20Cyclist_5.1.0_apkcombo.com.apk?ecp=Y29tLnNoaW1hbm8uZXR1YmVwcm9qZWN0bW9iaWxlLmRyb2lkLnBob25lLzUuMS4wLzIwMjIwNjE0Ljg4NTQ5MTYyMWEzNjBlZGU3MzZiNTAxMDg5OWUwMDg4YjRiNjZlNjAuYXBr&iat=1660499703&sig=34fe528fd9d3848d6f8e5e6856b92b6c&size=55089772&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.shimano.etubeprojectmobile.droid.phone/E-TUBE%20PROJECT%20Cyclist_5.1.0_apkcombo.com.apk?ecp=Y29tLnNoaW1hbm8uZXR1YmVwcm9qZWN0bW9iaWxlLmRyb2lkLnBob25lLzUuMS4wLzIwMjIwNjE0Ljg4NTQ5MTYyMWEzNjBlZGU3MzZiNTAxMDg5OWUwMDg4YjRiNjZlNjAuYXBr&iat=1658826640&sig=60ddc346aab86a01b1646049d4cb2978&size=55089772&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

@@ -1,5 +1,0 @@
-com.classic.dinoemulator.neschip
-com.legendmame.dinoemulator
-com.wafasoft.Seerat_e_Muastafa_Urdu_English_Hindi
-com.netmarble.kofg
-com.bakiyem.surucukursu.msahin

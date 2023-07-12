@@ -1,9 +1,0 @@
-com.facebook.katana
-com.facebook.orca
-com.facebook.lite
-com.facebook.mlite
-com.facebook.pages.app
-com.facebook.adsmanager
-com.facebook.games
-com.facebook.stella
-com.facebook.work

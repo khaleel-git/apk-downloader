@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.xtianxian.xtunnel/xTunnel%20VPN_2.2.3_apkcombo.com.apk?ecp=Y29tLnh0aWFueGlhbi54dHVubmVsLzIuMi4zLzQ3LjYwYmNhN2U2N2FlMDk0ZDI0ZWVlNmQ1YmRlNmEwMjliM2YwZTgwZjAuYXBr&iat=1666256556&sig=2e4fc97cb76a41844be3bd6b443d7d80&size=42380165&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.xtianxian.xtunnel/xTunnel%20VPN_2.2.2_apkcombo.com.apk?ecp=Y29tLnh0aWFueGlhbi54dHVubmVsLzIuMi4yLzQ2LjNmZmVhYjlkMzk3ZTI4ZTY2NDhiMmI3NmE1YzMyMDY5YmY2YmIwMDkuYXBr&iat=1656291204&sig=17465336e1f0c6f1e78d194644ef6b86&size=42380165&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

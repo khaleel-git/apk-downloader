@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.marketly.trading/Binomo_5.0.4_apkcombo.com.apk?ecp=Y29tLm1hcmtldGx5LnRyYWRpbmcvNS4wLjQvNTAwMDQwMC5iOWRiOTYyMTgyZWQ0OThkZTkzZTdlOGM5NWIwM2QwMjc0NGIzYTE3LmFwaw==&iat=1664084126&sig=ffc6f78c90c1506da8ed84bb31525e60&size=16706902&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.marketly.trading/Binomo_5.0.0_apkcombo.com.apk?ecp=Y29tLm1hcmtldGx5LnRyYWRpbmcvNS4wLjAvNTAwMDAwMC4wNzA1ODRiY2QwOGM0M2YxZTU3ZmFmNTg2Y2RjOWMwY2VjYjc4ODY2LmFwaw==&iat=1658311234&sig=9c441b7e328a0fb9f38d57889fa76bbe&size=16033751&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master

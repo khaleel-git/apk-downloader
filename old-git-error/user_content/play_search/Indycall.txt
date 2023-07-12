@@ -1,5 +1,0 @@
-lv.indycall.client
-com.indycall.polls
-lifeisbetteron.com
-me.talkyou.app.im
-com.app.fanytelbusiness

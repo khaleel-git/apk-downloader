@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://download.apkcombo.com/com.real.teenpatti.go.go/Teen%20Patti%20Go-Online%20Card%20Game_1.0.23_apkcombo.com.apk?ecp=Y29tLnJlYWwudGVlbnBhdHRpLmdvLmdvLzEuMC4yMy8yMy40NDVjZDYyNGZiMmRiZWM0NTFhZGYyNDUyN2IzY2E0OGZmNDhmOTU0LmFwaw==&iat=1665632726&sig=b55ab3876ced8e21909416169576922c&size=22399610&from=cf&version=latest&lang=en&fp=1234
-=======
-https://download.apkcombo.com/com.real.teenpatti.go.go/Teen%20Patti%20Go-Online%20Card%20Game_1.0.23_apkcombo.com.apk?ecp=Y29tLnJlYWwudGVlbnBhdHRpLmdvLmdvLzEuMC4yMy8yMy40NDVjZDYyNGZiMmRiZWM0NTFhZGYyNDUyN2IzY2E0OGZmNDhmOTU0LmFwaw==&iat=1659006900&sig=aa68bda86376d66682be03df9df206d4&size=22399610&from=cf&version=latest&lang=en&fp=1234
->>>>>>> origin/master
