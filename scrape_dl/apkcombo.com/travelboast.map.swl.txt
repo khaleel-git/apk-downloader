@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/travelboast.map.swl/TravelRoute:%20My%20Journey%20Boast_1.9_apkcombo.com.apk?ecp=dHJhdmVsYm9hc3QubWFwLnN3bC8xLjkvNTcuNjk2NTU3YWRiNGM4MzhiY2VjMTQ1YzVkNzAwZjdlYzY2N2NhMTk4YS5hcGs=&iat=1663598584&sig=131c8b86473e0c7a7ded1601a85cfd05&size=63497721&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/travelboast.map.swl/Travel%20Boast:%20Travel%20Map%20Video_1.5_apkcombo.com.apk?ecp=dHJhdmVsYm9hc3QubWFwLnN3bC8xLjUvMzEuYmIwZWQ2Y2E5OTQ5MTg4YWM3YTg3ZDZhZWEzNTk0NGE3YmQ2OTI4OC5hcGs=&iat=1655663722&sig=c835ff2c71217c720b35d3d567fd5f97&size=58878514&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

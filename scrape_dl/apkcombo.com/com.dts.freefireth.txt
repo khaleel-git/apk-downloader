@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.dts.freefireth/Garena%20Free%20Fire_1.93.1_apkcombo.com.xapk?ecp=Y29tLmR0cy5mcmVlZmlyZXRoLzEuOTMuMS8yMDE5MTE1NTE1LjM4ODA0NjMyMDg4YjQwMmYyYWVhNjk3NzgxZTgxN2ZhMWViODY0Yjkuemlw&iat=1666455601&sig=017940d4a61a213065c1b1dc7af59209&size=371633940&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.dts.freefireth/Free%20Fire_1.92.1_apkcombo.com.xapk?ecp=Y29tLmR0cy5mcmVlZmlyZXRoLzEuOTIuMS8yMDE5MTE1MzY1LjIwNTUwNzE2ZDJmNjlkMjY4OWFkZDZmNDgxNmZjMjc0MWQwYjFiMjguemlw&iat=1659520516&sig=6ca7b5a476fbda35e14e7a32f8ef2fb6&size=361773391&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.ghostegro.team/Ghostegro_1.21_apkcombo.com.apk?ecp=Y29tLmdob3N0ZWdyby50ZWFtLzEuMjEvMjIuNWJhMzhmOGYzZWMzMzMxOTExMjQ4ODRlMDJjYzI3NDUzOWNjYmFlMi5hcGs=&iat=1665329004&sig=96e2bb8dd3b02db14ab6b466952249cd&size=8608300&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.ghostegro.team/Ghostegro_1.21_apkcombo.com.apk?ecp=Y29tLmdob3N0ZWdyby50ZWFtLzEuMjEvMjIuNWJhMzhmOGYzZWMzMzMxOTExMjQ4ODRlMDJjYzI3NDUzOWNjYmFlMi5hcGs=&iat=1657825096&sig=84cd9cab1dc36a8a4a788795bf0bf523&size=8608300&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

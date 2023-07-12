@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.mojang.minecrafttrialpe/Minecraft%20Trial_1.19.31.01_apkcombo.com.apk?ecp=Y29tLm1vamFuZy5taW5lY3JhZnR0cmlhbHBlLzEuMTkuMzEuMDEvOTUxOTAzMTAxLjBlOGRkZDgzZTkwMzEzZjRlOTJkYzg0Mjg2ZGQ4NWNjMGMxNjYxMGEuYXBr&iat=1665168344&sig=b697a9794a145bf105336862ba4b46a9&size=637998080&from=cdn&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.mojang.minecrafttrialpe/Minecraft%20Trial_1.19.2.02_apkcombo.com.apk?ecp=Y29tLm1vamFuZy5taW5lY3JhZnR0cmlhbHBlLzEuMTkuMi4wMi85NTE5MDAyMDIuNjI1YjdiOGQ1NWMzNWY1MTI2NTJiODg4YzhlZGNkZDJmN2FkNzE0Yi5hcGs=&iat=1656462676&sig=04e69d98eb9ca486d9fdc2a1f9818003&size=226285388&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

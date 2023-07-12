@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.novakids.busylifeworld/YoYa:%20Busy%20Life%20World_2.5.1_apkcombo.com.apk?ecp=Y29tLm5vdmFraWRzLmJ1c3lsaWZld29ybGQvMi41LjEvNzMuYzgyYjZjYTkwZjM2MGE5MTQzODdiYjE4N2Q0ZDU0ODk4MDAyYzEzNC5hcGs=&iat=1664027409&sig=22e468302cd5d12d8a07b7a0b8026885&size=509366805&from=cdn&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.novakids.busylifeworld/YoYa:%20Busy%20Life%20World_2.1.0_apkcombo.com.apk?ecp=Y29tLm5vdmFraWRzLmJ1c3lsaWZld29ybGQvMi4xLjAvNjYuZDAwYmQ1MjZhZDZmMzdkNWFiODExMGM4YmMzZjQ3ZjQ5NTc4ZThlYi5hcGs=&iat=1657122957&sig=5d816e20af87da346da43ffacf98ca18&size=563593978&from=cdn&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

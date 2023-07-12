@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.prepaid2cash.android/Prepaid2Cash:%20Gift%20Cards%20to%20Cash%20Instantly_3.9.6_apkcombo.com.apk?ecp=Y29tLnByZXBhaWQyY2FzaC5hbmRyb2lkLzMuOS42LzExNi5iMmExODcxOThhNGEzODNiNWFjNTUyYTAzMzA4YWRlYWQ1ZWQxZjA2LmFwaw==&iat=1660888236&sig=c7095cd5923c2c80b3ea4e0b7ddc404a&size=75164381&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.prepaid2cash.android/Prepaid2Cash:%20Gift%20Cards%20to%20Cash%20Instantly_3.9.5_apkcombo.com.apk?ecp=Y29tLnByZXBhaWQyY2FzaC5hbmRyb2lkLzMuOS41LzExNS4wMmNhZGE1OTRiNDhjMmRkODliZTYxMWJmZGYyYjAxZmU1OTFkYjZkLmFwaw==&iat=1656965396&sig=fc5cd24431159f44bfc4379b9256b0d9&size=75131518&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/age.of.civilizations2.jakowski.lukasz.europe.lite/Age%20of%20History%20II%20Europe%20-%20Lit_1.05481_EU_LITE_apkcombo.com.apk?ecp=YWdlLm9mLmNpdmlsaXphdGlvbnMyLmpha293c2tpLmx1a2Fzei5ldXJvcGUubGl0ZS8xLjA1NDgxX0VVX0xJVEUvNzAuODZlMTU4MTQwMDEzMDE4OGFlZmZjZTY0OTQ5YjNkOGJlNWVmZjJiZC5hcGs=&iat=1664823363&sig=5ab95b7f1c813a54e9d094e87ccdecb8&size=112468377&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/age.of.civilizations2.jakowski.lukasz.europe.lite/Age%20of%20History%20II%20Europe%20-%20Lite_1.05481_EU_LITE_apkcombo.com.apk?ecp=YWdlLm9mLmNpdmlsaXphdGlvbnMyLmpha293c2tpLmx1a2Fzei5ldXJvcGUubGl0ZS8xLjA1NDgxX0VVX0xJVEUvNzAuODZlMTU4MTQwMDEzMDE4OGFlZmZjZTY0OTQ5YjNkOGJlNWVmZjJiZC5hcGs=&iat=1655169670&sig=0cd0a8d2de9942feb6cbfcc8098384c7&size=112468377&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

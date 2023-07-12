@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.azure.authenticator/Microsoft%20Authenticator_6.2207.4624_apkcombo.com.apk?ecp=Y29tLmF6dXJlLmF1dGhlbnRpY2F0b3IvNi4yMjA3LjQ2MjQvMjAyMjQ2MjQxLmZkZjI0M2EzOWI3YzYxY2FmZjJhNWNkZWFiMmMzYWU5NmFkNWNjNzIuYXBr&iat=1659946102&sig=59e7f71bd40814276b71998af75ac2a7&size=77045088&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.azure.authenticator/Microsoft%20Authenticator_6.2207.4624_apkcombo.com.apk?ecp=Y29tLmF6dXJlLmF1dGhlbnRpY2F0b3IvNi4yMjA3LjQ2MjQvMjAyMjQ2MjQxLmZkZjI0M2EzOWI3YzYxY2FmZjJhNWNkZWFiMmMzYWU5NmFkNWNjNzIuYXBr&iat=1658288776&sig=69542efa88603578d3e92acc633d9061&size=77045088&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

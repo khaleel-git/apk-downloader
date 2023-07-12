@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/volume.booster.sound.enhance/Volume%20Booster%20-%20Loud%20Speaker_1.1.8_apkcombo.com.apk?ecp=dm9sdW1lLmJvb3N0ZXIuc291bmQuZW5oYW5jZS8xLjEuOC8xNS4zYTJmNzBjM2UwZjBkNmUzMjc1MmQ3MGY3Zjc4YWRmZjA0OGIxNTkzLmFwaw==&iat=1665050688&sig=8b88391c04d27d4f6dc3d79297d521a9&size=8008773&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/volume.booster.sound.enhance/Volume%20Booster%20-%20Loud%20Speaker_1.1.7_apkcombo.com.apk?ecp=dm9sdW1lLmJvb3N0ZXIuc291bmQuZW5oYW5jZS8xLjEuNy8xNC44OGUwZWUxMmY0Yzg4NTEzYmQxYmFlNDUyMDAzMTczNzM3NTI2M2UwLmFwaw==&iat=1658601959&sig=cdf36b40ac44d1a93c0fd7cdea21a9c8&size=7239839&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/gfxtool.gamebooster.gfx/GFX%20Tool%20&%20Game%20Optimizer_1.61.1_apkcombo.com.apk?ecp=Z2Z4dG9vbC5nYW1lYm9vc3Rlci5nZngvMS42MS4xLzE2OS43OTVhYTUyY2JiMWUzMzY0YmRmNDc3NDkxYWNmOTRjMWY1ZDM4YjRiLmFwaw==&iat=1663339729&sig=b643d8b9670bd0fbab04bef9a6801167&size=7572093&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/gfxtool.gamebooster.gfx/GFX%20Tool%20for%20PUBG%20&%20Optimizer_58.0_apkcombo.com.apk?ecp=Z2Z4dG9vbC5nYW1lYm9vc3Rlci5nZngvNTguMC81OC40NzI2YzlkYjRmNDY4NDNiYjhlYmE1NDBkNjc5Y2FkYzE1MjU0NjJkLmFwaw==&iat=1656156444&sig=f8de326d685ce318beb60b69b4882499&size=5491258&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.wolt.courierapp/Wolt%20Courier%20Partner_2.33.0_apkcombo.com.apk?ecp=Y29tLndvbHQuY291cmllcmFwcC8yLjMzLjAvMjMzMDAwNC4xNjkwMTU2NzRmOTdjN2NiYjRjYjYzM2MzMmIyNTc1MzZkNzU2YmJlLmFwaw==&iat=1662473686&sig=8241a5f4febc7a1bd897b7bd0276e227&size=89366849&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.wolt.courierapp/Wolt%20Courier%20Partner_2.27.0_apkcombo.com.apk?ecp=Y29tLndvbHQuY291cmllcmFwcC8yLjI3LjAvMjI3MDAwMC45ZmJhNTVjY2NlZmYyMjZmYTM0YzVjYmExMDQwNWQ1ZTNjNjRiNjhkLmFwaw==&iat=1657123861&sig=52ae5058b9ea4096a3f6bde6bdf8ce8b&size=87153312&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

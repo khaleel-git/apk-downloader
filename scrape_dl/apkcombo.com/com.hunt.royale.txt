@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.hunt.royale/Hunt%20Royale:%20Action%20RPG%20Battle_1.5.8_apkcombo.com.apk?ecp=Y29tLmh1bnQucm95YWxlLzEuNS44LzQ4Ny42ZTc2MzNhMjdkMmU3MjU5MmRhZmQ3MzViYzI2ODU1NGQzMzQ0NGI1LmFwaw==&iat=1662947820&sig=6f676fa1c9a7c26df2331dd9ff948fad&size=209453603&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.hunt.royale/Hunt%20Royale:%20Action%20RPG%20Battle_1.5.2_apkcombo.com.apk?ecp=Y29tLmh1bnQucm95YWxlLzEuNS4yLzQzOC43N2FlOTlmMDU1MTRjYzMxYmZkMzljMDYyOGQ0MTNjZjEyMjM1MmMyLmFwaw==&iat=1656782706&sig=14f78d0835e73345a578bde170fb62e1&size=202670711&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.delightgames.teenpatti.store/Teen%20Patti%20Delight_3.1_apkcombo.com.apk?ecp=Y29tLmRlbGlnaHRnYW1lcy50ZWVucGF0dGkuc3RvcmUvMy4xLzMuODkyN2NlYmExNDNlOGE1YjQ4MWY2YzQwZDdjNWVlNGJlZGRmOTY2OS5hcGs=&iat=1666512553&sig=d5b14b540615bdcae47039d868d84775&size=33606931&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.delightgames.teenpatti.store/Teen%20Patti%20Delight_3.1_apkcombo.com.apk?ecp=Y29tLmRlbGlnaHRnYW1lcy50ZWVucGF0dGkuc3RvcmUvMy4xLzMuODkyN2NlYmExNDNlOGE1YjQ4MWY2YzQwZDdjNWVlNGJlZGRmOTY2OS5hcGs=&iat=1658387791&sig=8073a29d406da27a1a44fbf1d53ce45a&size=33606931&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

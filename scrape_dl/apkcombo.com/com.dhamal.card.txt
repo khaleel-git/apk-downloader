@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.dhamal.card/Teen%20Patti%20Dhamal_1.0.0.2_apkcombo.com.apk?ecp=Y29tLmRoYW1hbC5jYXJkLzEuMC4wLjIvMTAwMDAwMDIuNzZhMzNjM2JhM2IzMTBmYTk5NWEwNmI3YzMzM2M5MGMwZWZiMTdiOS5hcGs=&iat=1665110560&sig=41200bf27031382caffafa402f3802b1&size=42009107&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.dhamal.card/Teen%20Patti%20Dhamal_1.0.0.2_apkcombo.com.apk?ecp=Y29tLmRoYW1hbC5jYXJkLzEuMC4wLjIvMTAwMDAwMDIuNzZhMzNjM2JhM2IzMTBmYTk5NWEwNmI3YzMzM2M5MGMwZWZiMTdiOS5hcGs=&iat=1659586188&sig=edd5b7b430fb6d72b1834fedadfd2f31&size=42009107&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,0 +1,5 @@
+
+com.snapchat.android
+com.google.android.youtube
+com.instagram.android
+com.kiloo.subwaysurf

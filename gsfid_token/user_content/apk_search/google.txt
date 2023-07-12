@@ -1,0 +1,14 @@
+com.google.android.googlequicksearchbox
+com.android.chrome
+com.google.android.apps.photos
+com.google.android.play.games
+com.google.android.apps.chromecast.app
+com.google.android.apps.docs
+com.google.android.apps.translate
+com.google.android.apps.docs.editors.slides
+com.google.android.apps.books
+com.google.android.apps.paidtasks
+com.google.android.apps.classroom
+com.google.android.apps.nbu.files
+com.google.android.apps.tycho
+com.google.android.apps.vega

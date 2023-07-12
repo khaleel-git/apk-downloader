@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.bcy.fsapp/STEPN_0.8.8_apkcombo.com.apk?ecp=Y29tLmJjeS5mc2FwcC8wLjguOC84MDgxLjFlYzQ3ZmMwNDZmMDVjOTdkM2EwMjZkZDZjZGQ5YzExZGY1OTYzODQuYXBr&iat=1665327543&sig=58d3ffa23dabfcc378fb2c217860a9df&size=78771915&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.bcy.fsapp/STEPN_0.8.1_apkcombo.com.apk?ecp=Y29tLmJjeS5mc2FwcC8wLjguMS84MDEuMmNiYTVkZTMyNDBiOWJhMzNlYjFhZmUzMWE2MTcwYTczOWQwY2U2MC5hcGs=&iat=1659661989&sig=683ef26e04daa8ac182957869e7786a2&size=75670573&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,0 +1,15 @@
+savannah.internet.web.browser
+org.mozilla.firefox
+com.microsoft.emmx
+com.android.chrome
+com.sec.android.app.sbrowser
+com.opera.browser
+com.brave.browser
+com.duckduckgo.mobile.android
+org.mozilla.firefox_beta
+org.mozilla.focus
+org.mozilla.fenix
+mobi.mgeek.TunnyBrowser
+acr.browser.raisebrowserfull
+com.sec.android.app.sbrowser.beta
+org.mozilla.firefox

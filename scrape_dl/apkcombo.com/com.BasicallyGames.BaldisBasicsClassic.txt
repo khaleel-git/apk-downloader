@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.BasicallyGames.BaldisBasicsClassic/Baldi's%20Basics%20Classic_1.4.3_apkcombo.com.apk?ecp=Y29tLkJhc2ljYWxseUdhbWVzLkJhbGRpc0Jhc2ljc0NsYXNzaWMvMS40LjMvOS42NjhkMzFjMjYxOGEyZjY2NzliNjI2NzExOGE3MTE2ZGNkNGJhMDlmLmFwaw==&iat=1659843995&sig=45d69c4091c7b90408acc624f844ece6&size=42749104&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.BasicallyGames.BaldisBasicsClassic/Baldi's%20Basics%20Classic_1.4.3_apkcombo.com.apk?ecp=Y29tLkJhc2ljYWxseUdhbWVzLkJhbGRpc0Jhc2ljc0NsYXNzaWMvMS40LjMvOS42NjhkMzFjMjYxOGEyZjY2NzliNjI2NzExOGE3MTE2ZGNkNGJhMDlmLmFwaw==&iat=1655342096&sig=efd7f368d3efaeb20bf75822f72af25b&size=42749104&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

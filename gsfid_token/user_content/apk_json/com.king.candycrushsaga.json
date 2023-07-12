@@ -1,0 +1,246 @@
+{
+    "docid": "com.king.candycrushsaga",
+    "backendDocid": "com.king.candycrushsaga",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Candy Crush Saga",
+    "creator": "King",
+    "descriptionHtml": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world.<br><br>Switch and match Candies in this tasty puzzle adventure to progress to the next level for that sweet winning feeling! Solve puzzles with quick thinking and smart moves, and be rewarded with delicious rainbow-colored cascades and tasty candy combos!<br><br>Plan your moves by matching 3 or more candies in a row, using boosters wisely in order to overcome those extra sticky puzzles! Blast the chocolate and collect sweet candy across thousands of levels, guaranteed to have you craving more!<br><br>Candy Crush Saga features:<br><br>THE GAME THAT KEEPS YOU CRAVING MORE<br>Thousands of the best levels and puzzles in the Candy Kingdom and with more added every 2 weeks your sugar fix is never far away! <br><br>MANY WAYS TO WIN REWARDS<br>Check back daily and spin the Daily Booster Wheel to receive free tasty rewards, and take part in time limited challenges to earn boosters to help you level up! <br><br>VARIETY OF SUGAR-COATED CHALLENGES<br>Sweet ways to play: Game modes including Target Score, Clear the Jelly, Collect the Ingredients and Order Mode<br><br>Facebook @CandyCrushSaga<br>Twitter @CandyCrushSaga<br>Instagram @CandyCrushSaga<br>YouTube @CandyCrushOfficial<br><br>Take on this epic saga alone or play with friends to see who can get the highest score!<br><br>Easily sync the game between devices and access full game features when connected to the internet.<br><br>Candy Crush Saga is free to play but optional in-game items require payment. You can turn off the payment feature by disabling in-app purchases in your device’s settings. <br><br>By downloading this game you are agreeing to our terms of service which can be found at https://king.com/termsAndConditions<br><br>Have fun playing Candy Crush Saga the sweetest match 3 puzzle game around! <br>If you enjoy playing Candy Crush Saga, you may also enjoy its sister puzzle games; Candy Crush Soda Saga, Candy Crush Jelly Saga and Candy Crush Friends Saga<br><br>Do not sell my data: King shares your personal information with advertising partners to personalize ads. Learn more at https://king.com/privacyPolicy.  If you wish to exercise your Do Not Sell My Data rights, you can do so by contacting us via the in game help centre or by going to https://soporto.king.com/contact",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/E90xpg8YSi4IeY_4hTw4dbE9dhLI4dYIg39Fm-zLhdz_fw7f8rGoONWhvFZEfS-OiQ",
+            "supportsFifeUrlOptions": true,
+            "color": "#F164D7"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://youtu.be/qyWfWtsR1m8"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/qyWfWtsR1m8/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 768,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/G1iWqPOZTY-7Qp5t9FfKimlGFFiBrQU1ejSfgRMuYv63i0A2Df7bkXLaHe2bmltJeUc",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 768,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/nOkheh-ciYK6MXURcAadUbyF4fUbIXAczMP1pVJuyOMSB1lbQF7L6SBI-AEzudS4FQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 768,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/6wMroYlZ4je2VgylY3pPjjS6qQgvWHaRsVsSvjtyj2-4JdTgC88QQIkuPDami0W6PA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 768,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/X9kGiKnFTReOTMF1MJCMXlj5X-_Gd5yVKOW4Cgj6tVlatmvQ8R0hBs1-0PpBIRZOUA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 768,
+                "height": 1280
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/kF89E9g9fK6rlMuDrmEGcx8ETnl9VcgSVNhU10Qih_OStx0r72Q0cIky7nhk0g1v768",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 768
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/THovDVZfmRAJTxHhfX5WV6ISN8RI-2ZuQREREqAYI4GoVE9iBvbUZ1gYzVyDhutLF-Y",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 768
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/vF7qswUyEj8mNr31zFC9SGz9Pcr_bUDiQJ3eVgHIpHSONi4E_JJZ8JW_brOgrxa4wg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1280,
+                "height": 768
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/35_Ltd3ofBPoT-FP-f3HNA2Q_wpSxkGgLsRYysszLfxXhGoE1g2jUOWJ9gkPmxyYZHo",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "King",
+            "versionCode": 12110011,
+            "versionString": "1.211.0.1",
+            "installationSize": "88435445",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.WAKE_LOCK",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.king.candycrushsaga.permission.C2D_MESSAGE",
+                "com.king.cross.kingapp.provider.ACCESS"
+            ],
+            "developerEmail": "candycrush.techhelp@king.com",
+            "developerWebsite": "http://candycrushsaga.com/help/",
+            "numDownloads": "1,000,000,000+ downloads",
+            "packageName": "com.king.candycrushsaga",
+            "recentChangesHtml": "We hope you’re having fun playing Candy Crush Saga! We update the game every week so don&#39;t forget to download the latest version to get all the sweet new features and levels!<br><br>New to the game? Don’t be shy, join the fun! <br><br>Coming back after a break? About time! <br><br>Let’s play!",
+            "uploadDate": "Sep 9, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 12110011,
+                    "size": "88435445"
+                }
+            ],
+            "appType": "GAME",
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "88435445",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "King.com Limited<br/>Aragon Business Centre, Level 4, Dragonara Road, St Julians STJ3140, Malta"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.555957794189453,
+        "ratingsCount": "32173684",
+        "oneStarRatings": "1354336",
+        "twoStarRatings": "502673",
+        "threeStarRatings": "1566264",
+        "fourStarRatings": "4228577",
+        "fiveStarRatings": "24521831",
+        "commentCount": "9802827"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://king.com/privacyPolicy",
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact, Shares Info, Digital Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "categoryInfo": {
+            "appType": "GAME"
+        }
+    },
+    "detailsUrl": "details?doc=com.king.candycrushsaga",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+    "reviewsUrl": "rev?doc=com.king.candycrushsaga&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $149.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "King"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "candycrush.techhelp@king.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "King.com Limited<br/>Aragon Business Centre, Level 4, Dragonara Road, St Julians STJ3140, Malta"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Nov 15, 2012"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "The sweetest puzzle game! Switch, match & blast candies to win levels!",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.king.candycrushsaga"
+}

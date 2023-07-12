@@ -1,0 +1,59 @@
+import time
+import os
+import csv
+import sys
+import pandas as pd 
+from gpapi.googleplay import GooglePlayAPI
+pd.options.mode.chained_assignment = None  # default='warn'
+
+device_arg = sys.argv[1]
+email_no = sys.argv[2]
+#language = sys.argv[2]
+
+
+df1 = pd.read_csv("devices_with_app_passwords.csv") #df1 specific functinality
+df2 = pd.read_csv("devices_with_app_passwords.csv", index_col = 'Code_Name') #read a csv file and set index to column = Code_Name
+df3 = pd.read_csv("gsfids_and_tokens.csv")
+devices = df1['Code_Name'].values  # as a numpy array
+
+#40 devices are supported, extract each device with Brand_Name
+header = ['device', 'gsfid', 'sub_auth_token', 'TimeZone'] #output file header row
+# print(df3)
+# exit()
+with open('gsfids_and_tokens.csv', 'a', encoding = 'UTF-8') as fd: 
+ device = df2.loc[device_arg, : ]
+ 
+ # print("Device Number = ")
+ # print(count)
+ if (email_no == 1):
+  print(device.Email_01)
+  print(device.App_Password_01)
+  print(device.TimeZone)
+
+  api = GooglePlayAPI("en_US", timezone = device.TimeZone, device_codename = device_arg)
+  api.login( email = device.Email_01, password = device.App_Password_01)
+  print(api.gsfId)
+  print(api.authSubToken)
+ if(email_no == 2):
+  print(device.Email_02)
+  print(device.App_Password_02)
+  print(device.TimeZone)
+
+  api = GooglePlayAPI("en_US", timezone = device.TimeZone, device_codename = device_arg)
+  api.login( email = device.Email_02, password = device.App_Password_02)
+  print(api.gsfId)
+  print(api.authSubToken)
+ else:
+  print("Wrong argument! Argument number tells which Email_0# to chose for playstore login")
+
+    #gsfid_token_write = df3.loc[device_arg,:]
+ for i, row in df3.iterrows():
+  if row.device == device_arg:
+   # print('value if i = ')
+   # print(i)
+   df3.gsfid.iloc[i] = api.gsfId
+   df3.sub_auth_token.iloc[i] = api.authSubToken
+   df3.TimeZone.iloc[i] = device.TimeZone
+   break
+
+df3.to_csv('gsfids_and_tokens.csv', index=False)

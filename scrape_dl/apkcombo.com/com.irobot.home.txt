@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.irobot.home/iRobot%20Home_6.7.0-release_apkcombo.com.apk?ecp=Y29tLmlyb2JvdC5ob21lLzYuNy4wLXJlbGVhc2UvMTYwNjA3MDA5OS4xM2JjZGJlMzEyZjNhZjBhMmJlZjg1YWQyNWM1ZTcwZGViMjg3M2Y0LmFwaw==&iat=1660675444&sig=b5d7bdeed202a97f7664050de2242b4b&size=327813502&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.irobot.home/iRobot%20Home_6.6.0-release_apkcombo.com.apk?ecp=Y29tLmlyb2JvdC5ob21lLzYuNi4wLXJlbGVhc2UvMTYwNjA2MDA5OS5kMzY4ZDhiOGU3ZDA3MTRjNDM5NDA5ZjVlMTAwNWRlMDFjNWY5MTRjLmFwaw==&iat=1656952339&sig=67fad427becde13b975c1ad7dbf6d854&size=325822712&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

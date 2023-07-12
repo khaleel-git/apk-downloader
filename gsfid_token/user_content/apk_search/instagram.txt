@@ -1,0 +1,9 @@
+com.instagram.android
+com.instagram.igtv
+com.beakerapps.instameter2
+instasaver.instagram.video.downloader.photo
+com.mystalker.profile
+instagram.video.downloader.story.saver
+instagram.downloader.download.videos.photos
+com.redcherry.hotquotes.hot.followers
+com.post.maker.for.instagram.socialmedia.creator.postplus

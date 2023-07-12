@@ -1,0 +1,210 @@
+{
+    "docid": "com.Slack",
+    "backendDocid": "com.Slack",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Slack",
+    "creator": "Slack Technologies Inc.",
+    "descriptionHtml": "Slack brings team communication and collaboration into one place so you can get more work done, whether you belong to a large enterprise or a small business. Check off your to-do list and move your projects forward by bringing the right people, conversations, tools, and information you need together. Slack is available on any device, so you can find and access your team and your work, whether you’re at your desk or on the go.<br><br>Use Slack to: <br>• Communicate with your team and organize your conversations by topics, projects, or anything else that matters to your work<br>• Message or call any person or group within your team<br>• Share and edit documents and collaborate with the right people all in Slack <br>• Integrate into your workflow, the tools and services you already use including Google Drive, Salesforce, Dropbox, Asana, Twitter, Zendesk, and more<br>• Easily search a central knowledge base that automatically indexes and archives your team’s past conversations and files<br>• Customize your notifications so you stay focused on what matters<br><br>Scientifically proven (or at least rumored) to make your working life simpler, more pleasant, and more productive. We hope you’ll give Slack a try.<br><br>Stop by and learn more at: https://slack.com/<br><br>Having trouble? Please reach out to feedback@slack.com",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 9
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/VfpdFf3jaMj51B84gO8yiOtlp9ezTU0ByQ9UK6SIEvAiv5NDOgy7DYRzgbpCnETnX6s",
+            "supportsFifeUrlOptions": true,
+            "color": "#FFFFFF"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/lV1DhBeSuikQy6fLPhgfNHUxDqterNlur4oB1Z_Yr0NOSiWwQOD0g8gWCjVf1mmMuw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=n0oO8yINyDM"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/n0oO8yINyDM/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/iGqX4EQcLme8-qYaqPCwSP9ngaaqXszPOy4cu__sn1H47Wqle5LtUgwvfP_SMnHC_A",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/LxXRkRQPKfa20wLzs_aUP4BAmr_76NlIsj0XiOAOgUFVTbPUvpQB6WT6jdZMdEUHCkA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/A1AB_g2ARCafaFT_56WAdxr-EvfnmYHr4ts1iY7IPdTZTWvkzBzcrTGtoa_56Lxiaw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/TuTYhFnnyyQyiqCMFrWDGcusXjoO8AWxMUzyNUf3AtW7VrVa5SYo3noObT3BnkR4CRM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/rAQy78VZMTF7vub1f5lo42g2K0tIvIE8hGLriUIn22mSsBX3J4se5OJDsFL0HrCXc2g",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/sND45rSqXewnYeLyRgPUf38OGR_Bij7bpycM2MXp_r_LtgAC10UfwZv2hn7VVx09cube",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 0,
+                "height": 0
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/gZekuquK7a9MnGTs2-kXTkSLtwY7WH6Nog9X2QvpoakwzcC6vv-9-e0ojgaHRvJmQGY",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Slack Technologies Inc.",
+            "developerEmail": "feedback@slack.com",
+            "developerWebsite": "http://slack.com",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "com.Slack",
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 3.979776382446289,
+        "ratingsCount": "106657",
+        "oneStarRatings": "14333",
+        "twoStarRatings": "5486",
+        "threeStarRatings": "9015",
+        "fourStarRatings": "16987",
+        "fiveStarRatings": "60833",
+        "commentCount": "21275"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://slack.com/privacy-policy",
+        "youMightAlsoLike": {
+            "label": "You might also like",
+            "url1": "getStream?ecp=ChqiChcIEioCCAkyDwoJY29tLlNsYWNrEAEYAw%3D%3D&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=ChqiChcIEioCCAkyDwoJY29tLlNsYWNrEAEYAw%3D%3D&n=21"
+        },
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Users Interact<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        },
+        "relatedLinks": [
+            {
+                "label": "More by Slack Technologies Inc.",
+                "url1": "getStream?ecp=CjGKAy4KGQoTOTAzMTIwMTk0ODAxNDg0NzMwMBAIGAMSDwoJY29tLlNsYWNrEAEYAxgB&ds=1",
+                "url2": "getBrowseStream?ecp=CjGKAy4KGQoTOTAzMTIwMTk0ODAxNDg0NzMwMBAIGAMSDwoJY29tLlNsYWNrEAEYAxgB"
+            },
+            {
+                "label": "Similar apps",
+                "url1": "getStream?ecp=ChqiChcIESoCCAgyDwoJY29tLlNsYWNrEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=ChqiChcIESoCCAgyDwoJY29tLlNsYWNrEAEYAw%3D%3D&n=21"
+            },
+            {
+                "label": "You might also like",
+                "url1": "getStream?ecp=ChqiChcIEioCCAgyDwoJY29tLlNsYWNrEAEYAw%3D%3D&n=21&ds=1",
+                "url2": "getBrowseStream?ecp=ChqiChcIEioCCAgyDwoJY29tLlNsYWNrEAEYAw%3D%3D&n=21"
+            },
+            {
+                "url1": "getStream?ecp=ChqiChcIASoCCAgyDwoJY29tLlNsYWNrEAEYAw%3D%3D&ds=1",
+                "url2": "getBrowseStream?ecp=ChqiChcIASoCCAgyDwoJY29tLlNsYWNrEAEYAw%3D%3D"
+            }
+        ]
+    },
+    "detailsUrl": "details?doc=com.Slack",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.Slack",
+    "reviewsUrl": "rev?doc=com.Slack&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Slack Technologies Inc."
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "feedback@slack.com"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jul 22, 2013"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "All your team communication in one place",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.Slack"
+}

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/de.msg/mehr-tanken%20and%20clever-sparen_4.1.0.8_apkcombo.com.apk?ecp=ZGUubXNnLzQuMS4wLjgvNDAxMDAwOC42YWUxNjgxYTJiZDZkMjEzNzk1NDYwYzYwYjdlZTliZjQ2YzVjMGQ0LmFwaw==&iat=1664735184&sig=d1bfd9c35f83efcc572f07295c7eaa89&size=39195685&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/de.msg/mehr-tanken%20and%20clever-sparen_4.0.5.2_apkcombo.com.apk?ecp=ZGUubXNnLzQuMC41LjIvNDAwMDUwMi5jZTU1YTlkZTJlODZmZjUyMTRhZGI0ZDc1Nzk0ZWVjNmNiMWNiYmM3LmFwaw==&iat=1658770089&sig=7c806663113c73e5f9137483ff180720&size=38845366&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

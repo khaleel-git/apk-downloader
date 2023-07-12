@@ -1,0 +1,166 @@
+{
+    "docid": "com.niksoftware.snapseed",
+    "backendDocid": "com.niksoftware.snapseed",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Snapseed",
+    "creator": "Google LLC",
+    "descriptionHtml": "Snapseed is a complete and professional photo editor developed by Google.<br><br><br><br>== KEY FEATURES==<br><br>• 29 Tools and Filters, including: Healing, Brush, Structure, HDR, Perspective (see list below)<br><br>• Opens JPG and RAW files<br><br>• Save your personal looks and apply them to new photos later<br><br>• Selective filter brush<br><br>• All styles can be tweaked with fine, precise control<br><br><br><br>== TOOLS, FILTERS AND FACE ==<br><br>• RAW Develop – open and tweak RAW DNG files; save non-destructively or export as JPG<br><br>• Tune image – adjust exposure and color automatically or manually with fine, precise control<br><br>• Details – magically brings out surface structures in images<br><br>• Crop – crop to standard sizes or freely<br><br>• Rotate – rotate by 90°, or straighten a skewed horizon<br><br>• Perspective – fix skewed lines and perfect the geometry of horizons or buildings<br><br>• White Balance – adjust the colors so that the image looks more natural<br><br>• Brush – selectively retouch exposure, saturation, brightness or warmth<br><br>• Selective – the renown “Control Point” technology: Position up to 8 points on the image and assign enhancements, the algorithm does the rest magically<br><br>• Healing – remove the uninvited neighbor from a group picture<br><br>• Vignette – add a soft darkness around the corners like a beautiful, wide-aperture would do<br><br>• Text – add both stylized or plain text<br><br>• Curves - have precise control over the brightness levels in your photos<br><br>• Expand -  increase the size of your canvas and fill up the new space in smart ways with content of your image<br><br>• Lens Blur – add a beautiful Bokeh to images (background softening), ideal for photographic portraits<br><br>• Glamour Glow – add a fine glow to images, great for fashion or portraits<br><br>• Tonal Contrast – boost details selectively in the shadows, midtones and highlights<br><br>• HDR Scape – bring a stunning look to your images by creating the effect of multiple exposures<br><br>• Drama – add a hint of doomsday to your images (6 styles)<br><br>• Grunge – an edgy look with strong styles and texture overlays<br><br>• Grainy Film – get modern film looks with realistic grain<br><br>• Vintage – the style of color film photo from the 50’s, 60’s or 70’s<br><br>• Retrolux – go retro with light leaks, scratches, film styles<br><br>• Noir – Black and White film looks with realistic grain and the “wash” effect<br><br>• Black &amp; White – classic Black and White look straight out of the darkroom<br><br>• Frames – add frames with adjustable size<br><br>• Double Exposure - blend two photos, choosing from blend modes that are inspired by shooting on film and by digital image processing<br><br>• Face Enhance – add focus to the eyes, add face-specific lighting, or smoothen skin<br><br>• Face Pose - correct the pose of portraits based on three dimensional models",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "imageUrl": "https://play-lh.googleusercontent.com/jMJSMcEqf-Ea3rIKVcyYAvZ9Lr9UM-oTCdHms4rJCREe2OxcLr_xt5Fe1PzoXjwYxj5B",
+            "supportsFifeUrlOptions": true,
+            "color": "#ACCED3"
+        },
+        {
+            "imageType": 4,
+            "imageUrl": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/CrRfRw8TPhbyqOJZ1qUscqOZf5pVYbO2I2oPnf0-8RBOUOV3PqthpLa1almaQ9ObN9GZ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/AyIokkc-LC7LesYJEW5nSAJ9iiREzwdFl8tVRncgGGQuCQKTSgkgOKljTvgXt5yss30",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/tnr9YFs0n22Lx74AeT00u85dsVndijFcvI3JcDqillbyKeb_600SWtaw35YZq0vbpnI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/Yos_wLCpHtTXhz8Z-un5OPhj5_EPFffhIg2pqCn1P4ODE5uBYbufJ2pUK1FTXMMs_rg",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/prsPt9Q24oIZzafaZvyiiaMIwnWF3V4c_fc0tZ0IboI8MvDiI62r_stAu3WkvV0jZw0",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Google LLC",
+            "versionCode": 674352,
+            "versionString": "2.19.1.303051424",
+            "installationSize": "29389860",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.CAMERA",
+                "android.permission.INTERNET",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.SET_WALLPAPER",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.google.android.providers.gsf.permission.READ_GSERVICES"
+            ],
+            "developerEmail": "apps-help@google.com",
+            "developerWebsite": "https://support.google.com/snapseed",
+            "numDownloads": "100,000,000+ downloads",
+            "packageName": "com.niksoftware.snapseed",
+            "recentChangesHtml": "• Added support for a dark theme mode in Settings<br><br>• Bug fixes",
+            "uploadDate": "Mar 26, 2020",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 674352,
+                    "size": "29389860"
+                }
+            ],
+            "unstable": false,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "29389860",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 200904000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 28
+            },
+            "developerAddress": "1600 Amphitheatre Parkway, Mountain View 94043"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.415267467498779,
+        "ratingsCount": "1426773",
+        "oneStarRatings": "103398",
+        "twoStarRatings": "36828",
+        "threeStarRatings": "74564",
+        "fourStarRatings": "161075",
+        "fiveStarRatings": "1050907",
+        "commentCount": "380379"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "http://www.google.com/policies/privacy/",
+        "rated": {
+            "label": "Everyone",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        }
+    },
+    "detailsUrl": "details?doc=com.niksoftware.snapseed",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+    "reviewsUrl": "rev?doc=com.niksoftware.snapseed&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Google LLC"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "apps-help@google.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "1600 Amphitheatre Parkway, Mountain View 94043"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Dec 6, 2012"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Professional quality photo edits with the new Snapseed.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.niksoftware.snapseed"
+}

@@ -1,0 +1,3 @@
+com.google.android.calculator
+com.dencreak.dlcalculator
+de.sfr.calctape

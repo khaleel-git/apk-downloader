@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.univtec.supersports.app/SuperSport%20Schools_3.1.2_apkcombo.com.apk?ecp=Y29tLnVuaXZ0ZWMuc3VwZXJzcG9ydHMuYXBwLzMuMS4yLzIxMjc2LmI4OTM3MDNkNTlkNGIxMjA3NGU1N2Y2YTUxNzU0ZDliN2ZmODA2ZDYuYXBr&iat=1661257058&sig=bb36fc2db40a882e36a9c56a360dafbe&size=62276353&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.univtec.supersports.app/SuperSport%20Schools_2.0.15_apkcombo.com.apk?ecp=Y29tLnVuaXZ0ZWMuc3VwZXJzcG9ydHMuYXBwLzIuMC4xNS8yMDAxNS40YmY0MDk4NjdkMzIwMzJkYzFiMzg4Y2VlNzk4ZjdmNGVhOGNjZDE2LmFwaw==&iat=1656431768&sig=52e32de254d5c84e8e195545d77d4900&size=21561362&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

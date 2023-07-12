@@ -1,0 +1,210 @@
+{
+    "docid": "com.shazam.android",
+    "backendDocid": "com.shazam.android",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Shazam: Discover songs & lyrics in seconds",
+    "creator": "Apple, Inc.",
+    "descriptionHtml": "Shazam will identify any song in seconds. Discover, artists, lyrics, videos &amp; playlists, all for free. Over 1 billion installs and counting.<br><br>“Shazam is an app that feels like magic” - Techradar.com (http://techradar.com/)<br><br>“Shazam is a gift... a game changer” - Pharrell Williams, GQ interview <br><br>Think you can Beat Shazam? To find out, play along with the Shazam App while you watch the show!<br><br>WHY YOU’LL LOVE IT<br><br>* Find the name of any song in seconds.<br>* Listen and add to Apple Music playlists.<br>* Follow along with time-synced lyrics.<br>* Watch music videos from Apple Music or YouTube.<br>* Enable Dark theme on Shazam.<br><br><br>SHAZAM ANYWHERE, AT ANYTIME<br><br>* Use Pop-up Shazam to identify music in any app - Instagram, YouTube, TikTok... <br>* No connection? No problem! Shazam while offline.<br>* Turn on Auto Shazam to keep finding songs even when you leave the app.<br><br><br>WHAT ELSE?<br><br>* Find out what is popular in your country or city with Shazam charts.<br>* Get recommended songs and playlists to discover new music.<br>* Open any song directly in Spotify, Apple Music or YouTube Music.<br>* Share songs with friends through Snapchat, Facebook, WhatsApp, Instagram, Twitter and more.<br><br>THOUSANDS OF 5-STAR REVIEWS!<br><br>Availability and features may vary by country.<br>For more information on Shazam’s privacy practices, please read the Privacy Policy, available at https://www.apple.com/legal/privacy/.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ANjzWqkVDj_rL1xHS5BdA0rq18vq8VwmHIGs8ovo0qGRJxyfcM-tDmxAVWAidiTGbIE",
+            "supportsFifeUrlOptions": true,
+            "color": "#2CC1FF"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2161,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/KzffbWKrijJ5WKKR6I3iEoELkt7LW6yjYkTUJHCm2QQskWdzDuccxP3NWntacYAnB_k",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2161,
+                "height": 3840
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/S7LldNz31HzdpmRkJWbw2WQoqb9emQZjhMocMo9ppthW6OwbvA3K7U9TQRxblzI3VXnF",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2158,
+                "height": 3838
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ylKd_8Dj6zQkdhLxR2TVmoXBQ3B3nXmpgpROzuqup2RlVtcMG-ZmIGaOEG2eN0Iudw",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2158,
+                "height": 3836
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/r2aQs5r_jnqEc1DQCRnfPjEhpH_Adqw60we7kReYylUssw23xN9c95MdxkiNcFYbOA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 2158,
+                "height": 3839
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/sH2dhBuL1HRYRsw0n55XfGlqeZILxvosCL3YU0Aeq5qJ0hCnW8HqlpGiSwO4oldBbYc",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Apple, Inc.",
+            "versionCode": 1104400,
+            "versionString": "11.44.0-210916",
+            "installationSize": "8591358",
+            "permission": [
+                "android.permission.ACCESS_COARSE_LOCATION",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.google.android.providers.gsf.permission.READ_GSERVICES",
+                "com.shazam.android.permission.SHARE"
+            ],
+            "developerEmail": "support@apple.com",
+            "developerWebsite": "https://www.shazam.com/",
+            "numDownloads": "500,000,000+ downloads",
+            "packageName": "com.shazam.android",
+            "recentChangesHtml": "Thanks for Shazaming! We’re always working hard to make the app faster and better than ever. Update to the most recent version to enjoy the latest and greatest Shazam.<br><br>Don’t forget to keep your Shazams safe and in sync between your devices. Simply create an account and we’ll back up your Shazams so you’ll never lose them.<br><br>Love the app? Rate us! Your feedback is music to our ears, and it helps us make Shazam even better.",
+            "uploadDate": "Sep 20, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 1104400,
+                    "size": "6924204"
+                },
+                {
+                    "fileType": 0,
+                    "versionCode": 1104400,
+                    "size": "429258"
+                },
+                {
+                    "fileType": 0,
+                    "versionCode": 1104400,
+                    "size": "49561"
+                },
+                {
+                    "fileType": 0,
+                    "versionCode": 1104400,
+                    "size": "1188335"
+                }
+            ],
+            "unstable": true,
+            "dependencies": {
+                "unknown1": 2,
+                "unknown2": "8591358",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 30
+            },
+            "developerAddress": "Apple Inc.<br/>One Apple Park Way<br/>Cupertino, CA 95014<br/>USA"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.8250732421875,
+        "ratingsCount": "5058702",
+        "oneStarRatings": "46575",
+        "twoStarRatings": "19404",
+        "threeStarRatings": "90301",
+        "fourStarRatings": "459782",
+        "fiveStarRatings": "4442637",
+        "commentCount": "923801"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.apple.com/legal/privacy/",
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "<a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        }
+    },
+    "detailsUrl": "details?doc=com.shazam.android",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.shazam.android",
+    "reviewsUrl": "rev?doc=com.shazam.android&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Apple, Inc."
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "support@apple.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Apple Inc.<br/>One Apple Park Way<br/>Cupertino, CA 95014<br/>USA"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Find artists, lyrics, & videos for free! Play or connect to stream music now!",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.shazam.android"
+}

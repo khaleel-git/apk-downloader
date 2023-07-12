@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/go.day.liveresult/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%20:%20%D8%AA%D9%88%D9%82%D9%8A%D8%AA%20%D9%86%D8%AA_6.2.1_apkcombo.com.apk?ecp=Z28uZGF5LmxpdmVyZXN1bHQvNi4yLjEvMjguNTA3OWNkMWMyN2U4Yzg2OWNmMDdmYWZlMzRjM2ZhZWFhOGZhMTUyNC5hcGs=&iat=1665803980&sig=09bb7145ef05fade32338310777da304&size=5369178&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/go.day.liveresult/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%20:%20%D8%AA%D9%88%D9%82%D9%8A%D8%AA%20%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%20%D9%88%20%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA_6.2.1_apkcombo.com.apk?ecp=Z28uZGF5LmxpdmVyZXN1bHQvNi4yLjEvMjguNTA3OWNkMWMyN2U4Yzg2OWNmMDdmYWZlMzRjM2ZhZWFhOGZhMTUyNC5hcGs=&iat=1658364260&sig=4e034cfb026b4eeac94f0552dd1a91ad&size=5369178&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

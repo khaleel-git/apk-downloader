@@ -1,0 +1,221 @@
+{
+    "docid": "mobi.mangatoon.comics.aphone",
+    "backendDocid": "mobi.mangatoon.comics.aphone",
+    "docType": 1,
+    "backendId": 3,
+    "title": "MangaToon-Good comics, Great stories",
+    "creator": "MangaToon",
+    "descriptionHtml": "MangaToon is a free app for reading comics, manhua, manhwa &amp; manga. All the comics are colorful. Different comics in Action, Romance, Boys&#39; love, Comedy, Horror and more, are updated daily.<br><br>[MangaToon Features]<br><br>► The hottest comics updated daily. Read dozens of HD comics such as romance, action comics, BL manga, etc. All the comics are updated regularly. Some comics are even updated every day. That means 7 chapters a week. Some Korean comics can be read on Manga toon now.<br><br>► Free Comics Release every week. New comics will be released every week. We provide free comics. Subscribe to your favorite comics and you will never miss an update. Most comics are free and MangaToon also provides pay-per-view comics.<br><br>► You can download your favorite comics and read them offline.<br><br>► We optimized the manga reader for mobile phones. You can scroll smoothly for an uninterrupted reading experience.<br><br>► You can read comics in English, Bahasa Indonesia, Vietnamese, Spanish, Thai and Portuguese now.  MangaToon will support more languages for comic lovers in the near future.<br><br>► Write your own stories in mangatoon and share with millions of readers. We will choose the most popular novels to be converted into comics.You can even create and read engaging chat stories in your phones, get more fans!<br><br>One comic one world. MangaToon, help you step into a different world!<br><br>Tips: If you want to read comics in other languages, please re-select the language in Settings. English, Indonesian, Vietnamese, Spanish, Thai and Portuguese are supported now.<br><br>Facebook: https://www.facebook.com/MangaToonEN/<br>Contact us by Email: support@mangatoon.mobi",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/3glAwdJgw3_7HH-qxEQ9Vg00KIjqt6W85xYEX3oEwkaxwkLeFEmO0aus64VSaF9nt8Lc",
+            "supportsFifeUrlOptions": true,
+            "color": "#FF7066"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/T2YdtJJZ99-AQeqFpe747akm7FnSx0YLwut3HSTeT7fiQjE2QtM_W_O5oQ8Nnm3Sw-gt",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/cF4yedrOwHpfCJS__cAP5tN5gn5ulnbfLl8t0xK_3AQ-1oOUcH0ENEcapLzsvWclwjM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/izlvGc5SAdrvU0iiODBgrAMfKd8Ay78b0QNM3c6HRqAzemO6WjlUzXkgbuUGqLchfBI",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/XtwjelJUw_-5Mb2ikxkOD707lIktEEywk2lW6m49aoSE4OEd45e3HCa_LMTJid8ODQSb",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/S3Q2kq6RoUfuROtnatl4x6wNqi4ND4Hhbi6qpW7O5wdTba_LOnjOsv_rsPCFSswZluA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/AQ_XFyjSGzE7_QYvy1laOJ3kDx5tivRmOyeJ97h8DFtP_QEhNFV5uUgoNtWVsTzsyQ",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "MangaToon",
+            "versionCode": 7167,
+            "versionString": "2.02.05",
+            "installationSize": "42144651",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_NOTIFICATION_POLICY",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.BLUETOOTH",
+                "android.permission.CAMERA",
+                "android.permission.CHANGE_WIFI_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.VIBRATE",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.android.vending.BILLING",
+                "com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+                "com.zing.zalo.permission.ACCESS_THIRD_PARTY_APP_AUTHORIZATION",
+                "mobi.mangatoon.comics.aphone.permission.MIPUSH_RECEIVE"
+            ],
+            "developerEmail": "mangatoon.app@gmail.com",
+            "developerWebsite": "https://mangatoon.mobi",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "mobi.mangatoon.comics.aphone",
+            "recentChangesHtml": "Bug fixes to improve user experience.<br>You can comment on the paragraph of Chat Story now!",
+            "uploadDate": "Sep 18, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 7167,
+                    "size": "42144651"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "42144651",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "testingProgramInfo": {
+                "subscribed": false,
+                "subscribed1": false
+            },
+            "developerAddress": "Unit 3A-8, 12/F, Kaiser Centre, No.18 Centre Street, Sai Ying Pun, Hong Kong"
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.155393600463867,
+        "ratingsCount": "526589",
+        "oneStarRatings": "60193",
+        "twoStarRatings": "20670",
+        "threeStarRatings": "36521",
+        "fourStarRatings": "68929",
+        "fiveStarRatings": "340273",
+        "commentCount": "229070"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://h5.mangatoon.mobi/privacy/index",
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Diverse Content: Discretion Advised<br/>Users Interact, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        }
+    },
+    "detailsUrl": "details?doc=mobi.mangatoon.comics.aphone",
+    "shareUrl": "https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone",
+    "reviewsUrl": "rev?doc=mobi.mangatoon.comics.aphone&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $269.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "MangaToon"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "mangatoon.app@gmail.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "Unit 3A-8, 12/F, Kaiser Centre, No.18 Centre Street, Sai Ying Pun, Hong Kong"
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Jul 8, 2018"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Global App for Reading Comic Manga and Novel",
+    "reviewQuestionsUrl": "reviewQuestions?doc=mobi.mangatoon.comics.aphone"
+}

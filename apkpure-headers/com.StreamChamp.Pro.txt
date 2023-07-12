@@ -1,16 +1,16 @@
 0: HTTP/1.1 302 Found
-Date: Wed, 12 Jul 2023 00:04:02 GMT
-Date: Wed, 12 Jul 2023 00:04:02 GMT
+Date: Wed, 12 Jul 2023 00:34:57 GMT
+Date: Wed, 12 Jul 2023 00:34:57 GMT
 Content-Type: text/html; charset=utf-8
 Content-Type: application/vnd.android.package-archive
 Transfer-Encoding: chunked
 Connection: close
 Connection: close
-Location: https://d-13.winudf.com/b/APK/Y29tLlN0cmVhbUNoYW1wLlByb18xXzM0ODdiOTQ2?_fn=U3RyZWFtQ2hhbXA6IFN0cmVhbWluZyBBcHBfMS4wX0Fwa3B1cmUuYXBr&_p=Y29tLlN0cmVhbUNoYW1wLlBybw%3D%3D&is_hot=false&k=77ead0fa5297b117039f2e54948f55cb64af3f72
+Location: https://d-13.winudf.com/b/APK/Y29tLlN0cmVhbUNoYW1wLlByb18xXzM0ODdiOTQ2?_fn=U3RyZWFtQ2hhbXA6IFN0cmVhbWluZyBBcHBfMS4wX0Fwa3B1cmUuYXBr&_p=Y29tLlN0cmVhbUNoYW1wLlBybw%3D%3D&is_hot=false&k=fb5696a9c9e758367e00c8977cfceb8564af46b1
 CF-Cache-Status: DYNAMIC
 Server: cloudflare
 Server: openresty
-CF-RAY: 7e5506c42808a211-YYZ
+CF-RAY: 7e55340f8b5839ea-YYZ
 1: HTTP/1.1 200 OK
 Content-Length: 12114101
 x-rgw-object-type: Normal

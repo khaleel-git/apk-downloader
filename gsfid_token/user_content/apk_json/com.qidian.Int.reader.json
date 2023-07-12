@@ -1,0 +1,253 @@
+{
+    "docid": "com.qidian.Int.reader",
+    "backendDocid": "com.qidian.Int.reader",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Webnovel",
+    "creator": "Cloudary",
+    "descriptionHtml": "1) Massive Exclusive Comics and Novels<br>Discover our library of exclusive novels such as The Supreme Magus, Young Master Damien’s Pet, Nanomance Reborn, and tremendous translated novels like Library of heaven’s path, Lord of the Mysteries, Full Marks Hidden Marriage, as well as numerous adapted comics.<br><br>Read scenes from your favorite Webnovels, such as The King’s Avatar, Release that witch, and Battle Frenzy. Come to life as you jump into a wonderous world full-filed with comic and novel.<br> <br>2)Quick Daily Updates<br>Join our millions of readers, looking forward to the Webnovel daily-updated chapters. The Webnovel brings you an unequal and immersive comic-reading and novel-reading atmosphere.<br><br>3) Active community That Loves To Read<br>Webnovel attracts over a million readers and authors who dedicate all passions of reading and writing. No matter you like reading translated Webnovel or the original one, a romance novel, or Fantasy novel, with sharing common interests of reading, readers and authors come together, regardless of genre. Download Webnovel now. Start your reading or writing journey and be part of a fun-loving and active community.<br><br>4) Share Your Story and Gather Your Fans<br>Join with thousands of aspiring authors. Start you journey, telling your stories on the Webnovel. “The journey of a thousand miles begins with a single step.”  Join our bi-weekly writing prompt contest and publish your novel with our matchmaking system to millions of readers who share a similar interest in your genre. Find your voice and share you message with the world.<br><br><br>*****Follow us*****<br>Twitter : https://twitter.com/webnovel<br>IG : https://www.instagram.com/thewebnovel/<br>FB : https://www.facebook.com/webnovel/<br>Website : https://www.webnovel.com/<br>Forum : https://forum.webnovel.com/<br>Discord: https://discordapp.com/invite/AeYDMQw",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": false,
+            "offerType": 1,
+            "message": "Buy"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "dimension": {
+                "width": 1024,
+                "height": 500
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/vZ56rz_AHa0lCE6L9U33J00ipQM7EVrpFAVgpKlsBgi6QsTR6Fj8wInwVclFeecDBg",
+            "supportsFifeUrlOptions": true,
+            "color": "#5154A3"
+        },
+        {
+            "imageType": 4,
+            "dimension": {
+                "width": 512,
+                "height": 512
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/SSEuGqDVtYwHKRDd35c3dRH1ImB1p35b7Ey5eBToXlz7yuKcqn6GgoYjrSqo9gPCnQ",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 3,
+            "imageUrl": "https://www.youtube.com/watch?v=u-SRh0hx_70"
+        },
+        {
+            "imageType": 13,
+            "imageUrl": "https://i.ytimg.com/vi/u-SRh0hx_70/hqdefault.jpg",
+            "supportsFifeUrlOptions": false
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/erWAVc5vGSLpFLqpzah2OB72COh_sxT84Mrmb7o5aRXxUxXlxzO3gKycQIMLzSyvhG8",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/e7_KD-2W31dgzU8PZbtXoCcw8nMvrV9z3DoNxlsD9F1kPsio8DGi4DEJCLrKENBfhKKj",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/fxoSe2uL14oebGvtkIVAnpD0BQWp6eG6pOwzmzfiqHJpobNc0fu9tKqzTdevd2cTcDY",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/ag2wnscBpv8DgP3s6BpYZ59G_EaR-ZioDCcEc7plVmgNP9mUpvftc9GmZTqdrLAWDA",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/gEJmefNdG8rbXCkE0RWoGJKFBvUoAjUClkrOJ2B5KlEK1vh1pB9LcyqZafAq7W9_a5UB",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/Y_RTG--KaH959tN0thWNod2rzcA-sPFpOJl4VCl-rRuFPl_K3w24nmqbQ7I-QcrKInM",
+            "supportsFifeUrlOptions": true
+        },
+        {
+            "imageType": 1,
+            "dimension": {
+                "width": 1080,
+                "height": 1920
+            },
+            "imageUrl": "https://play-lh.googleusercontent.com/iW1L1UUpyQtfnaSaKFn22xkinEah9xk6Odhm3gOa4A2NOGevH1rfbQWFmYveFZu1AXc",
+            "supportsFifeUrlOptions": true
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Cloudary",
+            "versionCode": 571,
+            "versionString": "5.5.1",
+            "installationSize": "60413286",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.CAMERA",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.REQUEST_INSTALL_PACKAGES",
+                "android.permission.SYSTEM_ALERT_WINDOW",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.vending.BILLING",
+                "com.google.android.c2dm.permission.RECEIVE",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+                "com.samsung.android.iap.permission.BILLING"
+            ],
+            "developerEmail": "service@webnovel.com",
+            "developerWebsite": "https://www.webnovel.com",
+            "numDownloads": "10,000,000+ downloads",
+            "packageName": "com.qidian.Int.reader",
+            "recentChangesHtml": "1. Interactive system optimization",
+            "uploadDate": "Sep 17, 2021",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 571,
+                    "size": "32733377"
+                },
+                {
+                    "fileType": 0,
+                    "versionCode": 571,
+                    "size": "27359683"
+                },
+                {
+                    "fileType": 0,
+                    "versionCode": 571,
+                    "size": "186643"
+                },
+                {
+                    "fileType": 0,
+                    "versionCode": 571,
+                    "size": "133583"
+                }
+            ],
+            "unstable": true,
+            "hasInstantLink": true,
+            "containsAds": "Contains ads",
+            "dependencies": {
+                "unknown2": "60413286",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "developerAddress": "5301, 53/F., The Center, 99 Queen's Road Central, Hong Kong."
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.089417457580566,
+        "ratingsCount": "251892",
+        "oneStarRatings": "25358",
+        "twoStarRatings": "11471",
+        "threeStarRatings": "21844",
+        "fourStarRatings": "49829",
+        "fiveStarRatings": "143387",
+        "commentCount": "106935"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.webnovel.com/privacy_policy",
+        "rated": {
+            "label": "Teen",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 512
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/mw_NfsvKM8m6RPv8Fz2GQawCOsqWv010saMnc7zbWalMxuaA9IY8h7E0VMieLxSxAFB98NFeYqbFrXXq",
+                "supportsFifeUrlOptions": true
+            },
+            "learnMoreHtmlLink": "Diverse Content: Discretion Advised<br/>Users Interact, In-App Purchases<br/><a href=\"https://support.google.com/googleplay?p=appgame_ratings\">Learn more</a>"
+        }
+    },
+    "detailsUrl": "details?doc=com.qidian.Int.reader",
+    "shareUrl": "https://play.google.com/store/apps/details?id=com.qidian.Int.reader",
+    "reviewsUrl": "rev?doc=com.qidian.Int.reader&n=20",
+    "detailsReusable": true,
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "In-app purchases",
+                "container": {
+                    "value": "$0.99 - $149.99 per item"
+                }
+            },
+            {
+                "label": "Offered by",
+                "container": {
+                    "value": "Cloudary"
+                }
+            },
+            {
+                "label": "Developer e-mail",
+                "container": {
+                    "value": "service@webnovel.com"
+                }
+            },
+            {
+                "label": "Developer address",
+                "container": {
+                    "value": "5301, 53/F., The Center, 99 Queen's Road Central, Hong Kong."
+                }
+            },
+            {
+                "label": "Released on",
+                "container": {
+                    "value": "Apr 6, 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "So many great fantasy and romance webnovels here!",
+    "reviewQuestionsUrl": "reviewQuestions?doc=com.qidian.Int.reader"
+}

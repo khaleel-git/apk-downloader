@@ -1,0 +1,7 @@
+com.full.hd.video.player.zplayer
+com.cams.vtech.mvb
+com.nadigapp.screenrecorder
+com.aljamatapps.hd.video.full.player
+uk.adevstudio.hd.video.player4k
+com.videosforfreeview.player
+com.fullhdscreen.recorder1080p3060fps

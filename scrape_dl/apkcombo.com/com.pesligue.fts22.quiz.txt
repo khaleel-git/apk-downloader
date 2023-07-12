@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.pesligue.fts22.quiz/Fts%202022%20Football%20Riddle_1.0.2_apkcombo.com.apk?ecp=Y29tLnBlc2xpZ3VlLmZ0czIyLnF1aXovMS4wLjIvMi5lMTIyYWJmNTIwMThkOWZjMjI4NTRhNmRlMDZhNmYxNzk5YzlmMzZlLmFwaw==&iat=1665678298&sig=0bd6a1d00f34472b6e5805de6e429238&size=62337688&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.pesligue.fts22.quiz/Fts%202022%20Football%20Riddle_1.0.2_apkcombo.com.apk?ecp=Y29tLnBlc2xpZ3VlLmZ0czIyLnF1aXovMS4wLjIvMi5lMTIyYWJmNTIwMThkOWZjMjI4NTRhNmRlMDZhNmYxNzk5YzlmMzZlLmFwaw==&iat=1659165039&sig=19880d55ae9f08147a05f8bdff5f334f&size=62337688&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

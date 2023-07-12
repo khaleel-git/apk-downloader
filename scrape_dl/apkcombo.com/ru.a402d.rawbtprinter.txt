@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/ru.a402d.rawbtprinter/RawBT%20print%20service_5.61.1_apkcombo.com.apk?ecp=cnUuYTQwMmQucmF3YnRwcmludGVyLzUuNjEuMS8xNjEuZWRjMDU1MTJiOWRlMDlmMmY1NWE3ZTg4NDQyN2U3OTE0NzMxNDIwYy5hcGs=&iat=1663605153&sig=9e71b041194475b29d9af9a07094a415&size=9248441&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/ru.a402d.rawbtprinter/RawBT%20print%20service_5.55.1_apkcombo.com.apk?ecp=cnUuYTQwMmQucmF3YnRwcmludGVyLzUuNTUuMS8xNTYuZWIxNWFkZGI4NTZmNGE5M2I1M2QyYTU0NWEwYTllNzQ0NGRkMmQ4MC5hcGs=&iat=1657052438&sig=60789ad4027251cc1ceb69f66a32f602&size=7854170&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.viva.vivamax/Vivamax_4.24.8_apkcombo.com.apk?ecp=Y29tLnZpdmEudml2YW1heC80LjI0LjgvMjAyMjA4MTAxLjEzZjM4YjAwNTRkYmQ4ZTA5ZGYzNGFiZjNhZTIzYjQwNzc2ZWI4ZWEuYXBr&iat=1666027080&sig=c8f1f1a57a65a76ea4f18211d3356599&size=19075803&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.viva.vivamax/Vivamax_4.23.1_apkcombo.com.apk?ecp=Y29tLnZpdmEudml2YW1heC80LjIzLjEvMjAyMjA1MjUxLmQ0MDk5MDk2OTRmYzg4NGU5MTk1OWQwM2M2NjlhNzgyYzZkYmI4NjEuYXBr&iat=1656231181&sig=03f22c8ebc999a1490b6626aae826256&size=19042785&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/tw.com.youbike.plus/YouBike%E5%BE%AE%E7%AC%91%E5%96%AE%E8%BB%8A2.0%20%E5%AE%98%E6%96%B9%E7%89%88_2.1.1_apkcombo.com.apk?ecp=dHcuY29tLnlvdWJpa2UucGx1cy8yLjEuMS81ODEuNTc2MmZlOGY5YzhlMzAwYTZhYmE2YjU3NzgxODYzNjk0Y2I4Y2Y5MS5hcGs=&iat=1662719541&sig=008af203a0bfce17c8b8956633e1651f&size=104998434&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/tw.com.youbike.plus/YouBike%E5%BE%AE%E7%AC%91%E5%96%AE%E8%BB%8A2.0%20%E5%AE%98%E6%96%B9%E7%89%88_2.1.0_apkcombo.com.apk?ecp=dHcuY29tLnlvdWJpa2UucGx1cy8yLjEuMC81NjYuM2MwMzBiYjIwNmFlNjlhZjgxNjc2OWVlMTAxNDFlYjE0OWM0ZDFkNC5hcGs=&iat=1657472594&sig=5879630621912b8182701b379c99e897&size=104916514&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

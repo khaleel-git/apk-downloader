@@ -1,0 +1,36 @@
+<br />
+<b>Notice</b>: Undefined offset: 2 in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>33</b><br />
+<br><br />
+<b>Notice</b>: Undefined offset: 2 in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>35</b><br />
+<br />
+<b>Notice</b>: file_get_contents(): read of 8192 bytes failed with errno=21 Is a directory in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>35</b><br />
+<br />
+<b>Notice</b>: Trying to access array offset on value of type null in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/publish.php</b> on line <b>3</b><br />
+<br />
+<b>Notice</b>: Trying to access array offset on value of type null in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/publish.php</b> on line <b>3</b><br />
+<br> check: 53787344<br><br>Stop! This post exists with post-id: 53787344 <br><br />
+<b>Warning</b>: unlink(/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/Games_content/.json): No such file or directory in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>39</b><br />
+<br />
+<b>Notice</b>: Undefined offset: 3 in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>33</b><br />
+<br><br />
+<b>Notice</b>: Undefined offset: 3 in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>35</b><br />
+<br />
+<b>Notice</b>: file_get_contents(): read of 8192 bytes failed with errno=21 Is a directory in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>35</b><br />
+<br />
+<b>Notice</b>: Trying to access array offset on value of type null in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/publish.php</b> on line <b>3</b><br />
+<br />
+<b>Notice</b>: Trying to access array offset on value of type null in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/publish.php</b> on line <b>3</b><br />
+<br> check: 53787344<br><br>Stop! This post exists with post-id: 53787344 <br><br />
+<b>Warning</b>: unlink(/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/Games_content/.json): No such file or directory in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>39</b><br />
+<br />
+<b>Notice</b>: Undefined offset: 4 in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>33</b><br />
+<br><br />
+<b>Notice</b>: Undefined offset: 4 in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>35</b><br />
+<br />
+<b>Notice</b>: file_get_contents(): read of 8192 bytes failed with errno=21 Is a directory in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>35</b><br />
+<br />
+<b>Notice</b>: Trying to access array offset on value of type null in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/publish.php</b> on line <b>3</b><br />
+<br />
+<b>Notice</b>: Trying to access array offset on value of type null in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/publish.php</b> on line <b>3</b><br />
+<br> check: 53787344<br><br>Stop! This post exists with post-id: 53787344 <br><br />
+<b>Warning</b>: unlink(/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/Games_content/.json): No such file or directory in <b>/home/apkfuel/public_html/apk-downloader/scrape_sites/apkpure.com/start_posting/games/start.php</b> on line <b>39</b><br />

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.toluna.webservice/Toluna%20Influencers_4.4.4_apkcombo.com.apk?ecp=Y29tLnRvbHVuYS53ZWJzZXJ2aWNlLzQuNC40LzE2NTc3ODMwNzUuMWEyMjYwZTAzMjlhMWEwYWQxZDkyZjViZmUwYzBkNDRhNWYzNTMzZS5hcGs=&iat=1662293629&sig=da82b7a58eabc35ccea6888233b020d6&size=43045598&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.toluna.webservice/Toluna%20Influencers_4.4.2_apkcombo.com.apk?ecp=Y29tLnRvbHVuYS53ZWJzZXJ2aWNlLzQuNC4yLzE2NTU4MjA2MTUuOTM4YWE1YjVjYTk5ZDczNmIyYTZjMTdiZjczNzM3ZGFkNjUwZTc2OC5hcGs=&iat=1656860824&sig=914c769f7d18618b5c4eac47ae885af2&size=43041502&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.crashinvaders.jollypet/Jolly%20Pet_1.0_apkcombo.com.apk?ecp=Y29tLmNyYXNoaW52YWRlcnMuam9sbHlwZXQvMS4wLzUuM2IwZDQ3NDU5MGQ0Yzg2NWViZmE5M2E1OWVkYTI4NGNhNzY1NTc1Ni5hcGs=&iat=1663242399&sig=6167e687e0ed4c5ab78f9345c25354cf&size=14166378&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.crashinvaders.jollypet/Jolly%20Pet_1.0_apkcombo.com.apk?ecp=Y29tLmNyYXNoaW52YWRlcnMuam9sbHlwZXQvMS4wLzUuM2IwZDQ3NDU5MGQ0Yzg2NWViZmE5M2E1OWVkYTI4NGNhNzY1NTc1Ni5hcGs=&iat=1658805912&sig=a1058a9e434c3a5b47567fc9ddad4ba8&size=14166378&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

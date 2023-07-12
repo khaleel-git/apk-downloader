@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/org.mangawatcher2/Manga%20Watcher%20X_3.1.6.0_apkcombo.com.apk?ecp=b3JnLm1hbmdhd2F0Y2hlcjIvMy4xLjYuMC80MTMuZjA4NTYyZWJhM2Y0N2JkNmQzNDdhNTIyYWU4YjM2YjRlZjkwYjZlNi5hcGs=&iat=1664692090&sig=39461741e9ebfd9e12fca7e391a40264&size=17398247&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/org.mangawatcher2/Manga%20Watcher%20X_3.1.6.0_apkcombo.com.apk?ecp=b3JnLm1hbmdhd2F0Y2hlcjIvMy4xLjYuMC80MTMuZjA4NTYyZWJhM2Y0N2JkNmQzNDdhNTIyYWU4YjM2YjRlZjkwYjZlNi5hcGs=&iat=1658072226&sig=65130426892ac92dd175e5f9d9e20490&size=17398247&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master

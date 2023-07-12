@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://download.apkcombo.com/com.heagoo.apkeditor/APK%20Editor%20Pro_1.3.28_apkcombo.com.apk?ecp=Y29tLmhlYWdvby5hcGtlZGl0b3IvMS4zLjI4LzM1LmY1NmUxN2QzNTY4YmE0MzBmMTczYTg5NDlmYzg1MDJmZDUwNDFlMDguYXBr&iat=1662230816&sig=02088d67e37cef4c07698ce290cfa273&size=7030531&from=cf&version=latest&lang=en&fp=1234
+=======
+https://download.apkcombo.com/com.heagoo.apkeditor/APK%20Editor%20Pro_1.3.28_apkcombo.com.apk?ecp=Y29tLmhlYWdvby5hcGtlZGl0b3IvMS4zLjI4LzM1LmY1NmUxN2QzNTY4YmE0MzBmMTczYTg5NDlmYzg1MDJmZDUwNDFlMDguYXBr&iat=1657998144&sig=026bf76442f0bb917d76b0b0c11e788e&size=7030531&from=cf&version=latest&lang=en&fp=1234
+>>>>>>> origin/master
